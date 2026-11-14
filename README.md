@@ -37,3 +37,9 @@ npx wrangler deploy
 GitHub 저장소를 Cloudflare Workers Builds 에 연결해 두면 `main` 에 push 할 때마다 자동 배포됩니다.
 
 > 기사 글·사진의 저작권은 멜론(카카오엔터테인먼트)에 있으며, 각 기사 하단에 원문 링크를 제공합니다.
+
+## 매일 자동 갱신
+`.github/workflows/daily-refresh.yml` 이 매일 오전 7시(KST)에 최신 기사를 가져와, 바뀐 게 있으면 커밋하고 Cloudflare 에 배포합니다.
+Actions 탭 → **매일 최신 기사 갱신** → **Run workflow** 로 바로 실행할 수도 있습니다.
+
+배포에는 저장소 시크릿 `CLOUDFLARE_API_TOKEN` 이 필요합니다 (Cloudflare 대시보드 → My Profile → API Tokens → *Edit Cloudflare Workers* 템플릿으로 생성).

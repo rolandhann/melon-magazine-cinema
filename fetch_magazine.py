@@ -135,6 +135,10 @@ def main():
             print(f"[{i}/{len(listing)}] {a['seq']} 건너뜀: {e}")
         time.sleep(0.4)   # 멜론 서버에 부담 주지 않게 천천히
 
+    if len(articles) < min(3, COUNT):
+        # 멜론 접속 실패 등으로 거의 못 가져왔으면 기존 파일을 지키고 실패로 끝냅니다 (빈 영화관 방지)
+        raise SystemExit(f"기사를 {len(articles)}개밖에 못 가져와서 magazine.js 를 바꾸지 않았어요.")
+
     data = {"fetchedAt": time.strftime("%Y-%m-%d %H:%M"), "articles": articles}
     OUT.write_text(
         "// fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.\n"

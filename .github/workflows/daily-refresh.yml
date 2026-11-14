@@ -1,0 +1,55 @@
+name: 매일 최신 기사 갱신
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 매일 오전 7시 (한국 시간) — GitHub 사정으로 몇십 분 늦게 실행될 수 있어요
+  workflow_dispatch:        # Actions 탭에서 'Run workflow' 버튼으로 지금 바로 실행
+
+permissions:
+  contents: write
+
+concurrency: daily-refresh
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 멜론 매거진 최신 기사 가져오기
+        run: python3 fetch_magazine.py 12
+
+      - name: 바뀐 기사가 있으면 저장 (GitHub)
+        id: commit
+        run: |
+          # 수집 시각(fetchedAt)만 바뀐 경우는 무시
+          if git diff --quiet -I '"fetchedAt"' -- public/magazine.js; then
+            echo "새 기사 없음"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/magazine.js
+          git commit -m "기사 자동 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: 사이트에 반영 (Cloudflare 배포)
+        if: steps.commit.outputs.changed == 'true' && env.CF_TOKEN != ''
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: d618fe3bb59e202b8d8b99f48cf96bce
+          wranglerVersion: '4.161.0'
+          command: deploy
+
+      - name: 배포 토큰 안내
+        if: steps.commit.outputs.changed == 'true' && env.CF_TOKEN == ''
+        run: echo "::warning::CLOUDFLARE_API_TOKEN 시크릿이 없어 GitHub 에만 저장했어요. 사이트에 반영하려면 README 의 '매일 자동 갱신' 안내대로 토큰을 등록하세요."
