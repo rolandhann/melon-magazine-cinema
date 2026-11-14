@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 22 * * *'   # 매일 오전 7시 (한국 시간) — GitHub 사정으로 몇십 분 늦게 실행될 수 있어요
   workflow_dispatch:        # Actions 탭에서 'Run workflow' 버튼으로 지금 바로 실행
+    inputs:
+      force_deploy:
+        description: '새 기사가 없어도 사이트에 배포'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -42,7 +47,7 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: 사이트에 반영 (Cloudflare 배포)
-        if: steps.commit.outputs.changed == 'true' && env.CF_TOKEN != ''
+        if: (steps.commit.outputs.changed == 'true' || inputs.force_deploy) && env.CF_TOKEN != ''
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -51,5 +56,5 @@ jobs:
           command: deploy
 
       - name: 배포 토큰 안내
-        if: steps.commit.outputs.changed == 'true' && env.CF_TOKEN == ''
+        if: (steps.commit.outputs.changed == 'true' || inputs.force_deploy) && env.CF_TOKEN == ''
         run: echo "::warning::CLOUDFLARE_API_TOKEN 시크릿이 없어 GitHub 에만 저장했어요. 사이트에 반영하려면 README 의 '매일 자동 갱신' 안내대로 토큰을 등록하세요."
