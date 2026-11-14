@@ -1,6 +1,6 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-14 11:18",
+ "fetchedAt": "2026-11-14 02:55",
  "articles": [
   {
    "seq": 17380,
@@ -162,104 +162,71 @@ export const MAGAZINE = {
    ]
   },
   {
-   "seq": 17378,
+   "seq": 17374,
    "date": "2026.11.13",
-   "title": "한 눈에 보는 11월 둘째 주 빌보드 소식",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17378",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/06/5f7/imgUrl20261111041351869.jpg/melon/quality/90/optimize",
+   "title": "UCC에서 AI로, 변화하는 K팝 챌린지",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17374",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f0/487/imgUrl20261110031737121.jpg/melon/quality/90/optimize",
    "blocks": [
     {
+     "type": "p",
+     "text": "오늘날의 K팝 문화는 챌린지를 떼어놓고 생각할 수 없습니다. 숏폼 플랫폼을 타고 퍼져 나가는 짧은 영상들은 이제 음악을 즐기는 주된 방법으로 자리를 잡았는데요. 세월의 흐름과 매체의 변화에 따라 K팝 신의 챌린지 방식 역시 끊임없이 진화해 왔습니다.\n\n이번 매거진에서는 초창기 대중 참여형 동영상 문화의 시작점부터 인공지능 기술이 결합된 최신 트렌드까지, 시간에 따라 변화해 온 챌린지의 주요 분기점과 그 순간을 빛낸 대표곡들을 함께 살펴보려 합니다. K팝의 시대를 관통하며 변화해 온 놀이 문화의 서사를 지금 바로 찾아가 볼까요?"
+    },
+    {
      "type": "h",
-     "label": "금주의 빌보드 소식",
-     "text": "2026년 11월 둘째 주"
+     "label": "2007년",
+     "text": "UCC 시대, 손짓 하나로 전국을 흔들다"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/e58/imgUrl20261111041410051.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/7b9/imgUrl20261110032442075.jpg"
     },
     {
      "type": "p",
-     "text": "빌보드 소식을 한 큐에 알아보는 시간!\n\n이번 주 빌보드를 뜨겁게 달군 핫 이슈들,\n그리고 전 세계인들이 주목하는\n빌보드 메인 차트 순위까지\n\n한 주간 주목할 만한 빌보드 소식들을\n짧고 굵게 정리해 드립니다.\n본문을 읽으며 추가해 둔 관련 음악들도\n함께 감상해 보세요!"
+     "text": "2000년대 후반은 일반 대중이 직접 동영상을 제작하고 공유하는 일명 UCC 문화가 본격적으로 개화하던 시기였습니다. 이 시기 챌린지식 놀이 문화의 기틀을 마련하며 사회적 신드롬을 일으킨 곡이 바로 2007년 발매된 원더걸스의 'Tell me (Sampling From 'Two Of Hearts')'였는데요. Stacey Q의 명곡을 샘플링한 경쾌한 디스코 리듬 위에 얹어진 중독성 강한 후렴구는 전 세대의 귀를 사로잡았죠.\n\n무엇보다 사람들의 마음을 움직인 건 누구나 따라 할 수 있는 포인트 안무의 힘이었습니다. 소희의 어머나 파트로 대표되는 앙증맞은 손짓과 원더우먼 동작을 응용한 안무는 패러디의 완벽한 소재가 되었는데요. 군인과 학생, 경찰과 직장인에 이르기까지 다양한 사람들이 저마다의 환경에서 영상을 찍어 올리며 하나의 유행을 만들었죠. 스스로 영상을 촬영해 플랫폼에 올려 소통하던 그 시절의 열기는 대중 참여형 챌린지 문화의 위대한 첫걸음이었다고 볼 수 있습니다."
     },
     {
      "type": "h",
-     "label": "3 HOT ISSUES",
-     "text": "한 주간 어떤 이슈가 있었을까?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- 핼러윈 열기 속 크리스마스 캐럴의 귀환"
+     "label": "2020년",
+     "text": "홍보의 기본값이 된 숏폼 챌린지의 출발점"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ef/253/imgUrl20261111041515567.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a1/95c/imgUrl20261110031845490.jpg"
     },
     {
      "type": "p",
-     "text": "통산 27주라는 놀라운 시간 동안\nElla Langley의 'Choosin' Texas'가\nHOT 100 왕좌를 지키고 있는 가운데,\n이번 주 차트에서는\n핼러윈 시즌의 이어지는 영향으로\n오싹한 분위기의 시즌송들이\n대거 상승한 점이 눈에 띄는데요.\n\n특히 Michael Jackson의\n'Thriller'는 지난주 20위에서\n2위로 무려 18계단 뛰어올랐습니다.\n1984년 3월, 4위에 오른 이후\n42년 만에 자체 최고 순위를\n새롭게 경신하게 되었네요.\n\nTame Impala의\n'Dracula (Feat. JENNIE)'도\n3위에 올라 자체 최고 순위를 새로 썼으며,\n이 밖에도 Ray Parker Jr.의\n'Ghostbusters'와\nBobby Boris Pickett & The Crypt Kickers의\n'Monster Mash'가 재진입했고,\nRockwell의 'Somebody's Watching Me'는\n14위까지 치솟았습니다.\n\nThe Citizens of Halloween의\n'This Is Halloween'과\nAndrew Gold의\n'Spooky, Scary Skeletons (Undead Tombstone Remix)' 역시\n핼러윈 시즌송으로써 존재감을 드러냈습니다.\n\n흥미로운 점은 핼러윈 열기가\n채 가시기도 전에 크리스마스 캐럴도\n차트로 돌아왔다는 것인데요.\nWHAM!의 'Last Christmas'와\nMariah Carey의\n'All I Want for Christmas Is You'가\n각각 37위와 39위로 차트에 재진입했습니다.\n\n특히 통산 22주 1위를 차지했던\nMariah Carey의 대표 캐럴이\n올해도 상승세를 이어가며\nElla Langley의 27주 1위 기록에\n얼마나 가까워질 수 있을지\n관심이 모아집니다."
+     "text": "2020년 1월 발매된 지코 (ZICO)의 '아무노래'는 숏폼 플랫폼을 활용한 현대적 챌린지의 명확한 시작점으로 꼽힙니다. 힙합과 댄스홀 요소가 가미된 경쾌한 트랙 위에서 지코 (ZICO)는 누구나 쉽게 따라 출 수 있는 간결하고 직관적인 댄스 챌린지를 제시했는데요. 동료 아티스트들과 함께 찍은 가벼운 댄스 영상은 SNS를 타고 폭발적으로 확산되며 비대면 시기 대중의 답답함을 해소해 주었습니다.\n\n'아무노래'의 흥행 이후 K팝 시장에서 챌린지는 신곡 홍보를 위한 선택이 아닌 필수이자 기본값으로 완전히 변화하게 됩니다. 숏폼 플랫폼 최적화를 위해 곡의 구성이나 후렴구 리듬을 설계하는 흐름까지 만들어질 정도였는데요. 대중이 직접 무대의 주인공이 되어 음악을 완성하는 참여형 숏폼 챌린지의 기틀을 닦았다는 점에서, 이 곡은 가요계의 지형도를 바꾼 중요한 분기점이었다고 할 수 있습니다."
     },
     {
      "type": "h",
-     "label": "",
-     "text": "- Olivia Rodrigo의 정상 탈환과 신작들의 약진"
+     "label": "2023~2025년",
+     "text": "포화 상태를 넘어선 변형과 의외의 인물들"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/61/a1c/imgUrl20261111041550075.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c7/0c9/imgUrl20261110032013973.jpg"
     },
     {
      "type": "p",
-     "text": "앨범 차트에서는 Olivia Rodrigo의\n[you seem pretty sad for a girl so in love]가\n다시 1위를 탈환했습니다.\n통산 4주째 정상을 차지한 가운데,\n차트 데뷔 이후 21주 동안\n단 한 번도 TOP 5 밖으로\n밀려나지 않는 안정적인 흐름을\n보여주고 있네요.\n\n이번 주 가장 큰 상승폭을 보인\n앨범은 Michael Jackson의\n[Thriller]입니다.\n지난주 13위에서 2위로\n껑충 뛰어올랐는데요.\n1984년 이후 가장 높은 순위로,\n핼러윈 시즌을 맞아 대표곡\n'Thriller'의 인기가 되살아난 것이\n앨범 소비에도 영향을 미친 것으로 보입니다.\n\n신작들의 활약도 이어졌습니다.\n아일릿(ILLIT)의 [BREAK EVEN]은\n6위로 진입하며 데뷔 이후\n처음으로 TOP 10에 안착했고,\nBigXthaPlug의\n[BETTER OVER TIME]도\n7위로 출발하며\n세 번째 TOP 10 앨범을 추가했습니다.\n\n한편 록 밴드 Queens Of The Stone Age는\n아홉 번째 정규 앨범 [Perfecth]로\n10위에 진입했습니다.\n가족과 친구, 사랑을 비롯한\n다양한 관계와 감정을 아홉 곡에 담았으며,\n이번 진입으로 통산 다섯 번째\nTOP 10 앨범을 탄생시켰습니다."
+     "text": "2023년부터 2025년 사이 K팝 신의 챌린지는 그야말로 포화 상태에 도달하며 수많은 변형을 낳았습니다. i-dle (아이들)의 '퀸카 (Queencard)'를 비롯해 로제 (ROSÉ)와 Bruno Mars가 협업한 'APT.', 그리고 아일릿(ILLIT)의 'Magnetic'에 이르기까지 각양각색의 챌린지가 글로벌 차트를 매료시켰죠. 단순히 포인트 안무를 따라 하는 형식을 넘어 친근한 술자리 게임이나 중독성 넘치는 핑거 댄스 등 아이디어가 돋보이는 콘셉트들이 차례로 등장했습니다.\n\n이 시기 챌린지의 또 다른 특징은 전혀 예상치 못한 인물들의 파격적인 참여였습니다. i-dle (아이들)의 활동 당시 개그우먼 팽현숙이 직접 '퀸카 (Queencard)' 챌린지에 등장해 대중에게 큰 웃음을 선사하는가 하면, 방송인 기안84가 '클락션 (Klaxon)' 챌린지에 참여하고 크리에이터 곽튜브는 보이그룹 LUN8(루네이트)의 'SUPER POWER' 안무를 함께 소화해 화제를 모으기도 했는데요. 정형화된 틀을 깨부수고 뜻밖의 인물들과 합을 맞추는 이러한 변형은 챌린지 문화의 재미를 한 단계 끌어올린 요소가 아닌가 합니다."
     },
     {
      "type": "h",
-     "label": "",
-     "text": "- 주목할 만한 아티스트는?"
+     "label": "2026년",
+     "text": "기술과의 만남, '누구를 춤추게 만들까'의 시대로"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/56/d95/imgUrl20261111041728295.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/85/245/imgUrl20261110031901648.jpg"
     },
     {
      "type": "p",
-     "text": "출처 | Olivia Dean 공식 SNS"
+     "text": "2026년에 접어들면서 챌린지 방식은 인공지능 기술의 발전과 결합해 완전히 새로운 패러다임을 마주하고 있습니다. A2O LITE의 'NEON' 관련 콘텐츠에서 프로듀서 이수만과 유영진의 모습을 AI 기술로 구현해 낸 챌린지 버전이 대표적인 사례인데요. 기술을 통해 가상의 인물이나 과거의 인물까지 무대 위로 불러내며 놀이의 범위를 크게 확장했습니다.\n\n이제 챌린지는 대중이 자기 자신의 몸으로 직접 춤을 추고 연기하는 차원에만 머무르지 않습니다. '내가 직접 춤추는 것'을 넘어 '내가 누구를 춤추게 만들까'라는 개념으로 중심축이 이동하고 있는 셈이죠. 창작자와 대중, 그리고 기술이 유기적으로 얽히며 만들어내는 이러한 변화는 K팝 놀이 문화의 새로운 가능성을 또 한번 증명하고 있습니다."
     },
     {
      "type": "p",
-     "text": "아티스트 차트에서는\nMorgan Wallen이 1위를 유지하며\n통산 44주째 정상을 지켰습니다.\n\nMichael Jackson은 지난주 7위에서\n2위로 올라섰는데요.\n'Thriller'를 비롯한 대표곡들이\n싱글 차트에서 강세를 보인 데 이어,\n앨범 [Thriller]까지 동반 상승하며\n아티스트 순위에도 영향을 미쳤습니다.\n\nBruno Mars는 9위에서 6위로,\nOlivia Dean은 11위에서 8위로\n각각 세 계단씩 상승했습니다.\n특히 Olivia Dean은 최근\n한 매체에서 2026 올해의 아티스트로\n선정되기도 했었죠.\n\nAriana Grande도 14위에서\n9위로 올라 TOP 10에 진입했습니다.\n최근 휴식기에도 불구하고\n기존 음악을 향한 관심이 이어지면서\n순위 상승으로 연결된 모습입니다.\n\n한편 Rihanna는 15위에서\n10위로 올라섰으며\n아일릿(ILLIT)과\nQueens Of The Stone Age는\n각각 12위, 16위로\n다시 차트에 모습을 드러냈습니다."
-    },
-    {
-     "type": "h",
-     "label": "빌보드 메인 차트 순위",
-     "text": "전 세계를 뒤흔든 곡, 앨범, 아티스트?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- HOT 100 차트 (싱글 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f4/395/imgUrl20261111041749747.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Billboard 200 차트 (앨범 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/23/7f1/imgUrl20261111041756049.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Artist 100 차트 (아티스트 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a5/c3c/imgUrl20261111041808859.jpg"
+     "text": "2000년대 후반 UCC 영상에서 시작된 자발적 패러디는 숏폼 시대의 댄스 챌린지를 거쳐 AI 기술 기반의 창작 영역까지 끊임없이 스펙트럼을 넓혀왔습니다. 세월이 흐르고 플랫폼의 형태는 계속 바뀌었지만, 좋은 음악을 매개로 서로 소통하고 즐거움을 나눈다는 본질만큼은 언제나 변함없이 이어지고 있는데요. 앞으로는 어떤 새로운 기술과 기발한 아이디어가 등장하여 우리의 귀와 눈을 즐겁게 만들어줄지 사뭇 기대가 됩니다."
     }
    ]
   },
@@ -587,6 +554,91 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "긴 시간 동안 그는 몇 번의 슬럼프와 약물 중독, 비판과 논란을 겪었지만 매번 자신을 증명하며 이후의 서사를 써 내려갔습니다. 그리고 이제는 Slim Shady라는 페르소나마저 죽음으로 보내며 다음 챕터를 향해 나아가고 있지요.\n\n오늘로부터 딱 30년 전, 1996년 11월 12일에 그의 언더 데뷔앨범인 [Infinite]가 세상에 나왔습니다. 당시만 해도 그는 아무도 주목하지 않던 이름 없는 래퍼였습니다. 하지만 그는 포기하지 않았고, 결국 힙합 신의 정점에 섰습니다. Eminem의 30년 디스코그래피를 돌아보며, 오늘은 그의 음악과 함께해보는 건 어떨까요?"
+    }
+   ]
+  },
+  {
+   "seq": 17365,
+   "date": "2026.11.12",
+   "title": "목소리만으로 감탄할 수 있어 – 소프라니스트 브루노 데 사(Bruno de Sá)의 음악 세계",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17365",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/76/e9c/imgUrl20261105010226740.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "목소리만으로 감탄할 수 있어 – 소프라니스트 브루노 데 사(Bruno de Sá)의 음악 세계"
+    },
+    {
+     "type": "p",
+     "text": "클래식 음악이라는 장르에 별반 관심이 없는 많은 사람들에게 이 장르는 흔들리지 않는 견고한 세계처럼 보일 것입니다. 오래전에 쓰인 작품을 연주자가 악보 그대로 연주하고, 청중은 이를 의심 없이 받아들입니다. 여기에 다른 그림이 끼어드는 경우는 상상하기 어렵죠.\n\n이 문법에 익숙하지 않은 분들에게는 이런 모습이 그다지 흥미롭지 않으실 수도 있겠습니다. 그런데 이 업계 안에서는 꽤 자연스럽지만 일반적인 상식 범위 안에서는 도저히 일어나지 않는 일들도 클래식 음악계의 또 다른 풍경이기도 합니다. 오늘 소개하는 아티스트, 브루노 데 사(Bruno de Sá)처럼 남성으로 태어나 여성의 음역에서 노래하는 성악가들이 바로 그런 존재들입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/25/96b/imgUrl20261105113225528.jpg"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "브라질에서 등장한 새로운 목소리"
+    },
+    {
+     "type": "p",
+     "text": "사실 이 전통, 여성의 목소리에 닿는 남성의 존재는 성전에서 여성이 노래하는 것을 꺼려했던 기독교의 오랜 전통에서 비롯되었습니다. 그렇게 자리를 잡게 되어 이후 오페라계에도 진출한 남성 성악가들을 음악계에서는 카스트라토라 불렀습니다. 그리고 거세를 하지 않고 훈련으로 여성의 음역에 도달한 이들을 카운터테너라 부르게 되었고요.\n\n그런데 브루노 데 사는 가성을 사용하는 카운터테너와는 완전히 다른 방법으로, 진성으로 높은 음역에 도달합니다. 그래서 그는 자신을 카운터테너가 아닌 소프라니스트라 부릅니다. 만들어진 고음이 아닌 본래부터 이 음역에 익숙한 사람인 것이죠. 그래서 브루노 데 사의 노래를 들어보면 카운터테너와는 다른 특징을 여럿 발견할 수 있습니다. 그의 목소리에는 우선 힘이 있습니다. 카운터테너들이 음역을 확보하기 위해 많은 에너지를 써야 하는 상황에서 표현력에 상당한 공을 들일 수 있는 점도 브루노 데 사의 큰 장점이고요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9c/803/imgUrl20261105113230640.jpg"
+    },
+    {
+     "type": "p",
+     "text": "실로 보기 드문 재능이라 할 수 있지만 브루노 데 사가 본격적으로 성악가의 길을 걷기 시작한 것은 그리 오래된 일이 아닙니다. 상파울루 근교에서 태어나 어린 시절부터 노래를 하기를 좋아했지만 상파울루에서 대학을 다니던 시절, 그는 성악이 아닌 음악교육을 전공으로 하는 학생이었습니다. 하지만 뛰어난 재능을 숨기기란 또 어려운 일이라 성악가로 살아가야겠다고 마음먹은 이후 브루노 데 사는 고국인 브라질에서 시작해 유럽으로 커리어를 성큼성큼 옮기며 순식간에 오페라계의 새로운 별로 떠올랐습니다. 바로크 음악, 그중에서도 성악 음악에 남다른 애정을 가지고 있는 레이블인 에라토가 이런 인재를 놓칠 리가 없었고 브루노 데 사는 유서 깊은 명가와 2022년 4월 전속계약을 맺게 됩니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/41/a42/imgUrl20261105113243247.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fb/4b5/imgUrl20261105113247805.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c3/1e2/imgUrl20261105113252190.jpg"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "잘 알지 못해도 즐겁다"
+    },
+    {
+     "type": "p",
+     "text": "그렇게 4년간, 브루노 데 사는 에라토와 총 세 장의 앨범을 선보였습니다. 에라토에서 이제껏 발매된 앨범에는 공통점이 있습니다. 작곡가도, 작품도 처음 들어보지만 무슨 일인지 모르게 듣기 편하고 좋다는 점입니다. 클래식이 이토록 경쾌하고 아름다운 음악이라는 사실을 브루노 데 사는 사전 지식이 아닌 음악 그 자체만의 힘으로 전달합니다."
+    },
+    {
+     "type": "p",
+     "text": "우선 첫 앨범부터 살펴볼까요? 전속계약 이후 2022년 9월 발매된 [Roma Travestita]는 일종의 쇼케이스에 해당합니다. 2012년에 창단해 순식간에 주목받는 시대연주 단체로 자리 잡은 이탈리아의 일 포모 도로와 함께한 앨범에서 브루노 데 사는 앨범 첫 곡인 알레산드로 스카를라티의 오페라 '그리셀다' 중 'Dì che sogno, o che deliro(꿈이라고, 헛소리라고 말해라)'부터 자신이 어떤 성악가인지 확실하게 보여줍니다. 채 2분도 되지 않는 시간 동안 확실하게 자신을 알린 뒤 이어지는 노래 하나하나에 담긴 싱싱함과 기품은 놀랍습니다."
+    },
+    {
+     "type": "p",
+     "text": "첫 앨범으로부터 2년 뒤인 2024년에 선보인 앨범 [Mille Affetti]에서 브루노 데 사는 시대를 조금 더 앞으로 당겨옵니다. 본작에는 알레산드리, 자이델만 등 평소에 들어보기 힘든 작곡가들의 작품들이 세계 최초로 녹음되어 담겼는데요. 왜 이들 작품이 이제껏 연주가 안 되었는지 의아하게 느껴질 정도로 하나같이 완성도가 높습니다. 흥미롭게도 앨범의 하이라이트는 대중에게도 잘 알려진 작품인 모차르트의 '기뻐하라, 환호하라(Exsultate, jubilate)'가 장식합니다. 사실 이 작품이 앨범에 담기게 된 데에는 어떤 사정이 있었습니다. 스승인 니콜라우 지 피게이레두는 '모차르트는 이 곡을 작곡할 때 분명 너와 같은 목소리를 상상했을 것'이라는 말을 남기며 브루노 데 사에게 노래를 독려했습니다. 하지만 제자는 오랫동안 이 작품을 피해왔고 그 사이 스승은 심장마비로 세상을 떠나게 되었죠. 이 작품을 뒤늦게 녹음한 제자는 선생님이 세상에 없음을 아쉬워하지만, 분명 스승은 이 작품을 담아낸 브루노 데 사의 결정에 흡족해할 것입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "목소리로 떠나는 세계 여행 – [Uyaras - The Enchanted Voice]"
+    },
+    {
+     "type": "p",
+     "text": "불과 저번 달인 2026년 10월은 브루노 데 사에게 뜻깊은 시간으로 기억됩니다. 이달 초 새로운 앨범인 [Uyaras - The Enchanted Voice]가 발매된 데 이어 그의 앨범 커리어를 함께 해온 에라토가 2026년 그라모폰지 올해의 레이블로 선정되는 경사를 맞이했기 때문입니다. 좋은 소식이 곧 찾아올 걸 예견이라도 한 걸까요? 에라토에서의 세 번째 앨범인 [Uyaras - The Enchanted Voice]에서 브루노 데 사는 브라질에서 시작해 프랑스, 미국, 스페인, 러시아를 거쳐 오스트리아로 향하는, 어느 때보다 즐거움을 추구하는 프로그램으로 앨범을 구성했습니다. 자신이 태어난 브라질이 자랑하는 작곡가인 빌라로부스의 '브라질풍의 바흐 5번'으로 시작해, 조제프 캉틀루브의 '오베르뉴의 노래' 중 세 곡을 골라 앨범 중간중간에 삽입하고 알베르투 네포무세누의 'As Uyaras(우야라들)'과 거슈윈의 '로렐라이', 그라나도스의 '고예스카스' 중 'La maja y el ruiseñor(마하와 나이팅게일)', 라흐마니노프의 '보칼리제', 오스트리아 작곡가 하인리히 프로흐의 'Deh! torna mio bene(아 돌아와요 내 사랑)'를 차례로 들려주는 브루노 데 사의 목소리는 아름다움과 기술이 어떻게 완벽하게 조화를 이룰 수 있는지를 보여줍니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4d/d4a/imgUrl20261105113352457.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이 음악들이 마음에 드신 분들을 위한 즐거운 소식이 마지막에 준비되어 있습니다. 아트센터인천의 기획으로 지난 10월 말부터 3회에 걸쳐 진행되고 있는 '인천국제고음악제'의 마지막 무대에 브루노 데 사가 출연한다는 내용을 마지막으로 전해드립니다. 11월 13일 금요일 오후 7시 30분, 브루노 데 사는 코리안 바로크 소사이어티와 함께 그간 발매한 앨범에서는 감상할 수 없는 다양한 아리아와 함께 한국 청중을 만날 계획입니다. 이번 공연으로 처음 한국을 찾는 브루노 데 사. 그 신비에 가까운 아름다운 목소리를 직접 만날 수 있는 기회, 놓치지 마시기를 바랍니다."
     }
    ]
   },
@@ -1610,116 +1662,6 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "공연 : 제85회 LIVE CLUB DAY\n날짜 : 2026.11.27 (금) 오후 8시\n장소 : 홍대 총 6개 공연장 (무신사 개러지, 상상마당 라이브홀, 벨르 (구 벨로주 홍대), 프리즘홀, 클럽 FF, 프리버드)\n\n*트랙제로 스테이지 : 무신사 개러지"
-    }
-   ]
-  },
-  {
-   "seq": 17371,
-   "date": "2026.11.09",
-   "title": "A2O SOUL만의 뉴 신스웨이브 사운드로 완성한 데뷔 앨범 [SUPERSTAR] MV 촬영 비하인드",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17371",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/54/38b/202611091657344183.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a8/711/imgUrl20261109111648611.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "A2O SOUL 데뷔 앨범 [SUPERSTAR] 타이틀곡 'Dancing in the Dark' 뮤직비디오 촬영 현장"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분! 지난 10월, 선공개곡 'SUPERSTAR'로 첫선을 보인 A2O SOUL이 데뷔 앨범 [SUPERSTAR]로 찾아왔습니다. 데뷔 앨범 [SUPERSTAR]는 '소울(SOUL)'을 찾아 나선 소년들이 그 여정에서 마주하는 다양한 순간과 감정을 음악으로 담아낸 앨범입니다. 총 5곡으로 구성된 이번 앨범은 A2O SOUL이 선보이는 '뉴 신스웨이브(New Synthwave)' 사운드를 바탕으로 그들만의 독창적인 음악적 색깔과 정체성을 담아냈습니다. 특히 더블 타이틀곡 'Dancing in the Dark'에는 Beyonce, Kanye West 등의 앨범에 참여한 Rissi와 Chris Brown 등과 협업해 온 Will Gittens를 비롯한 세계적인 프로듀서들이 참여해 곡의 완성도를 한층 높였습니다. 'Dancing in the Dark' 뮤직비디오는 청소년기에 마주하는 복잡하고 다채로운 감정들을 감각적인 영상미로 풀어냈는데요. 강렬한 사운드와 감각적인 비주얼이 어우러진 A2O SOUL의 'Dancing in the Dark' 뮤직비디오 촬영 현장, 지금 함께 만나보시죠!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "A2O SOUL [SUPERSTAR]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261109104252.jpg"
-    },
-    {
-     "type": "p",
-     "text": "데뷔 앨범 [SUPERSTAR]는 A2O SOUL이 들려주는 첫 번째 이야기다. '소울'을 찾아 나선 열다섯 명의 소년들이 그 여정에서 마주한 크고 작은 순간들의 감정을 담았다.\n\nA2O SOUL은 이 이야기를 직접 이름 붙인 장르인 'NEW SYNTHWAVE'의 5곡으로 풀어낸다. 그 이름에는 신시사이저를 활용한 음악들이 한때 가장 새로운 소리였던 것처럼, 새로운 시대를 만들어 갈 가장 현대적인 사운드를 선보이겠다는 A2O SOUL의 선언이 담겼다.\n\n이 여정에 세계적인 프로듀서진도 힘을 모았다. 'SUPERSTAR'에는 The Kid LAROI와 Justin Bieber의 'STAY'를 공동 작곡한 HAAN, Drake와 Doja Cat의 히트곡을 다수 탄생시킨 GENT!가, 'Dancing in the Dark'에는 Beyonce, Kanye West 등의 앨범에 이름을 올린 Rissi, Chris Brown과 호흡을 맞춰 온 Will Gittens가 참여해 곡과 앨범의 완성도를 한층 높였다."
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo",
-     "text": "멜론 독점 비하인드 포토"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/2c/9c5/imgUrl20261109111728102.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b9/7cc/imgUrl20261109111734717.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3c/7cc/imgUrl20261109111740443.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7f/418/imgUrl20261109111747304.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/65/23b/imgUrl20261109111753473.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c2/848/imgUrl20261109111800709.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/89a/imgUrl20261109111805556.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/aa/192/imgUrl20261109111811104.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d9/685/imgUrl20261109111817815.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fd/4de/imgUrl20261109111829209.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e1/175/imgUrl20261109111835136.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/b55/imgUrl20261109111843996.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/98/ff3/imgUrl20261109111853159.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/09/065/imgUrl20261109111901860.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6f/41d/imgUrl20261109111909003.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "A2O SOUL 'Dancing in the Dark'"
-    },
-    {
-     "type": "h",
-     "label": "From A2O SOUL",
-     "text": "To Melon"
     }
    ]
   }
