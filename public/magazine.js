@@ -1,7 +1,794 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-16 01:46",
+ "fetchedAt": "2026-11-17 04:25",
  "articles": [
+  {
+   "seq": 17375,
+   "date": "2026.11.17",
+   "title": "올해의 노래를 남기러, 온라인 절 '산사'에 다녀왔습니다.",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17375",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fb/b57/imgUrl20261113014842598.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "올해의 노래를 남기러, 온라인 절 '산사'에 다녀왔습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Intro. 소원인 줄 알고 읽었는데… 노래 제목?"
+    },
+    {
+     "type": "p",
+     "text": "연등 아래 달린 종이를 펼쳐보니 노래 제목이 적혀 있습니다.🤔 마당에 놓인 기와에도, 누군가가 기억하고 싶은 곡과 그 이유가 한 줄씩 남아 있고요.📝\n\n이곳은 멜론이 '2026 마이레코드' 오픈을 기념해 온라인 절 '산사'와 함께 마련한 〈성찰의 뜰〉입니다. 멜론에서 한 해 동안 들은 음악으로 '올해의 나'를 돌아봤다면, 산사에서는 기억에 남는 한 곡을 직접 골라 그때의 이야기를 남길 수 있어요. 어떤 노래들이 이곳에 모이고 있을까요?👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d0/483/imgUrl20261111041326727.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b3/9eb/imgUrl20261111041345099.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/868/imgUrl20261111043049439.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Story 1",
+     "text": "가장 많이 들은 곡이 올해의 한 곡일까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/eb/902/imgUrl20261113014149048.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해 처음 들은 곡, 아직 기억나시나요? 멜론 '2026 마이레코드'에서는 첫 곡부터 총 감상 시간, 가장 많이 들은 곡과 아티스트까지 한 해의 감상 기록을 카드로 확인할 수 있어요.\n\n올해는 계절마다 가장 많이 들은 '제철 곡'도 만나볼 수 있습니다. 새로 추가된 '마이클립'에서는 화면을 지나가는 감상 기록 중 하나를 골라, 내 기록에 문구와 일러스트가 더해진 카드를 저장하거나 공유할 수 있고요. 내 기록을 넘어, 멜론 이용자들이 함께 들으며 만들어낸 올해의 음악 이야기도 처음으로 담았습니다.\n\n그런데 가장 많이 들은 곡과 가장 기억에 남는 곡은 같을까요? 몇 번 듣지 않았어도 첫 소절만으로 그날이 떠오르는 노래가 있잖아요. 멜론에서 내가 들은 음악을 돌아봤다면, 산사에서는 마음에 남은 한 곡을 직접 골라 그 순간을 한 줄로 남겨보세요."
+    },
+    {
+     "type": "h",
+     "label": "Story 2",
+     "text": "한 곡을 적고, 기와를 놓거나 연등을 달아요"
+    },
+    {
+     "type": "p",
+     "text": "〈성찰의 뜰〉에 들어서면 올해의 한 곡을 남길 수 있습니다. 곡명과 아티스트명, 그리고 그 노래를 들었을 때 떠오르는 순간을 한 줄로✍️ 적어보세요. '좋아하는 밴드의 새로운 매력을 발견한 날'처럼, 그 곡을 다시 들었을 때 기억하고 싶은 장면이면 충분합니다.🎸\n\n방법은 간단합니다. 기와에 새겨 마당에 직접 놓거나, 마음에 드는 색의 연등을 골라 줄에 달면 됩니다. 그러면 내 노래도 〈성찰의 뜰〉에 한 자리를 차지하게 됩니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9e/84a/imgUrl20261111041406604.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/78/d34/imgUrl20261113112732847.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0c/91e/imgUrl20261113112745665.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a7/4be/imgUrl20261113112831179.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/91/80d/imgUrl20261113112839952.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fa/4c8/imgUrl20261113112902736.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0b/16c/imgUrl20261113112912266.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Story 3",
+     "text": "다른 사람은 어떤 곡을 남겼을까?"
+    },
+    {
+     "type": "p",
+     "text": "내 노래를 두고 나면, 다른 사람은 어떤 곡을 골랐는지도 궁금해집니다.👀 마당에 놓인 기와나 줄에 달린 연등을 눌러보세요. 기와에 새긴 글과 연등 아래 달린 종이에서 각자의 노래와 한 줄 이야기를 읽을 수 있어요.\n\n같은 노래를 두고도 떠올리는 순간은 저마다 다르죠. 반가운 곡을 만나면 '이 사람도 올해 이 노래를 들었구나' 싶고, 처음 보는 곡이라면 어떤 노래인지 찾아보고 싶어집니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/55/1ea/imgUrl20261113112956741.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/01/db8/imgUrl20261113113002928.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Bonus",
+     "text": "마음 비우러 갔다가 두둠칫하고 옴"
+    },
+    {
+     "type": "p",
+     "text": "뜰을 둘러봤다면 '멜론 속세존'에도 잠깐 들러보세요. 헤드셋을 쓰고 음악을 듣다가 '춤추기'를 누르면 아바타가 박자에 맞춰 움직입니다.💃🕺 노래 한 곡 두고 가려다가, 한 박자 더 타고 가게 될지도요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e8/095/imgUrl20261111041753398.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d0/150/imgUrl20261113020551125.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Interview",
+     "text": "'산사'를 만든 박진원님에게 물었습니다"
+    },
+    {
+     "type": "p",
+     "text": "노래 한 곡을 적는 일은 간단하지만, 그 기록을 직접 기와로 놓고 연등으로 다는 경험은 조금 다르게 남습니다. 이 공간을 만든 박진원님에게 '산사'의 시작부터 〈성찰의 뜰〉에 담은 생각까지 물었습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d8/383/imgUrl20261111041947961.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7a/ecd/imgUrl20261111041910468.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/99/49b/imgUrl20261111041915784.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ff/2f5/imgUrl20261111041920685.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d6/a2c/imgUrl20261111041929122.jpg"
+    },
+    {
+     "type": "p",
+     "text": "안녕하세요. '산사'를 기획한 26살 박진원입니다. 저는 '산사' 외에도 유용하면서도 재밌는 콘텐츠를 만드는 기획자입니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "사람들이 '산사'에서 시간을 보내는 모습을 보고, '이렇게 즐기실 줄은 몰랐다' 싶었던 순간이 있었나요?"
+    },
+    {
+     "type": "p",
+     "text": "처음에는 절만 하는 공간으로 만들었어요. 근데 그러면 너무 심심할 것 같아서 속세존이라는 걸 만들었죠. 그랬더니 거기서 노래 듣고 춤추는 분위기가 형성되는 게 인상 깊었어요. 다양한 지형지물을 활용해 밈처럼 즐기는 모습도 예상치 못했는데 재밌었고요. 퀄리티 높게 지형지물을 만드는 것보다, 이렇게 약간 엉성하게 만들어서 그걸 웃고 즐기는 모습이 더 좋은 사례가 될 수 있다는 걸 깨달았습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "멜론에서 '올해의 노래를 '산사'에 남겨보자'는 제안을 받았을 때, 가장 먼저 어떤 장면이 떠올랐나요?"
+    },
+    {
+     "type": "p",
+     "text": "가장 먼저 기와, 연등 같은 것들이 떠올랐어요. 올해의 노래라는 것이 결국 성찰과 나를 되돌아보는 의미가 있는데, 기와나 연등에 그런 의미를 적으면 좋은 경험이 될 수 있겠다 싶었습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "말없이 함께 머물던 '산사'에 이제 다른 사람의 이야기를 읽는 공간이 생겼어요. 〈성찰의 뜰〉을 만들면서도 '산사'답게 지키고 싶었던 건 뭐였나요?"
+    },
+    {
+     "type": "p",
+     "text": "여전히 '산사'에는 채팅이나 시끄러운 분위기는 지양하려고 합니다. 다만 좋은 의도로 서로 이야기를 나누는 〈성찰의 뜰〉은 '산사'의 평화로운 분위기와 잘 맞을 거라 생각했습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "기록을 적고 저장하는 데서 끝낼 수도 있었을 텐데요. 직접 기와를 놓거나 연등을 다는 동작까지 넣은 이유가 궁금해요."
+    },
+    {
+     "type": "p",
+     "text": "가상의 공간이지만 직접 해보는 그 몇 초의 동작으로도 자신을 되돌아보는 시간이 생길거라 생각했습니다. 직접 기와를 놓거나 연등을 달면서 그 노래에 대해서 그리고 본인의 한 해에 대해서 생각해보시길 바랍니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "'산사'를 만들던 올해의 어느 하루에 배경음악을 붙인다면, 어떤 날에 어떤 곡을 고르시겠어요?"
+    },
+    {
+     "type": "p",
+     "text": "처음 바이럴이 되었던 날을 고르고 싶습니다. 노래는 혁오 (HYUKOH)의 '공드리'를 고르고 싶어요.\n뭔가 애매하고 두근거리는 그런 감정을 잘 담은 노래라서 당시 제가 느끼던 감정과 잘 어울린다고 생각했고, 지나간 과거와 앞으로 다가올 햇빛에 대한 내용이라 연말 성찰이라는 키워드와도 잘 어울리는 노래입니다!"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Outro. 여러분의 올해는 어떤 노래였나요?"
+    },
+    {
+     "type": "p",
+     "text": "올해를 떠올렸을 때 가장 먼저 생각나는 노래가 있다면, 그 곡과 함께한 순간을 〈성찰의 뜰〉에 남겨보세요. 올해 내가 실제로 어떤 음악을 많이 들었는지 궁금하다면, 멜론 마이레코드에서 감상 기록을 확인할 수 있습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ce/d93/imgUrl20261111042602897.jpg"
+    },
+    {
+     "type": "p",
+     "text": "〈성찰의 뜰〉은 12월 1일(화)까지 운영됩니다. 올해의 한 곡도 두고, 다른 사람의 노래도 슬쩍 구경해 보세요. 돌아가기 전, 속세존에서 헤드셋 쓰고 춤도 살짝! 🎧 산사에서 가볍게 즐기고 가세요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "음악으로 돌아보는 나의 1년, 2026 마이레코드"
+    },
+    {
+     "type": "p",
+     "text": "기억에 남은 한 곡을 골랐다면, 이번엔 내가 실제로 어떤 음악을 들으며 한 해를 보냈는지 멜론에서 만나보세요. 2026 마이레코드는 모바일에서 확인 가능합니다."
+    }
+   ]
+  },
+  {
+   "seq": 17385,
+   "date": "2026.11.16",
+   "title": "2026년 역주행 결산.zip",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17385",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/51/87e/imgUrl20261113062220339.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "2026년 역주행 결산.zip"
+    },
+    {
+     "type": "p",
+     "text": "발매 직후가 아닌, 시간이 흐른 뒤에야 리스너들의 마음을 움직이는 곡들이 있습니다. 2026년은 그런 노래들이 차트 위로 다수 돌아온 해였습니다. 한 해가 이제 한 달 반 즈음 남은 시점에서, 올해 차트를 거슬러 오른 트랙들을 결산해봅니다. 음악은 발매 시기에만 빛나는 것이 아니라는 것을 증명한 올해의 역주행 트랙들. 어떤 곡들이 있을까요?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "베스티 '연애의 조건 (Love Options)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/9df/imgUrl20261113062231643.jpg"
+    },
+    {
+     "type": "p",
+     "text": "가장 최근의 사례죠? 베스티의 '연애의 조건 (Love Options)'은 발매 13년 만에 멜론 Top100 10위권에 진입하며 화제를 모았습니다. 신나는 멜로디와 쉽게 따라 부를 수 있는 후렴구, 밝고 경쾌한 분위기는 오랜 시간이 지난 뒤에도 리스너들의 귀를 사로잡고 있습니다.\n\n역주행의 시작에는 팬들의 창의력 넘치는 리믹스가 있었습니다. Hearts2Hearts (하츠투하츠)의 'Lemon Tang' 댄스에 배경음으로 이 곡을 섞은 영상이 돌판에서 화제를 모았고, 점차 챌린지로 퍼지다가 스트리밍 증가로 이어졌는데요. 이를 계기로 베스티가 해체 8년 만에 재결합했다는 소식 역시 리스너들이 곡을 다시 듣게 하는 계기가 됐습니다.\n\n이 곡은 현재 국내 차트를 넘어 대만의 음악 차트에서도 정상에 올랐다는 소식이 들리고 있습니다. 글로벌한 역주행을 통해 베스티의 화제성은 더욱 커지고 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "RESCENE (리센느) 'LOVE ATTACK'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/49/8af/imgUrl20261113062236774.jpg"
+    },
+    {
+     "type": "p",
+     "text": "RESCENE (리센느)의 'LOVE ATTACK'은 2024년 8월 발매된 지 약 2년 만에 멜론 Top100 정상에 올랐습니다. 리더 원이의 유튜브 채널에서 미나미가 언급한 '거제 야호' 밈이 SNS를 타고 퍼지면서 그룹 자체에 대한 호기심이 커졌고, 그 관심이 이들의 과거 노래에 대한 청취로 이어진 것이죠.\n\n그 이후의 이야기는 우리 모두가 알고 있습니다. 남다른 서사를 가진 이들은 단숨에 국민 걸그룹의 위상을 차지했고, 다수의 광고와 미디어에 등장하며 팬들을 즐겁게 하고 있는데요. 모처럼의 기회를 잡은 이들은 역주행으로 얻은 관심을 신규 앨범 발매로 연결하며 또 한 번의 선순환을 만들고 있습니다. 많은 음악 팬들에게 2026년은 RESCENE (리센느)와 함께 기억될 것 같습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "최유리 '생각을 멈추다 보면'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3c/28e/imgUrl20261113062242892.jpg"
+    },
+    {
+     "type": "p",
+     "text": "최유리의 '생각을 멈추다 보면'은 2023년 11월 발매된 지 약 3년 만에 다시 차트 상위권으로 올라섰습니다. 결정적인 계기는 최유리의 유튜브 '들어봐! 유리의 숲'에서 진영과 함께 선보인 듀엣 라이브였는데요. 두 사람의 멋진 호흡이 담긴 영상은 짧은 시간 안에 큰 조회수를 기록하며 원곡에 대한 관심을 다시 불러일으켰습니다. 현재 이 영상의 조회수는 3,500만 이상을 기록하며 채널 내 독보적인 인기 1위 영상으로 자리하고 있습니다.\n\n감성적인 멜로디와 담백한 가사가 영상 속 분위기와 자연스럽게 어우러진 점도 주목할 만합니다. 라이브 영상을 본 청취자들이 원곡을 찾아 들었고, 이 흐름이 멜론 Top 100 진입과 순위 상승으로 이어졌죠. 영상에서의 감동이 음원 차트로 연결된 대표적인 역주행 사례입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "도경수(D.O.) 'Popcorn'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/6dc/imgUrl20261113062248379.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해는 많은 리스너들의 봄 플레이리스트에 노래 하나가 추가된 해였습니다. 바로 도경수(D.O.)의 'Popcorn'입니다. 2024년 발매된 지 약 2년 만에 역주행하며 봄 시즌의 대표곡으로 자리 잡았는데요. 사랑하는 순간의 설렘을 팝콘이 터지는 장면에 빗댄 가사와 부드러운 휘슬 사운드, 따뜻한 보컬이 봄날의 무드와 잘 맞물렸습니다.\n\n역주행의 불씨는 tvN 예능 '콩콩팡팡' 로드 트립 편에서 시작됐습니다. 여기서 도경수(D.O.)가 이 곡을 열창하고, 배우 김우빈이 이 곡을 좋아하는 노래로 언급했기 때문인데요. 관련 클립이 SNS를 통해 퍼지면서 곡을 찾는 청취자가 늘었고, 연인들의 결혼식 축가로도 각광받으며 웨딩 시즌 수요까지 더해졌습니다. 덕분에 우리는 새로운 봄 캐럴을 얻게 됐습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "엔플라잉 (N.Flying) 'Flashback'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0c/96b/imgUrl20261113062254302.jpg"
+    },
+    {
+     "type": "p",
+     "text": "엔플라잉 (N.Flying)의 'Flashback'도 2026년 상반기 역주행 흐름에 이름을 올린 곡입니다. 라이브 영상에서 들린 밴드 사운드와 감성적인 멜로디가 재발견되며 소셜미디어에서 화제를 모았고, 결국 차트 상승세로 이어진 케이스이지요.\n\n짧은 클립의 영상이 커뮤니티에서 회자되며 새로운 청취자를 만난 것이 핵심입니다. 과거의 인기곡이 현재의 감성과 맞닿으며 다시 스트리밍되는 흐름이 이어진 것인데요. 밴드 음악 특유의 직관적인 에너지와 중독적인 훅 또한 온라인 확산과 만나며 차트 재진입의 동력이 됐습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "에픽하이 (EPIK HIGH) 'Love Love Love (Feat. Yoong Jin Of Casker)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4f/f2f/imgUrl20261113062259072.jpg"
+    },
+    {
+     "type": "p",
+     "text": "에픽하이 (EPIK HIGH)의 'Love Love Love (Feat. Yoong Jin Of Casker)'는 2026년 초반의 역주행 사례였습니다. 2007년 발표 후 큰 사랑을 받았던 이 곡은 2025년 식케이 (Sik-K)와 Lil Moshpit이 'LOV3 (Feat. Bryan Chase, Okasian)'에 샘플링으로 활용한 것을 계기로 다시 한 번 대중의 관심을 받았습니다.\n\n오랜 시간 사랑받아 온 원곡이 새로운 음악적 시도와 연결되자 세대를 뛰어넘은 청취층을 형성했는데요. 과거에도 명곡 소리를 들었던 곡이기 때문에, 엄밀히 말하면 역주행이 아닌 재주행이라고 하는 게 맞을지도 모르겠습니다."
+    },
+    {
+     "type": "p",
+     "text": "'Love Love Love (Feat. Yoong Jin Of Casker)'의 역주행과 관련한 자세한 이야기는 이전의 매거진에서 확인하실 수 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "한로로 '사랑하게 될 거야'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/48/e53/imgUrl20261113062304731.jpg"
+    },
+    {
+     "type": "p",
+     "text": "사실 '사랑하게 될 거야'는 2025년부터 역주행을 한 곡입니다. 하지만 차트 최고순위를 기록한 것은 올해 1윌의 일이죠. 1월, 이 곡은 멜론 실시간 차트 1위와 일간 및 주간차트 2위까지 올랐습니다. 이후에도 꾸준히 큰 사랑을 받고 있기 때문에, 아마 연간차트에서도 최상위권을 기록하지 않을까 싶네요.\n\n이 곡의 인기는 특정 이벤트 하나로 설명하기 어렵습니다. 청춘의 불안과 희망을 담은 가사, 진솔한 보컬, 세련된 밴드 사운드가 오랜 시간 리스너들의 공감을 얻으며 꾸준한 스트리밍 수요를 만들어냈기 때문입니다. 리스너들 사이의 호평은 곧 차트 상위권 진입으로 이어졌고요.\n\n곡 자체가 지닌 공감대와 완성도가 청취자들의 선택을 이끌었다는 평가가 지배적인데요. 연초에도 연말에도 계속해서 청취된다는 점은 이 노래가 가진 매력을 잘 보여줍니다. 많은 이들에게 발견되고 계속 듣고 싶은 노래로 자리 잡은 만큼, '사랑하게 될 거야'는 앞으로도 오랜 시간 사랑 받는 노래가 될 것 같습니다."
+    }
+   ]
+  },
+  {
+   "seq": 17381,
+   "date": "2026.11.16",
+   "title": "훈수와 참견으로 가득 찬 이들에게 날리는 통쾌한 한 방! 다이나믹 듀오 '하라는 랩'",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17381",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4e/1dd/202611131342239605.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "다이나믹 듀오 '하라는 랩' Official Video 촬영 현장 독점 공개"
+    },
+    {
+     "type": "p",
+     "text": "'출첵 (Feat. 나얼 For Brown Eyed Soul)', '죽일 놈 (Guilty)', 'AEAO' 등 수많은 히트곡으로 한국 힙합의 대명사로 자리매김한 '다이나믹 듀오'가 다채로운 컬래버레이션과 국내외 공연 활동에 이어, 정규 10집 [2 Kids On The Block] 이후 약 2년 만에 독자적인 신보로 돌아왔습니다.\n\n신곡 '하라는 랩'은 타인의 훈수와 참견을 유쾌하고 통쾌하게 풀어낸 힙합 곡으로, 개코와 최자의 독보적인 래핑과 리드미컬한 사운드가 돋보이며, 하고 싶은 일과 해야 할 일 모두 온전한 '나의 삶'이라는 메시지를 담아 치열한 일상을 살아가는 이들에게 공감과 위로를 전하는 곡입니다.\n\n아티스트의 Official Video 촬영 현장 비하인드를 지금 바로 공개합니다. 보러 가시죠!"
+    },
+    {
+     "type": "h",
+     "label": "Single",
+     "text": "다이나믹 듀오 '하라는 랩'"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/937/15159937_20261113165303.jpg"
+    },
+    {
+     "type": "p",
+     "text": "다이나믹 듀오 '하라는 랩'"
+    },
+    {
+     "type": "h",
+     "label": "Story",
+     "text": "다이나믹 듀오 '하라는 랩' Official Video 촬영 현장"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/cb/acc/202611131010392125.jpg"
+    },
+    {
+     "type": "p",
+     "text": "하얀 스튜디오에 등장한 수상한 미술 작업실! 👀\n개코가 직접 그린 2026 다이나믹 듀오 단독 콘서트 [가끔씩 오래 보자] 포스터와 '하라는 랩' 앨범 커버까지! 과연 이곳에서는 무슨 일이 벌어질까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8c/5a4/202611131010554222.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8d/37a/20261113101057950.jpg"
+    },
+    {
+     "type": "p",
+     "text": "작품들의 아버지이자 오늘의 주인공, 개코 등장! 👨‍🎨\n비장한 눈빛으로 붓을 든 모습에서 예술혼이 느껴지는데요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2a/7fa/202611131011413225.jpg"
+    },
+    {
+     "type": "p",
+     "text": "그림 그리는 연출에도 직접 붓을 들고 진심을 다하는 개코! 🎨"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ea/126/202611131011506866.jpg"
+    },
+    {
+     "type": "p",
+     "text": "분위기 전환! 개코에 이어 회색 슈트의 심상치 않은 비주얼로 등장한 최자! ✨\n강렬한 조명 아래 더 빛나는데 과연 어떤 장면을 촬영 중일까요? 👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e9/c2d/202611131012003162.jpg"
+    },
+    {
+     "type": "p",
+     "text": "감독님의 디렉션을 완벽하게 소화하며 카메라 앞 분위기 장악 완료.\n회색 수트에 강렬한 빨간 장갑이 마치 성공한 CEO를 연상시키는 것 같기도 하네요.🫢"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2a/bd2/202611131012191891.jpg"
+    },
+    {
+     "type": "p",
+     "text": "또다시 개코 개인 촬영 타임이 돌아오고, 이번엔 뜻밖의 귀여운 손님 👼이 등장했어요.. ✨\n인형을 품에 안고 함박웃음을 짓는 개코 포착 📸"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c7/198/202611131012344475.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영이 끝난 뒤에도 인형과 여전히 교감 중.. 역시 세상 다정한 아빠의 모습이네요. ☺️"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/04/ebb/202611131012414950.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번엔 갑자기 아령을…?! 💪\n'하라는 랩'은 안 하고 운동만? 어떤 장면이 탄생했을지 기대해 주세요!"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/57/6db/202611131012508818.jpg"
+    },
+    {
+     "type": "p",
+     "text": "휴식 시간, 아기 인형을 바라보니 아빠 미소가 절로 나오네요. ☺️"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/68/915/202611131013003531.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영장에 등장한 다이나믹 듀오 전용 차량! 다음 촬영은 어떤 콘셉트일까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/0a/006/202611131013087054.jpg"
+    },
+    {
+     "type": "p",
+     "text": "다이나믹 듀오의 무대를 함께 꾸며주는 dj friz도 특별 출연!\n개코와 최자, dj friz가 함께하니 재치 있는 현장이 완성됐습니다. 😎"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f8/295/202611131013224993.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번엔 촬영장에 포장마차가 등장했습니다!\n실제 포장마차에 온 듯 자연스러운 연기를 선보이는 다이나믹 듀오와 dj friz.\n촬영 내내 웃음이 끊이지 않았다는 후문! ✨"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3d/2e5/20261113101331703.jpg"
+    },
+    {
+     "type": "p",
+     "text": "포장마차에 앉은 최자의 모습이 유독 자연스러운 건 기분 탓일까요? 🍻"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/96/4ef/202611131013403401.jpg"
+    },
+    {
+     "type": "p",
+     "text": "못 말리는 다이나믹 듀오의 골프 사랑 ⛳\n촬영장에 미니 골프장까지 마련됐는데요! 과연 어떤 장면일까요? 👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/0d/e67/20261113101350799.jpg"
+    },
+    {
+     "type": "p",
+     "text": "뒤이어 포착된 최자의 진지한 골프 스윙! 골프채를 휘두르는 파워부터 남다릅니다.\n신곡 가사에도 어김없이 골프가 등장하는데 과연 어떤 의미가 담겨 있을지,\n곡을 들으면서 확인해 보세요! 👀🤭"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/07/315/202611131014056333.jpg"
+    },
+    {
+     "type": "p",
+     "text": "역시 소문난 골프 러버! 골프채 하나만 들어도 프로 선수 못지않은 포스."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f0/d87/202611131014123915.jpg"
+    },
+    {
+     "type": "p",
+     "text": "오늘의 촬영은 여기까지!\n마지막으로 공개하는 다이나믹 듀오의 베스트 투 샷! 📸\n다채로운 콘셉트로 완성된 Official Video, 기대되지 않으신가요?"
+    },
+    {
+     "type": "p",
+     "text": "붓질부터 운동, 골프까지! 하라는 랩은 안 하고 이것저것 다 하던 두 사람이 드디어 본업으로 돌아왔습니다. 다이나믹 듀오의 신곡 '하라는 랩', 지금 바로 만나보세요!"
+    },
+    {
+     "type": "h",
+     "label": "From 다이나믹 듀오",
+     "text": "To Melon"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "다이나믹 듀오 '하라는 랩'"
+    }
+   ]
+  },
+  {
+   "seq": 17379,
+   "date": "2026.11.16",
+   "title": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17379",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/978/imgUrl20261112013526660.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개"
+    },
+    {
+     "type": "p",
+     "text": "멜론 가족 여러분 안녕하세요!\n투모로우바이투게더가 미니 9집 [PERFECT STORM]을 발매했습니다. 앨범 스토리와 비하인드, 독점 이미지를 지금 바로 만나보세요!"
+    },
+    {
+     "type": "h",
+     "label": "Album",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/131/15115131_20261102175232.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 앨범은 정체된 상황을 깨부수고 새로운 가능성을 열어줄 'PERFECT STORM'을 기다리는 이 시대 청춘들에게 던지는 직설적인 메시지다. 현실의 아픔과 뜨거운 열망, 과감한 변화의 순간까지 폭풍처럼 휘몰아치는 감정을 6곡에 담았다.\n\n투모로우바이투게더라 할 수 있는 'Z세대 청춘통' 이야기\n\n투모로우바이투게더는 그간 '꿈의 장', '혼돈의 장', '이름의 장', '별의 장', 'minisode' 시리즈 등 앨범에서 소년의 성장기를 그렸다. 작품 속 화자가 시간의 흐름에 따라 성장하며 마주하는 꿈과 혼란, 방황을 노래했다. 동시대 청춘과 함께하며 감정의 궤적을 넓혀온 투모로우바이투게더는 이제 10대를 지나 현실의 무게를 직면한 Z세대의 청춘통을 표현한다. 찬란하지만은 않은 청춘의 이면에 존재하는 불안과 박탈감을 직시한다. 그렇다고 뜻대로 풀리지 않는 현실에 주저앉지도 않는다. 지금까지와 다른 무언가를 꿈꾸며 기꺼이 폭풍 속으로 뛰어든다. 실제 Z세대인 투모로우바이투게더가 할 수 있는 가장 솔직한 이야기를 들려준다.\n\n가진 것을 잃더라도 폭풍에 몸을 던지겠다는 선언('지금까지와는 다른 무언가가 필요해 (Storm is…)')으로 시작해 불안하고 초라한 현실이지만 '너'와 함께하고 싶은 마음('Angel Bite'), 나를 괴롭게 할지라도 더 높은 곳으로 이끄는 꿈과 열정('Higher Love')을 들려준다. '너'의 숨 쉴 틈이자 도피처가 되어 주겠다는 고백('Sweetest Escape'), 성공을 향해 거침없이 몸을 날리는 야망('Touch the Sky'), 익숙함을 내려놓고 변화를 받아들이는 성찰('Hate It or Love It')도 다룬다. 서로 다른 얼굴을 한 Z세대의 청춘을 한데 모아 [PERFECT STORM]을 완성했다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fa/8c9/imgUrl20261112013717067.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0d/f50/imgUrl20261112013805739.jpg"
+    },
+    {
+     "type": "p",
+     "text": "폭풍을 기다리고 올라타고 손에 쥐다…비주얼로 표현한 서사\n\n동화 같은 서사를 콘셉추얼한 비주얼로 구현해 온 투모로우바이투게더가 이번에는 'PERFECT STORM'을 만났다. 다섯 멤버는 다가올 폭풍을 기다리고 거센 흐름에 올라탄 뒤 마침내 손끝에 바람을 쥐는 이야기를 네 가지 콘셉트로 보여준다.\n\n첫 번째 콘셉트 'STORM IS COMING' 속 멤버들은 각기 다른 상황과 장소에서 폭풍을 기다린다. 이어 'RIDE THE STORM'에서는 마침내 불어닥친 돌풍을 피하거나 맞서 싸우는 대신 과감히 그 흐름에 올라타고자 한다. 세 번째 콘셉트 'EYE OF THE STORM'에서는 거센 바람 한가운데서 밖을 바라본다. 마지막 'HOLDING THE STORM'은 변화를 거쳐 거대했던 폭풍을 손끝에 올리는 순간을 표현한다. 네 가지 콘셉트가 하나의 이야기를 이뤄 몰입도를 높인다."
+    },
+    {
+     "type": "h",
+     "label": "TRACK LIST",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "1. 지금까지와는 다른 무언가가 필요해 (Storm is...)"
+    },
+    {
+     "type": "p",
+     "text": "절제된 드럼과 신비로운 신디사이저 위로 호소력 짙고 귀에 감기는 멜로디가 흐르는 아방팝(Avant-pop) 장르다. 투모로우바이투게더의 실험적인 음악성이 돋보이는 이 곡은 출구 없이 답답한 현실을 돌파하기 위해, 가진 것을 잃거나 어디에 도착할지 알 수 없더라도 폭풍 속으로 기꺼이 몸을 던지겠다는 과감한 선언을 담았다. '겁 없이 변수 속에 뛰어들어', '뭐라도 해 봐야 뭐라도 되겠지 / 아, 절반의 확률에 운명을 걸어' 같은 가사가 이러한 메시지를 직관적으로 드러낸다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "2.  Angel Bite *타이틀곡"
+    },
+    {
+     "type": "p",
+     "text": "미니 9집의 타이틀곡. 게임 사운드가 떠오르는 경쾌한 트랙과 거칠면서도 아련한 멜로디가 어우러진 디스코플러그(Discoplug) 장르다. 밝고 신나는 에너지와 아프고 처절한 정서가 공존한다. 비루하고 아름답지만은 않은 청춘임에도 '너'와 함께하고 싶은 마음을 노래한 'TXT표 러브송'이다. 별 볼 일 없는 현실에서 느끼는 고통과 박탈감을 자조적으로 마주하면서도 '너'라는 존재만은 놓지 않으려는 감정을 표현한다. '과대 포장된 청춘 / 까 보니까 걍 불안뿐', '사랑마저 돈이 필요해', '가진 게 없는데 내 미래를 뭘로 살 수 있나요'처럼 Z세대가 느끼는 현실을 직설적인 가사로 보여준다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "3. Higher Love"
+    },
+    {
+     "type": "p",
+     "text": "강렬한 기타 루프와 멜로디가 폭발적인 에너지를 뿜어내는 댄스 펑크(Dance punk) 장르다. 친숙한 록 사운드에 일렉트로닉 요소를 더해 역동적인 분위기를 완성했다. 가사 속 '그녀'는 꿈과 열정을 상징한다. 때로는 '나'를 괴롭게 하지만 결국 더 높은 곳으로 이끄는 '그녀'를 향한 마음을 노래한다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "4. Sweetest Escape"
+    },
+    {
+     "type": "p",
+     "text": "연준, 태현, 휴닝카이의 유닛곡. 각박한 현실에서 사라지고 싶을 때도 있지만, 적어도 이 노래가 흐르는 동안만큼은 세상을 잠시 따돌리고 '너'의 숨 쉴 틈이자 가장 달콤한 도피처가 되어주겠다는 로맨틱한 고백을 담았다. 그루비한 드럼 리듬과 빈티지한 아날로그 신디사이저에 알앤비(R&B) 감성의 세련된 멜로디를 얹은 팝(Pop) 장르다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "5. Touch the Sky"
+    },
+    {
+     "type": "p",
+     "text": "수빈과 범규의 유닛곡. 겁도 후회도 없이 몸을 날려 하늘 같은 '너'에게 닿겠다는 의지를 노래한다. 가사 속 '너'는 성공을 향한 열망과 야망을 빗댄 존재다. 수빈과 범규가 작사에 참여해 완성도를 높였다. 몽환적인 신디사이저와 간결한 드럼, 관능적인 목소리가 어우러진 미니멀 테크노(Minimal techno) 장르다. 가볍게 흐르는 사운드 안에 역동적이고 매혹적인 분위기가 공존한다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "6. Hate It or Love It"
+    },
+    {
+     "type": "p",
+     "text": "버거운 현실에서 달라지고 싶다면 때로는 손에 쥔 것을 놓고 변화할 줄도 알아야 한다는 메시지를 전한다. 익숙한 '나'를 내려놓고 늘 걷던 길을 벗어날 용기, 그 끝에서 마주할 새로운 세상에 대한 기대를 노래한다. 좋든 싫든 변화한 모습까지 결국 '나'라는 담담한 성찰로 앨범의 마지막을 장식한다. 다양한 장르의 요소를 유기적으로 융합한 얼터너티브 팝(Alternative pop) 곡으로 독특한 신디사이저와 그루비한 드럼 리듬, 서정적인 멜로디가 조화를 이룬다. 범규, 태현, 휴닝카이가 작사에 참여했다."
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "투모로우바이투게더 'Angel Bite'"
+    },
+    {
+     "type": "h",
+     "label": "Spotlight Interview",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "h",
+     "label": "Exclusive Photo 1",
+     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 촬영 비하인드 컷"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/98d/imgUrl20261112013848047.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/71/84c/imgUrl20261112013852774.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Exclusive Photo 2",
+     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 B컷"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5d/426/imgUrl20261112013858347.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/66/a0a/imgUrl20261112013903237.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c5/429/imgUrl20261112013908307.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f7/d1d/imgUrl20261112013913942.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/29/d7e/imgUrl20261112013918638.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/c00/imgUrl20261112013923715.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/36/412/imgUrl20261112013928373.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/96/749/imgUrl20261112013933005.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/05a/imgUrl20261112013938223.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/fd7/imgUrl20261112013944323.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/ddb/imgUrl20261112013949006.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/de1/imgUrl20261112013953326.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/b13/imgUrl20261112013957874.jpg"
+    },
+    {
+     "type": "h",
+     "label": "From 투모로우바이투게더",
+     "text": "To Melon"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#수빈"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/6bc/imgUrl20261112014043245.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8c/9a9/imgUrl20261113025628314.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#연준"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/78/11a/imgUrl20261112014124958.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4c/e2b/imgUrl20261113025634174.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#범규"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1e/7f9/imgUrl20261112014135953.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/85/1d8/imgUrl20261113025640468.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#태현"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/db/a23/imgUrl20261112014145544.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d2/359/imgUrl20261113025646380.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#휴닝카이"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/69/613/imgUrl20261112014155204.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/56/a15/imgUrl20261113025651678.png"
+    },
+    {
+     "type": "h",
+     "label": "Event",
+     "text": "투모로우바이투게더 멜론 스포트라이트 이벤트"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/31c/imgUrl20261112015151181.jpg"
+    }
+   ]
+  },
   {
    "seq": 17380,
    "date": "2026.11.13",
@@ -264,6 +1051,75 @@ export const MAGAZINE = {
    ]
   },
   {
+   "seq": 17374,
+   "date": "2026.11.13",
+   "title": "UCC에서 AI로, 변화하는 K팝 챌린지",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17374",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f0/487/imgUrl20261110031737121.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "오늘날의 K팝 문화는 챌린지를 떼어놓고 생각할 수 없습니다. 숏폼 플랫폼을 타고 퍼져 나가는 짧은 영상들은 이제 음악을 즐기는 주된 방법으로 자리를 잡았는데요. 세월의 흐름과 매체의 변화에 따라 K팝 신의 챌린지 방식 역시 끊임없이 진화해 왔습니다.\n\n이번 매거진에서는 초창기 대중 참여형 동영상 문화의 시작점부터 인공지능 기술이 결합된 최신 트렌드까지, 시간에 따라 변화해 온 챌린지의 주요 분기점과 그 순간을 빛낸 대표곡들을 함께 살펴보려 합니다. K팝의 시대를 관통하며 변화해 온 놀이 문화의 서사를 지금 바로 찾아가 볼까요?"
+    },
+    {
+     "type": "h",
+     "label": "2007년",
+     "text": "UCC 시대, 손짓 하나로 전국을 흔들다"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/7b9/imgUrl20261110032442075.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2000년대 후반은 일반 대중이 직접 동영상을 제작하고 공유하는 일명 UCC 문화가 본격적으로 개화하던 시기였습니다. 이 시기 챌린지식 놀이 문화의 기틀을 마련하며 사회적 신드롬을 일으킨 곡이 바로 2007년 발매된 원더걸스의 'Tell me (Sampling From 'Two Of Hearts')'였는데요. Stacey Q의 명곡을 샘플링한 경쾌한 디스코 리듬 위에 얹어진 중독성 강한 후렴구는 전 세대의 귀를 사로잡았죠.\n\n무엇보다 사람들의 마음을 움직인 건 누구나 따라 할 수 있는 포인트 안무의 힘이었습니다. 소희의 어머나 파트로 대표되는 앙증맞은 손짓과 원더우먼 동작을 응용한 안무는 패러디의 완벽한 소재가 되었는데요. 군인과 학생, 경찰과 직장인에 이르기까지 다양한 사람들이 저마다의 환경에서 영상을 찍어 올리며 하나의 유행을 만들었죠. 스스로 영상을 촬영해 플랫폼에 올려 소통하던 그 시절의 열기는 대중 참여형 챌린지 문화의 위대한 첫걸음이었다고 볼 수 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "2020년",
+     "text": "홍보의 기본값이 된 숏폼 챌린지의 출발점"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a1/95c/imgUrl20261110031845490.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2020년 1월 발매된 지코 (ZICO)의 '아무노래'는 숏폼 플랫폼을 활용한 현대적 챌린지의 명확한 시작점으로 꼽힙니다. 힙합과 댄스홀 요소가 가미된 경쾌한 트랙 위에서 지코 (ZICO)는 누구나 쉽게 따라 출 수 있는 간결하고 직관적인 댄스 챌린지를 제시했는데요. 동료 아티스트들과 함께 찍은 가벼운 댄스 영상은 SNS를 타고 폭발적으로 확산되며 비대면 시기 대중의 답답함을 해소해 주었습니다.\n\n'아무노래'의 흥행 이후 K팝 시장에서 챌린지는 신곡 홍보를 위한 선택이 아닌 필수이자 기본값으로 완전히 변화하게 됩니다. 숏폼 플랫폼 최적화를 위해 곡의 구성이나 후렴구 리듬을 설계하는 흐름까지 만들어질 정도였는데요. 대중이 직접 무대의 주인공이 되어 음악을 완성하는 참여형 숏폼 챌린지의 기틀을 닦았다는 점에서, 이 곡은 가요계의 지형도를 바꾼 중요한 분기점이었다고 할 수 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "2023~2025년",
+     "text": "포화 상태를 넘어선 변형과 의외의 인물들"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c7/0c9/imgUrl20261110032013973.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2023년부터 2025년 사이 K팝 신의 챌린지는 그야말로 포화 상태에 도달하며 수많은 변형을 낳았습니다. i-dle (아이들)의 '퀸카 (Queencard)'를 비롯해 로제 (ROSÉ)와 Bruno Mars가 협업한 'APT.', 그리고 아일릿(ILLIT)의 'Magnetic'에 이르기까지 각양각색의 챌린지가 글로벌 차트를 매료시켰죠. 단순히 포인트 안무를 따라 하는 형식을 넘어 친근한 술자리 게임이나 중독성 넘치는 핑거 댄스 등 아이디어가 돋보이는 콘셉트들이 차례로 등장했습니다.\n\n이 시기 챌린지의 또 다른 특징은 전혀 예상치 못한 인물들의 파격적인 참여였습니다. i-dle (아이들)의 활동 당시 개그우먼 팽현숙이 직접 '퀸카 (Queencard)' 챌린지에 등장해 대중에게 큰 웃음을 선사하는가 하면, 방송인 기안84가 '클락션 (Klaxon)' 챌린지에 참여하고 크리에이터 곽튜브는 보이그룹 LUN8(루네이트)의 'SUPER POWER' 안무를 함께 소화해 화제를 모으기도 했는데요. 정형화된 틀을 깨부수고 뜻밖의 인물들과 합을 맞추는 이러한 변형은 챌린지 문화의 재미를 한 단계 끌어올린 요소가 아닌가 합니다."
+    },
+    {
+     "type": "h",
+     "label": "2026년",
+     "text": "기술과의 만남, '누구를 춤추게 만들까'의 시대로"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/85/245/imgUrl20261110031901648.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2026년에 접어들면서 챌린지 방식은 인공지능 기술의 발전과 결합해 완전히 새로운 패러다임을 마주하고 있습니다. A2O LITE의 'NEON' 관련 콘텐츠에서 프로듀서 이수만과 유영진의 모습을 AI 기술로 구현해 낸 챌린지 버전이 대표적인 사례인데요. 기술을 통해 가상의 인물이나 과거의 인물까지 무대 위로 불러내며 놀이의 범위를 크게 확장했습니다.\n\n이제 챌린지는 대중이 자기 자신의 몸으로 직접 춤을 추고 연기하는 차원에만 머무르지 않습니다. '내가 직접 춤추는 것'을 넘어 '내가 누구를 춤추게 만들까'라는 개념으로 중심축이 이동하고 있는 셈이죠. 창작자와 대중, 그리고 기술이 유기적으로 얽히며 만들어내는 이러한 변화는 K팝 놀이 문화의 새로운 가능성을 또 한번 증명하고 있습니다."
+    },
+    {
+     "type": "p",
+     "text": "2000년대 후반 UCC 영상에서 시작된 자발적 패러디는 숏폼 시대의 댄스 챌린지를 거쳐 AI 기술 기반의 창작 영역까지 끊임없이 스펙트럼을 넓혀왔습니다. 세월이 흐르고 플랫폼의 형태는 계속 바뀌었지만, 좋은 음악을 매개로 서로 소통하고 즐거움을 나눈다는 본질만큼은 언제나 변함없이 이어지고 있는데요. 앞으로는 어떤 새로운 기술과 기발한 아이디어가 등장하여 우리의 귀와 눈을 즐겁게 만들어줄지 사뭇 기대가 됩니다."
+    }
+   ]
+  },
+  {
    "seq": 17360,
    "date": "2026.11.13",
    "title": "[FIRESTARTER]로 돌아온 K/DA 독점 인터뷰와 이미지 공개!",
@@ -398,87 +1254,195 @@ export const MAGAZINE = {
    ]
   },
   {
-   "seq": 17365,
+   "seq": 17377,
    "date": "2026.11.12",
-   "title": "목소리만으로 감탄할 수 있어 – 소프라니스트 브루노 데 사(Bruno de Sá)의 음악 세계",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17365",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/76/e9c/imgUrl20261105010226740.jpg/melon/quality/90/optimize",
+   "title": "랩의 신이라 불리는 남자, Eminem의 30년",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17377",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/17/518/imgUrl20261111013551277.jpg/melon/quality/90/optimize",
    "blocks": [
     {
      "type": "h",
      "label": "Special",
-     "text": "목소리만으로 감탄할 수 있어 – 소프라니스트 브루노 데 사(Bruno de Sá)의 음악 세계"
-    },
-    {
-     "type": "p",
-     "text": "클래식 음악이라는 장르에 별반 관심이 없는 많은 사람들에게 이 장르는 흔들리지 않는 견고한 세계처럼 보일 것입니다. 오래전에 쓰인 작품을 연주자가 악보 그대로 연주하고, 청중은 이를 의심 없이 받아들입니다. 여기에 다른 그림이 끼어드는 경우는 상상하기 어렵죠.\n\n이 문법에 익숙하지 않은 분들에게는 이런 모습이 그다지 흥미롭지 않으실 수도 있겠습니다. 그런데 이 업계 안에서는 꽤 자연스럽지만 일반적인 상식 범위 안에서는 도저히 일어나지 않는 일들도 클래식 음악계의 또 다른 풍경이기도 합니다. 오늘 소개하는 아티스트, 브루노 데 사(Bruno de Sá)처럼 남성으로 태어나 여성의 음역에서 노래하는 성악가들이 바로 그런 존재들입니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/25/96b/imgUrl20261105113225528.jpg"
+     "text": "랩의 신이라 불리는 남자, Eminem의 30년"
     },
     {
      "type": "h",
      "label": "",
-     "text": "브라질에서 등장한 새로운 목소리"
+     "text": "Eminem은 힙합을 위해 태어난 사람이야. 가장 뛰어난 래퍼가 백인인 거지.\n(Eminem is made for hip-hop. The best rapper is a white man.)"
     },
     {
      "type": "p",
-     "text": "사실 이 전통, 여성의 목소리에 닿는 남성의 존재는 성전에서 여성이 노래하는 것을 꺼려했던 기독교의 오랜 전통에서 비롯되었습니다. 그렇게 자리를 잡게 되어 이후 오페라계에도 진출한 남성 성악가들을 음악계에서는 카스트라토라 불렀습니다. 그리고 거세를 하지 않고 훈련으로 여성의 음역에 도달한 이들을 카운터테너라 부르게 되었고요.\n\n그런데 브루노 데 사는 가성을 사용하는 카운터테너와는 완전히 다른 방법으로, 진성으로 높은 음역에 도달합니다. 그래서 그는 자신을 카운터테너가 아닌 소프라니스트라 부릅니다. 만들어진 고음이 아닌 본래부터 이 음역에 익숙한 사람인 것이죠. 그래서 브루노 데 사의 노래를 들어보면 카운터테너와는 다른 특징을 여럿 발견할 수 있습니다. 그의 목소리에는 우선 힘이 있습니다. 카운터테너들이 음역을 확보하기 위해 많은 에너지를 써야 하는 상황에서 표현력에 상당한 공을 들일 수 있는 점도 브루노 데 사의 큰 장점이고요."
+     "text": "2009년 모 인터뷰에서 50 Cent가 했던 이 언급은 Eminem의 캐릭터를 짧고 굵게 설명하며, 그를 향한 50 Cent의 리스펙트를 그대로 보여줍니다. 힙합이 흑인 문화를 기반으로 하는데도 그 장르의 정점에 오른 것은 백인 래퍼라는 인정의 뉘앙스이지요. 동료 래퍼의 개인적 언급이지만, Eminem이 힙합 신 내부에서 실력으로 인정받았다는 점은 그의 발언을 통해 분명하게 알 수 있습니다."
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9c/803/imgUrl20261105113230640.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b6/12c/imgUrl20261111013738602.jpg"
     },
     {
      "type": "p",
-     "text": "실로 보기 드문 재능이라 할 수 있지만 브루노 데 사가 본격적으로 성악가의 길을 걷기 시작한 것은 그리 오래된 일이 아닙니다. 상파울루 근교에서 태어나 어린 시절부터 노래를 하기를 좋아했지만 상파울루에서 대학을 다니던 시절, 그는 성악이 아닌 음악교육을 전공으로 하는 학생이었습니다. 하지만 뛰어난 재능을 숨기기란 또 어려운 일이라 성악가로 살아가야겠다고 마음먹은 이후 브루노 데 사는 고국인 브라질에서 시작해 유럽으로 커리어를 성큼성큼 옮기며 순식간에 오페라계의 새로운 별로 떠올랐습니다. 바로크 음악, 그중에서도 성악 음악에 남다른 애정을 가지고 있는 레이블인 에라토가 이런 인재를 놓칠 리가 없었고 브루노 데 사는 유서 깊은 명가와 2022년 4월 전속계약을 맺게 됩니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/41/a42/imgUrl20261105113243247.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fb/4b5/imgUrl20261105113247805.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c3/1e2/imgUrl20261105113252190.jpg"
+     "text": "힙합은 전통적으로 흑인 공동체를 중심으로 형성된 문화입니다. 미국 흑인 빈민가에서부터 시작됐고, 미국 흑인들 사이에서 발전을 거듭해 왔습니다. 주류 바깥에서부터 시작한 흑인들의 문화는 그들만의 정체성을 기반으로 오랜 시간 견고한 성벽을 쌓아 올렸습니다.\n\n흑인의 전유물이라는 말을 듣던 힙합입니다만, 백인으로서 이 장르의 소비자를 본격적으로 넓힌 아티스트들도 있습니다. 가장 많이 거론되는 아티스트가 둘 있습니다. 첫째는 Beastie Boys이고 둘째는 Eminem이죠. 전자가 '백인도 랩 뮤직을 할 수 있다'는 것을 보여줬다면, 후자는 랩을 흑인 문화의 경계 밖으로 확장했습니다.\n\n과장이 아닙니다. Eminem은 흑인 중심의 힙합 신에서부터 실력을 인정받았고, 동시에 백인 중산층 리스너들도 힙합을 소비하도록 만들었습니다. 그의 등장은 힙합이 미국 흑인 공동체 중심의 문화에서 더 폭넓은 대중문화로 확장하는 데 중요한 계기로 작용했습니다."
     },
     {
      "type": "h",
      "label": "",
-     "text": "잘 알지 못해도 즐겁다"
+     "text": "벼랑 끝에서 벼린 날 선 랩 스타일"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/d42/imgUrl20261111013744344.jpg"
     },
     {
      "type": "p",
-     "text": "그렇게 4년간, 브루노 데 사는 에라토와 총 세 장의 앨범을 선보였습니다. 에라토에서 이제껏 발매된 앨범에는 공통점이 있습니다. 작곡가도, 작품도 처음 들어보지만 무슨 일인지 모르게 듣기 편하고 좋다는 점입니다. 클래식이 이토록 경쾌하고 아름다운 음악이라는 사실을 브루노 데 사는 사전 지식이 아닌 음악 그 자체만의 힘으로 전달합니다."
-    },
-    {
-     "type": "p",
-     "text": "우선 첫 앨범부터 살펴볼까요? 전속계약 이후 2022년 9월 발매된 [Roma Travestita]는 일종의 쇼케이스에 해당합니다. 2012년에 창단해 순식간에 주목받는 시대연주 단체로 자리 잡은 이탈리아의 일 포모 도로와 함께한 앨범에서 브루노 데 사는 앨범 첫 곡인 알레산드로 스카를라티의 오페라 '그리셀다' 중 'Dì che sogno, o che deliro(꿈이라고, 헛소리라고 말해라)'부터 자신이 어떤 성악가인지 확실하게 보여줍니다. 채 2분도 되지 않는 시간 동안 확실하게 자신을 알린 뒤 이어지는 노래 하나하나에 담긴 싱싱함과 기품은 놀랍습니다."
-    },
-    {
-     "type": "p",
-     "text": "첫 앨범으로부터 2년 뒤인 2024년에 선보인 앨범 [Mille Affetti]에서 브루노 데 사는 시대를 조금 더 앞으로 당겨옵니다. 본작에는 알레산드리, 자이델만 등 평소에 들어보기 힘든 작곡가들의 작품들이 세계 최초로 녹음되어 담겼는데요. 왜 이들 작품이 이제껏 연주가 안 되었는지 의아하게 느껴질 정도로 하나같이 완성도가 높습니다. 흥미롭게도 앨범의 하이라이트는 대중에게도 잘 알려진 작품인 모차르트의 '기뻐하라, 환호하라(Exsultate, jubilate)'가 장식합니다. 사실 이 작품이 앨범에 담기게 된 데에는 어떤 사정이 있었습니다. 스승인 니콜라우 지 피게이레두는 '모차르트는 이 곡을 작곡할 때 분명 너와 같은 목소리를 상상했을 것'이라는 말을 남기며 브루노 데 사에게 노래를 독려했습니다. 하지만 제자는 오랫동안 이 작품을 피해왔고 그 사이 스승은 심장마비로 세상을 떠나게 되었죠. 이 작품을 뒤늦게 녹음한 제자는 선생님이 세상에 없음을 아쉬워하지만, 분명 스승은 이 작품을 담아낸 브루노 데 사의 결정에 흡족해할 것입니다."
+     "text": "Eminem은 디트로이트에서 유년시절을 보냈습니다. 당시 디트로이트는 경제적 어려움과 사회적 불안정성이 큰 도시였습니다. 이곳에서 그는 흰 피부색을 가진 빈민이었고, 험난한 환경 속에서 어린 시절을 보내며 자연스럽게 힙합의 세계로 빠져들었습니다.\n\n14살 때부터 마이크를 잡고 지역 프리스타일 랩 배틀을 전전하며 언더그라운드 래퍼로서 끊임없이 자신을 다듬어갔는데요. 그러다 1996년, 언더그라운드에서 독자적으로 발매한 데뷔작 [Infinite]는 당시 상업적 성공을 거두지 못하고 쓴맛을 봐야 했습니다.\n\n상심에 빠지는 대신 그는 자신 안의 분노와 광기를 대변할 페르소나, Slim Shady를 끄집어냈습니다. 일종의 '부캐'였죠. 광기의 캐릭터를 앞세워 직설과 파격을 담은 [Slim Shady EP]는 언더그라운드 힙합 신의 시선을 단숨에 사로잡았습니다.\n\n이 앨범은 정식 발매도 전에 전설적인 프로듀서 Dr. Dre의 귀에도 들어갔습니다. 1997년 전국 규모의 프리스타일 대회인 '랩 올림픽'에서 Eminem이 2위를 차지하자, 그의 데모 테이프가 극적으로 Dr. Dre에게까지 전달된 것이죠. 미래의 전설과 힙합계 거장의 운명적인 만남은 그렇게 시작됐습니다."
     },
     {
      "type": "h",
      "label": "",
-     "text": "목소리로 떠나는 세계 여행 – [Uyaras - The Enchanted Voice]"
-    },
-    {
-     "type": "p",
-     "text": "불과 저번 달인 2026년 10월은 브루노 데 사에게 뜻깊은 시간으로 기억됩니다. 이달 초 새로운 앨범인 [Uyaras - The Enchanted Voice]가 발매된 데 이어 그의 앨범 커리어를 함께 해온 에라토가 2026년 그라모폰지 올해의 레이블로 선정되는 경사를 맞이했기 때문입니다. 좋은 소식이 곧 찾아올 걸 예견이라도 한 걸까요? 에라토에서의 세 번째 앨범인 [Uyaras - The Enchanted Voice]에서 브루노 데 사는 브라질에서 시작해 프랑스, 미국, 스페인, 러시아를 거쳐 오스트리아로 향하는, 어느 때보다 즐거움을 추구하는 프로그램으로 앨범을 구성했습니다. 자신이 태어난 브라질이 자랑하는 작곡가인 빌라로부스의 '브라질풍의 바흐 5번'으로 시작해, 조제프 캉틀루브의 '오베르뉴의 노래' 중 세 곡을 골라 앨범 중간중간에 삽입하고 알베르투 네포무세누의 'As Uyaras(우야라들)'과 거슈윈의 '로렐라이', 그라나도스의 '고예스카스' 중 'La maja y el ruiseñor(마하와 나이팅게일)', 라흐마니노프의 '보칼리제', 오스트리아 작곡가 하인리히 프로흐의 'Deh! torna mio bene(아 돌아와요 내 사랑)'를 차례로 들려주는 브루노 데 사의 목소리는 아름다움과 기술이 어떻게 완벽하게 조화를 이룰 수 있는지를 보여줍니다."
+     "text": "세상을 충격에 빠트린 메이저 데뷔"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4d/d4a/imgUrl20261105113352457.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a4/051/imgUrl20261111013748757.jpg"
     },
     {
      "type": "p",
-     "text": "이 음악들이 마음에 드신 분들을 위한 즐거운 소식이 마지막에 준비되어 있습니다. 아트센터인천의 기획으로 지난 10월 말부터 3회에 걸쳐 진행되고 있는 '인천국제고음악제'의 마지막 무대에 브루노 데 사가 출연한다는 내용을 마지막으로 전해드립니다. 11월 13일 금요일 오후 7시 30분, 브루노 데 사는 코리안 바로크 소사이어티와 함께 그간 발매한 앨범에서는 감상할 수 없는 다양한 아리아와 함께 한국 청중을 만날 계획입니다. 이번 공연으로 처음 한국을 찾는 브루노 데 사. 그 신비에 가까운 아름다운 목소리를 직접 만날 수 있는 기회, 놓치지 마시기를 바랍니다."
+     "text": "될성부른 떡잎을 알아본 Dr. Dre의 든든한 지원 속에 1999년, Eminem의 메이저 데뷔작 [The Slim Shady LP]가 세상에 공개됐습니다. 머리를 노랗게 물들인 정체불명의 백인 래퍼가 뿜어내는 수위 높은 가사와 통통 튀는 랩 플로우는 굉장한 화제를 불러일으켰습니다. 그는 이 앨범을 통해 자신의 불량한 인격 Slim Shady를 세상에 제대로 각인시켰습니다.\n\n논란도 있었지만 상복도 따랐습니다. 이듬해 그래미 어워드 최우수 랩 앨범상의 주인공이 바로 [The Slim Shady LP]였으니까요. 그는 이 메이저 데뷔를 통해 보다 넓은 세상으로 나갈 준비를 시작했습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "전성기의 기록들"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/15/4c3/imgUrl20261111013754109.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이듬해 발표한 [The Marshall Mathers LP]는 Eminem을 인기 랩스타에서 시대의 팝 아이콘으로 격상시킨 작품입니다. 그의 대표적인 명반으로 거론되는 앨범인데요. 역시 굉장한 수위의 가사와 좀 더 진지해진 사유, 그리고 탄탄한 랩메이킹에 더해 그의 훌륭한 연기력까지 돋보인 작품이었습니다.\n\n그 안에서도 Slim Shady 광팬의 뒤틀린 애정과 몰락을 그린 'Stan'은 팬덤 문화의 어두운 면을 날카롭게 조명하며 큰 반향을 일으켰습니다. Dido의 'Thank You'를 샘플링한 서정적인 비트, 편지 형식을 빌린 서사, 그리고 Eminem의 1인 2역을 오가는 연기는 지금 들어도 세련미를 전하지요. 이 곡이 히트한 이후, 지금도 영미권 대중문화에서는 '광적인 팬'에게 'Stan'이라는 단어를 쓰고는 합니다.\n\n한편 'The Real Slim Shady'는 Britney Spears, Christina Aguilera, Carson Daly, Fred Durst 등 당대 팝과 대중문화의 상징적 인물들을 노골적으로 풍자하며 화제를 모았습니다. Eminem 특유의 타이트한 라임과 조롱조의 유머, 그리고 자신을 둘러싼 논란마저 소재로 삼는 태도는 앨범의 대중적 파장을 한층 키웠고요.\n\n그렇게 그의 음악은 높은 수위의 표현으로 거센 비판을 받는 동시에, 사회적 위선을 노골적으로 풍자한다는 찬사를 함께 받았습니다. 이 시기 Eminem은 수많은 찬사와 논란을 동시에 만들었고, 거대한 지지세력만큼이나 강한 반대세력도 함께 만들었습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c2/973/imgUrl20261111013801977.jpg"
+    },
+    {
+     "type": "p",
+     "text": "뒤이어 2002년 선보인 [The Eminem Show] 또한 전 세계적으로 2천만 장 이상의 판매고를 기록하며 대성공을 거두었습니다. 대히트를 기록한 'Without Me'가 바로 이 앨범에 수록되어 있습니다. 역시 그 안에는 타이트한 라임과 통통 튀는 래핑, 유명인들을 향한 디스가 담겨있었고요.\n\n한편 같은 시기 그가 직접 주연을 맡고, 자신의 자전적 서사를 반영한 영화 '8마일'도 흥행에 성공했는데요. 영화의 주제곡인 'Lose Yourself'는 힙합 음악 최초로 아카데미 최우수 주제가상을 수상하며 역사적인 기록을 남겼습니다. Eminem은 빠르게 전설을 향해 가고 있었습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "그에게도 슬럼프는 있었으니"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/01/e6e/imgUrl20261111013807550.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2004년 발표한 다섯 번째 정규 앨범 [Encore] 역시 발매와 동시에 차트 정상에 오르며 큰 사랑을 받았습니다. 하지만 성공 이면에는 그를 유혹하는 그림자가 어둡게 그늘져 있었는데요. 쏟아지는 사회적 비판과 거대한 유명세에서 오는 중압감이 그의 정신을 갉아먹었고, 무엇보다 앨범 발매 후 절친한 동료였던 Proof가 사망한 것이 그에게 큰 상실감을 주었기 때문입니다.\n\n이 시기 Eminem은 지독한 약물 중독과 슬럼프에 빠지며 음악 활동을 정상적으로 이어가지 못했습니다. 2005년에는 유럽 투어를 돌연 취소하고, 재활원에 입원하며 오랜 공백기에 들어갔죠. 정규 커리어가 중단된 약 4년 반의 기간 동안, 그는 오직 생존을 위한 외롭고 지루한 싸움을 이어갔습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "회복의 서사로 부활하다"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/aa/77c/imgUrl20261111013815676.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2009년 [Relapse]는 치열한 재활을 거쳐 약 5년 만에 공개됐습니다. 수많은 알약으로 만든 그의 얼굴을 앨범 커버로 내건 것으로 알 수 있듯, 암흑기 동안 그의 내적 투쟁을 담아낸 앨범이었습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/47/78f/imgUrl20261111013824655.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이듬해인 2010년. 그는 [Recovery]를 통해 완벽한 부활을 알렸습니다. 약물 중독을 이겨낸 진솔한 감회와 희망을 전하는 싱글 'Not Afraid', 그리고 Rihanna가 피처링으로 참여해 상처받은 감정을 노래한 'Love The Way You Lie'가 폭발적인 인기를 끌었는데요. 앨범은 상업적 성공과 평단의 호평을 동시에 추수하며 그에게 제2의 전성기를 열어주었습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "랩의 신으로 강림하사"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/62/1b5/imgUrl20261111013830394.jpg"
+    },
+    {
+     "type": "p",
+     "text": "[Recovery] 이후 Eminem은 다시 힙합 신의 중심에 섰습니다. 하지만 그는 더 이상 20대의 분노와 광기를 그대로 내보이는 래퍼가 아니었습니다. 그보다는 나이 들고 변화한 자신을 어떻게 랩으로 말할 것인지, 그리고 한 시대의 아이콘이 된 뒤에도 어떻게 살아남을 것인지를 고민하고 있었지요.\n\n그 답은 2013년, [The Marshall Mathers LP 2]에서 나왔습니다. 2000년의 전설적 앨범 [The Marshall Mathers LP]의 연작 격의 제목처럼, 이 작품은 과거의 자신과 마주하는 앨범이었습니다. Dr. Dre와 Rick Rubin이 프로덕션에 참여하며 과거의 사운드를 되살렸는데, 중년에 접어든 Eminem의 래핑은 오히려 더 날카롭고 타이트했습니다.\n\n'The Monster'는 Rihanna와의 재회를 통해 내면의 균열을 노래했고, 'Rap God'는 그의 랩 스킬을 극한까지 밀어붙인 곡이었습니다. 속사포 랩, 복잡한 라임, 끊임없이 이어지는 단어의 사슬을 통해 Eminem은 여전히 랩을 초월적인 방식으로 다룰 줄 아는 래퍼라는 사실을 증명했습니다. 앨범은 빌보드 200 1위로 데뷔했고, 그는 이 앨범으로 그래미 최우수 랩 앨범상을 또 한번 수상했습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "계속된 Show and Prove"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b4/a92/imgUrl20261111013836052.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2017년의 [Revival]은 그의 커리어에서 가장 복잡한 반응이 이어진 앨범이었습니다. 정치적 분노, 중독과 회복, 가족에 대한 고백과 대중문화적 비판을 담은 앨범이었지만, 대중과 평단은 과한 팝 성향과 산만한 프로덕션, 그리고 뚝뚝 끊기는 듯한 그답지 않은 랩 플로우를 지적하며 냉정한 평가를 내렸기 때문입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/52/603/imgUrl20261111013840625.jpg"
+    },
+    {
+     "type": "p",
+     "text": "Eminem은 그 반응에 즉각 답했습니다. 2018년 8월, [Revival] 발매 뒤 8개월 만에 예고 없이 [Kamikaze]라는 이름의 정규앨범을 공개한 것인데요. 이 앨범은 비판을 향한 공격적인 디스와 날카로운 펀치라인으로 가득했습니다. 그는 여전히 랩으로 배틀을 하는 래퍼였고, 비판을 받아들이기보다는 그것을 소재로 삼아 되돌려주는 방식을 택했습니다.\n\n[Kamikaze]는 상업적으로도 성공해 빌보드 200 1위에 올랐습니다. 잠시 위태했던 Eminem의 위상이 그의 Show and Prove로 다시 증명되었음은 물론입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4b/f76/imgUrl20261111013845027.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2020년, Eminem은 또 다시 예고 없이 [Music to Be Murdered By]를 발매했습니다. 무려 60년 전의 작품에서 모티브를 얻은 그는 변하는 세태에 자신을 맞추기보다는 또 한 번 자신의 올드스쿨한 본령을 지키는 모습을 보여줬습니다.\n\n수록곡 중에는 Juice WRLD와 협업한 'Godzilla'가 큰 주목을 받았습니다. 이 곡은 'Rap God'을 잇는 빠르고 기술적인 래핑의 정점을 보여주며, 그가 세대 변화에도 불구하고 여전히 랩의 언어적 한계를 밀어붙일 수 있음을 증명한 트랙입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "2022년, 로큰롤 명예의 전당으로"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f3/87b/imgUrl20261111013849635.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2022년 2월, Eminem은 그해 슈퍼볼 하프타임 쇼에 Dr. Dre, Snoop Dogg, Mary J. Blige, Kendrick Lamar, 50 Cent와 함께 올랐습니다. 이름만 봐도 알 수 있듯, 이 무대는 과거와 현재의 힙합계 스타들을 한자리에 모인 역사적인 행사였는데요. 여기서 그는 Dr. Dre 사단과 함께 모처럼 추억의 무대를 함께했습니다.\n\n같은 해 그는 대중음악계 최대 영예라고 할 수 있는 '로큰롤 명예의 전당'에 헌액되기도 했습니다. 힙합 아티스트로서 이 전당에 오른 것은 그가 장르적 경계를 넘어 대중음악사 전체에 남긴 영향력을 공식적으로 인정받은 것이라 해도 과언이 아닙니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "2024년, Slim Shady의 죽음"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/54/224/imgUrl20261111013859531.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2024년, Eminem은 12번째 정규 앨범 [The Death of Slim Shady (Coup de Grâce)]를 발매했습니다. 그간 자신이 앞세운 페르소나, Slim Shady를 '죽음'이라는 서사로 다룬 작품이었죠. 과거의 랩 스타일과 현재의 랩스타일을 의도적으로 교차배치한 이 앨범은 특히 올드 팬들의 추억을 자극했습니다.\n\n'Houdini'가 대표적입니다. 이 곡은 Slim Shady라는 페르소나를 향한 그의 애증을 담은 곡이었는데요. 2000년대 초반의 Eminem을 떠올리게 하는 비트와 훅 속에서 그는 과거의 영광을 그리워하는 동시에 그 시절의 자신을 조롱하기도 합니다. 반면 'Brand New Dance'에서는 Slim Shady 특유의 과격한 유머와 도발을 되살리며 그가 여전히 대중을 자극하는 법을 알고 있음을 보여줬지요.\n\n앨범은 빌보드 200 차트 1위로 데뷔했으며, 2025년 그래미에서 최우수 랩 앨범, 최우수 랩 퍼포먼스, 최우수 뮤직 비디오 부문에 후보로 올랐습니다. 여전히 죽지 않은 그의 폼과 화제성을 보여준 앨범이었습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "아직 끝나지 않은 이야기"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/35/ac4/imgUrl20261111013904308.jpg"
+    },
+    {
+     "type": "p",
+     "text": "긴 시간 동안 그는 몇 번의 슬럼프와 약물 중독, 비판과 논란을 겪었지만 매번 자신을 증명하며 이후의 서사를 써 내려갔습니다. 그리고 이제는 Slim Shady라는 페르소나마저 죽음으로 보내며 다음 챕터를 향해 나아가고 있지요.\n\n오늘로부터 딱 30년 전, 1996년 11월 12일에 그의 언더 데뷔앨범인 [Infinite]가 세상에 나왔습니다. 당시만 해도 그는 아무도 주목하지 않던 이름 없는 래퍼였습니다. 하지만 그는 포기하지 않았고, 결국 힙합 신의 정점에 섰습니다. Eminem의 30년 디스코그래피를 돌아보며, 오늘은 그의 음악과 함께해보는 건 어떨까요?"
     }
    ]
   },
@@ -880,602 +1844,6 @@ export const MAGAZINE = {
     {
      "type": "img",
      "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/21a/imgUrl20261106051506621.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17372,
-   "date": "2026.11.10",
-   "title": "새로운 흐름을 만들어갈 LNGSHOT의 한 수, [S.W.I.S.H.]",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17372",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b8/101/imgUrl20261109115941006.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "새로운 흐름을 만들어갈 LNGSHOT의 한 수, [S.W.I.S.H.]"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분!\nLNGSHOT이 지난 1월 선보였던 데뷔 EP [SHOT CALLERS]에 이어, 한층 성장한 모습과 함께 EP [S.W.I.S.H.]로 첫 컴백을 하게 되었습니다!\n\n특히, 이번 EP [S.W.I.S.H.]는 지난 10월 21일 발매된 리드 싱글 'Masterpiece'부터 LNGSHOT의 새로운 음악적 시도까지 다채롭게 담아냈는데요. 멤버들이 직접 제작에 참여하며 완성도를 높인 이번 앨범을 통해 더욱 새로운 LNGSHOT의 모습을 만나보실 수 있습니다!\n\n멜론 가족 여러분에게만 특별 공개하는 [S.W.I.S.H.]의 타이틀곡, 'Bananas'의 MV 촬영 현장으로 함께 가보실까요?"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "LNGSHOT EP [S.W.I.S.H.]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/150/07/233/15007233_20261020135543.jpg"
-    },
-    {
-     "type": "p",
-     "text": "EP [S.W.I.S.H.]는 'Swag with integrity shapes history'의 약자로, '여전히' 진정성 있는 태도를 통해 새로운 흐름을 만들어가겠다는 LNGSHOT의 의지가 투영된 작품이다.\n\n[S.W.I.S.H.]는 그 의미처럼 이전 작품들과 같은 목표를 향하면서도, 지금까지 보여주지 않았던 LNGSHOT만의 새로운 음악적 시도와 이를 가능하게 한 아티스트로서의 성장을 함께 담아냈다.\n\n멤버들은 전작들과 마찬가지로 이번 EP의 전반적인 제작 과정에 직접 참여하며 각자의 개성과 장점을 자연스럽게 녹여냈다. 전작 [SHOT CALLERS]가 LNGSHOT이 가진 다양한 매력을 보여주는 데 초점을 맞췄다면, [S.W.I.S.H.]에서는 한 단계 성장한 네 멤버가 하나의 팀으로서 추구하는 음악과 방향성을 보다 선명하게 확인할 수 있다."
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "LNGSHOT 'Bananas' MV 촬영 현장 비하인드"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "Ok the girls go bananas"
-    },
-    {
-     "type": "p",
-     "text": "더 높은 곳을 향한 LNGSHOT의 꿈과 자신감을 담은 타이틀곡 'Bananas'의 MV 현장, 함께 가보실까요?"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7d/f49/imgUrl20261109012508313.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4b/449/imgUrl20261109012513202.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/53/8d1/imgUrl20261109012518523.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/18/664/imgUrl20261109012522574.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d3/caf/imgUrl20261109012527647.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/dd6/imgUrl20261109012533514.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ce/de9/imgUrl20261109012537953.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/42/506/imgUrl20261109012544161.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e4/c35/imgUrl20261109012550304.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a7/09b/imgUrl20261109012555739.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/17e/imgUrl20261109012601430.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e7/b81/imgUrl20261109012606242.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d1/d43/imgUrl20261109012611546.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d4/8b1/imgUrl20261109012616160.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e4/e60/imgUrl20261109012620936.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d2/35d/imgUrl20261109012625939.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9f/32a/imgUrl20261109012631572.jpg"
-    },
-    {
-     "type": "p",
-     "text": "에너지 넘치는 'Bananas'의 MV 촬영 현장, 어떠셨나요?\n이번 EP [S.W.I.S.H.]의 타이틀곡 'Bananas', 멜론 가족 여러분의 많은 관심과 사랑 부탁드려요!"
-    },
-    {
-     "type": "h",
-     "label": "Official Photo",
-     "text": "LNGSHOT 'Bananas' Official Photo"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a8/e2e/imgUrl20261109012647340.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e7/eb1/imgUrl20261109012651817.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/31/295/imgUrl20261109012655495.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e6/9bd/imgUrl20261109012659708.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f1/475/imgUrl20261109012704137.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/73/8ad/imgUrl20261109012712609.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "LNGSHOT 'Bananas'"
-    },
-    {
-     "type": "h",
-     "label": "From LNGSHOT",
-     "text": "To Melon"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3d/39a/imgUrl20261109012725169.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17362,
-   "date": "2026.11.10",
-   "title": "영화음악 그 너머의 히사이시 조를 만나다, [그대들은 어떻게 살 것인가 심포닉 모음곡]",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17362",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/23/c90/imgUrl20261104025614560.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "영화음악 그 너머의 히사이시 조를 만나다, [그대들은 어떻게 살 것인가 심포닉 모음곡]"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9d/cc5/imgUrl20261104013506123.jpg"
-    },
-    {
-     "type": "p",
-     "text": "우리에게 히사이시 조(Hisaishi Joe)는 무엇보다도 지브리 애니메이션과 함께 기억되는 작곡가입니다. 지브리 스튜디오의 전설인 미야자키 하야오 감독과 함께한 '이웃집 토토로', '센과 치히로의 행방불명', '모노노케 히메' 등 수많은 작품 속 음악은 단순한 OST를 넘어 세대와 국경을 초월하여 사랑을 받았고 이제는 고전의 반열에 들어섰다고 해도 과언이 아니죠.\n\n하지만 히사이시 조라는 작곡가를 영화음악 작곡가, 애니메이션 음악 작곡가만으로 설명하기는 어렵습니다. 음대 작곡과에서 정통 클래식 중심의 교육을 받은 그는 일찍부터 미니멀리즘과 전자음악 등 20세기 음악을 깊게 공부했고, 그러한 음악적 배경을 바탕으로 자신의 독립적인 작품도 꾸준히 발표하고 있죠.  협주곡을 발표하고 오케스트라를 지휘하는 등 클래식 음악가로서의 영역도 꾸준히 넓혀 왔습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/61/592/imgUrl20261104013510888.jpg"
-    },
-    {
-     "type": "p",
-     "text": "최근의 히사이시 조는 이러한 개인 활동에 더욱 집중하는 모습입니다. 지난 10월, 세계 최고의 오케스트라 중 하나로 꼽히는 네덜란드 로열 콘세르트헤바우 오케스트라(RCO)를 직접 지휘하며 자신의 작품을 연주한 것을 비롯해 세계 각국의 오케스트라와 다양한 프로젝트를 진행하고 있죠. 최근 그의 행보에서는 자신만의 음악적 언어를 발전시키는 것과 동시에 청중과의 소통에 있어서도 균형점을 찾으려는 고민이 느껴집니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/83/896/imgUrl20261104013515142.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번에 발매되는 앨범인 [그대들은 어떻게 살 것인가 심포닉 모음곡]은 2023년 개봉한 미야자키 하야오의 동명 애니메이션을 모티브로 한 작품입니다. 단순히 애니메이션 OST를 간추려서 발매한 것이 아니라 무대 공연을 위한 콘서트 버전으로 새롭게 쓰인 음악이죠. 실제로 히사이시 조는 이 심포닉 모음곡을 하나의 독립적인 작품이라고 이야기합니다. 영화의 배경음악 역할에만 머무는 음악이 아니라는 것이죠.\n\n앨범의 수록곡들은 주인공 마히토의 여정을 그대로 따라가며 다채롭게 변화합니다. 가령, 'Ask Me Why'는 첫 번째 트랙에서 피아노 독주 버전으로 연주되며 노스탤지어를 자아내지만 마지막 트랙에서는 관현악 반주가 추가되며 한층 따뜻한 느낌을 연출합니다. 그 외에도 마히토가 환상의 세계로 들어가는 과정을 묘사한 '와라와라(Warawara)'의 경쾌하고 장난스러운 리듬, 행진곡풍의 스네어 드럼과 현악기의 피치카토 소리가 조화를 이루는 '대왕의 행진(The King’s Parade – Diversion)' 등 다채로운 곡들이 이어지죠. 특히 '불의 비(Rain of Fire)'는 원래 OST에 포함되었던 사람의 목소리 대신 히사이시 조가 직접 연주하는 피아노가 선율을 담당하도록 새롭게 구성했습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/07/a5d/imgUrl20261104013520593.jpg"
-    },
-    {
-     "type": "p",
-     "text": "히사이시 조가 오랫동안 애정을 가져온 음악 사조인 미니멀리즘의 특징을 이 앨범에서 확인할 수 있다는 점 또한 흥미로운 감상 포인트입니다. 히사이시 조는 짧은 음형 패턴의 반복을 바탕으로 음악을 전개하되, 단조로운 반복에 머물지 않고 독창적인 음향을 만들어내며 음악의 긴장감을 표현해내죠. 특히 12번 트랙 '대붕괴(The Great Collapse)'에 등장하는 반복적인 아르페지오 패턴의 활용 방식은 히사이시 조에게 큰 영향을 끼친 필립 글래스의 음악을 떠올리게 합니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3b/945/imgUrl20261104013553026.jpg"
-    },
-    {
-     "type": "p",
-     "text": "[그대들은 어떻게 살 것인가 심포닉 모음곡]은 최근의 히사이시 조가 추구하는 음악적 지향점을 단적으로 드러내는 앨범이라고 할 수 있습니다. '지브리'로 대표되는 영화음악, 애니메이션 음악은 분명 히사이시 조라는 작곡가를 설명하는 가장 핵심적인 음악적 정체성입니다. 하지만 그의 음악 세계는 거기에만 머물지 않죠. 영화음악을 통해 전 세계 청중들과 폭넓게 소통하면서도 그 속에 자신이 오랫동안 탐구해 온 현대음악의 어법을 녹여내기 위해 고심하고 있습니다. 이러한 [그대들은 어떻게 살 것인가 심포닉 모음곡]과 같은 독립적인 관현악 작품을 통해 구체화되었죠. 일흔을 훌쩍 넘긴 나이에도 끊임없이 새로움을 추구하며 변모하는 진취적인 히사이시 조의 모습을 이번 작업을 통해서도 확인할 수 있겠습니다."
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "Hisaishi Joe [그대들은 어떻게 살 것인가 심포닉 모음곡]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/25/958/15125958_20261104153055.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17371,
-   "date": "2026.11.09",
-   "title": "A2O SOUL만의 뉴 신스웨이브 사운드로 완성한 데뷔 앨범 [SUPERSTAR] MV 촬영 비하인드",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17371",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/54/38b/202611091657344183.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a8/711/imgUrl20261109111648611.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "A2O SOUL 데뷔 앨범 [SUPERSTAR] 타이틀곡 'Dancing in the Dark' 뮤직비디오 촬영 현장"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분! 지난 10월, 선공개곡 'SUPERSTAR'로 첫선을 보인 A2O SOUL이 데뷔 앨범 [SUPERSTAR]로 찾아왔습니다. 데뷔 앨범 [SUPERSTAR]는 '소울(SOUL)'을 찾아 나선 소년들이 그 여정에서 마주하는 다양한 순간과 감정을 음악으로 담아낸 앨범입니다. 총 5곡으로 구성된 이번 앨범은 A2O SOUL이 선보이는 '뉴 신스웨이브(New Synthwave)' 사운드를 바탕으로 그들만의 독창적인 음악적 색깔과 정체성을 담아냈습니다. 특히 더블 타이틀곡 'Dancing in the Dark'에는 Beyonce, Kanye West 등의 앨범에 참여한 Rissi와 Chris Brown 등과 협업해 온 Will Gittens를 비롯한 세계적인 프로듀서들이 참여해 곡의 완성도를 한층 높였습니다. 'Dancing in the Dark' 뮤직비디오는 청소년기에 마주하는 복잡하고 다채로운 감정들을 감각적인 영상미로 풀어냈는데요. 강렬한 사운드와 감각적인 비주얼이 어우러진 A2O SOUL의 'Dancing in the Dark' 뮤직비디오 촬영 현장, 지금 함께 만나보시죠!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "A2O SOUL [SUPERSTAR]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/146/44/792/14644792_20261109104252.jpg"
-    },
-    {
-     "type": "p",
-     "text": "데뷔 앨범 [SUPERSTAR]는 A2O SOUL이 들려주는 첫 번째 이야기다. '소울'을 찾아 나선 열다섯 명의 소년들이 그 여정에서 마주한 크고 작은 순간들의 감정을 담았다.\n\nA2O SOUL은 이 이야기를 직접 이름 붙인 장르인 'NEW SYNTHWAVE'의 5곡으로 풀어낸다. 그 이름에는 신시사이저를 활용한 음악들이 한때 가장 새로운 소리였던 것처럼, 새로운 시대를 만들어 갈 가장 현대적인 사운드를 선보이겠다는 A2O SOUL의 선언이 담겼다.\n\n이 여정에 세계적인 프로듀서진도 힘을 모았다. 'SUPERSTAR'에는 The Kid LAROI와 Justin Bieber의 'STAY'를 공동 작곡한 HAAN, Drake와 Doja Cat의 히트곡을 다수 탄생시킨 GENT!가, 'Dancing in the Dark'에는 Beyonce, Kanye West 등의 앨범에 이름을 올린 Rissi, Chris Brown과 호흡을 맞춰 온 Will Gittens가 참여해 곡과 앨범의 완성도를 한층 높였다."
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo",
-     "text": "멜론 독점 비하인드 포토"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/2c/9c5/imgUrl20261109111728102.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b9/7cc/imgUrl20261109111734717.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3c/7cc/imgUrl20261109111740443.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7f/418/imgUrl20261109111747304.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/65/23b/imgUrl20261109111753473.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c2/848/imgUrl20261109111800709.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/89a/imgUrl20261109111805556.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/aa/192/imgUrl20261109111811104.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d9/685/imgUrl20261109111817815.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fd/4de/imgUrl20261109111829209.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e1/175/imgUrl20261109111835136.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/b55/imgUrl20261109111843996.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/98/ff3/imgUrl20261109111853159.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/09/065/imgUrl20261109111901860.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6f/41d/imgUrl20261109111909003.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "A2O SOUL 'Dancing in the Dark'"
-    },
-    {
-     "type": "h",
-     "label": "From A2O SOUL",
-     "text": "To Melon"
-    }
-   ]
-  },
-  {
-   "seq": 17368,
-   "date": "2026.11.09",
-   "title": "채령에게 Lovesick! 첫 솔로 데뷔, 채령 (ITZY) [Lovesick]",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17368",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/94/899/imgUrl20261106095845174.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "채령에게 Lovesick! 첫 솔로 데뷔, 채령 (ITZY) [Lovesick]"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분!\n채령 (ITZY)이 첫 솔로 데뷔 앨범 [Lovesick]으로 여러분을 찾아왔습니다! 🩷"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/93/a15/imgUrl20261106095913063.jpg"
-    },
-    {
-     "type": "p",
-     "text": "채령 (ITZY)만의 다채로운 매력을 가득 담은 첫 솔로 앨범이라고 하는데요!\n\n멜론 가족 여러분만을 위한 'Lovesick' 미공개 포토도 준비되어 있으니,\n채령 (ITZY)의 달콤하고 로맨틱한 모먼트 속으로 함께 푹 빠져 볼까요? ✨"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "채령 (ITZY) [Lovesick]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/344/15134344_20261106104804.jpg"
-    },
-    {
-     "type": "p",
-     "text": "채령 (ITZY)의 첫 솔로 미니 앨범 [Lovesick]은 채령 (ITZY)만의 통통 튀는 매력과 다채로운 음악적 색깔을 담아낸 앨범인데요! Y2K 감성을 살린 트렌디한 팝 사운드부터 부드럽고 몽환적인 분위기의 곡까지, 다양한 장르를 넘나드는 음악을 선보였습니다.\n\n앨범과 동명의 타이틀곡 'Lovesick'은 예상치 못한 로맨틱 크러쉬에 빠진 순간의 두근거림과 달콤한 혼란을 표현한 댄스 팝 곡입니다! 머릿속을 가득 채운 한 사람을 향한 설렘과 걷잡을 수 없이 커져가는 감정 속, 사랑에 빠져드는 과정을 경쾌하게 담아냈습니다. 💗\n\n타이틀곡 'Lovesick'을 비롯해 몽환적인 분위기와 부드러운 리듬이 매력적인 'Moonlit Club', 채령 (ITZY)만의 매력을 '향기'에 비유해 풀어낸 'Scent', 성숙하면서도 아련한 감성을 담아낸 러브송 'Favorite Reason'까지! 총 4곡을 통해 채령 (ITZY)의 한층 다채로워진 음악적 세계를 만나볼 수 있습니다.\n\n채령 (ITZY)만의 매력이 가득 담긴 첫 솔로 미니 앨범 [Lovesick], 멜론에서 지금 바로 감상해 보세요! 🎧💞"
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "채령 (ITZY) 'Lovesick' 독점 비하인드 포토"
-    },
-    {
-     "type": "p",
-     "text": "멜론 최초 공개!\n채령 (ITZY)의 비하인드 포토가 도착했습니다! 📸\n\n・‥…━━━━☆☆━━━━…‥・\nLovesick에 빠진 여러분을 위한 오늘의 처방전 💊\n채령 (ITZY)의 사랑스러운 순간들 무한 감상하기!\n・‥…━━━━☆☆━━━━…‥・\n\n그럼 심장 꽉 붙잡으시고,\n채령 (ITZY)의 사랑스러운 순간들을 함께 만나보아요 💘"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f6/be9/imgUrl20261106095938967.jpg"
-    },
-    {
-     "type": "p",
-     "text": "채령 (ITZY)만 보면 자꾸 설레 기분이 ଘ♥ଓ\n커져 두근거림이 ... (灬♥ω♥灬)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c0/336/imgUrl20261106095952649.jpg"
-    },
-    {
-     "type": "p",
-     "text": "치료가 필요할 정도로 심각한 'Lovesick' 증후군입니다.\n흥, 웃기는 소리. 온 세상이 다 ryeong and ryeong and ryeong and ryeong ∞♡*♥"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/17/c43/imgUrl20261106095957653.jpg"
-    },
-    {
-     "type": "p",
-     "text": "예상 못 한 freeze…\n채령 (ITZY) 미모 앞에서 그대로 얼어버렸습니다 🥶🧊"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/82/76b/imgUrl20261106100002555.jpg"
-    },
-    {
-     "type": "p",
-     "text": "은은하게 퍼지는 채령 (ITZY)만의 Scent\n맘속 깊이 각인 완 🌿🌸"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/bdf/imgUrl20261106100007542.jpg"
-    },
-    {
-     "type": "p",
-     "text": "채령이가 예쁜게 숨긴다고 숨겨지는 것도 아니고…\n채령 (ITZY)을 사랑할 수밖에 없는 Favorite Reason (灬˘╰╯˘灬)♥｡・ﾟ"
-    },
-    {
-     "type": "p",
-     "text": "여기까지!\n채령 (ITZY)의 다채로운 매력이 가득 담긴 'Lovesick' 독점 미공개 포토를 만나봤습니다! 📸\n보기만 해도 두근거리는 순간들이 가득했는데요! 이 설렘을 그대로 이어서 'Lovesick' Official Trailer와 M/V Photo도 함께 감상하며 마무리해 볼까요? 💘\n채령 (ITZY)만의 매력과 음악적 색깔을 가득 담아낸 첫 솔로 앨범 [Lovesick]!\n멜론 가족 여러분도 채령 (ITZY)의 음악과 함께 사랑에 빠진 듯한 특별한 순간을 만끽해 보세요. 💞🎧"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0f/4ed/imgUrl20261106100015920.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/607/imgUrl20261106100020864.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f9/1b5/imgUrl20261106100110670.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/13/790/imgUrl20261106100115990.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7b/0a6/imgUrl20261106100124072.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a0/9ba/imgUrl20261106100129780.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f5/115/imgUrl20261106100134665.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/29/34b/imgUrl20261106100139467.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/23/72b/imgUrl20261106100144149.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "채령 (ITZY) 'Lovesick'"
-    }
-   ]
-  },
-  {
-   "seq": 17358,
-   "date": "2026.11.09",
-   "title": "이세계아이돌 (ISEGYE IDOL)이 열어 보인 새로운 세계, 미니 2집 [Across Dimensions]",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17358",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c7/cf6/imgUrl20261106100909885.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/89/4f1/imgUrl20261106100959236.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "이세계아이돌 (ISEGYE IDOL)이 열어 보인 새로운 세계, 미니 2집 [Across Dimensions]"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분!\n이세계아이돌 (ISEGYE IDOL)이 The 2nd Mini Album [Across Dimensions]로 돌아왔습니다.\n\n서로 다른 감정과 선택이 만들어내는 다섯 개의 차원을 담은 이번 앨범은 자신들만의 방식으로 새로운 차원을 향해 나아가는 이세계아이돌 (ISEGYE IDOL)의 여정을 담고 있습니다. 예측할 수 없는 사랑 앞에서 모든 것이 뒤엉키는 순간에서 시작해, 꿈처럼 희미하게 남아 있는 감정의 잔상에 도착하기까지. 다섯 개의 트랙은 저마다 다른 감정의 순간을 하나의 흐름으로 연결하며 우리를 몰입하게 만듭니다.\n\n약 1년 만에 선보이는 신보 [Across Dimensions]에는 지금껏 만나볼 수 없었던 이세계아이돌 (ISEGYE IDOL)의 새로운 모습이 다채롭게 담겨 있는데요, 타이틀곡 'REBELS'의 뮤비 스틸컷과 함께 집중 탐구해볼까요?\n\n* 멜론 가족분들에게 전하는 특별한 메시지도 놓치지 마세요!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "이세계아이돌 (ISEGYE IDOL) [Across Dimensions]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/20/216/15120216_20261103144910.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "이세계아이돌 (ISEGYE IDOL) [Across Dimensions] 'REBELS' MV 스틸컷 공개"
-    },
-    {
-     "type": "p",
-     "text": "이세계아이돌 (ISEGYE IDOL) 두 번째 미니앨범 [Across Dimensions]의 타이틀곡 'REBELS'의 MV 스틸 컷을 만나 보세요!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/1d9/imgUrl20261106101041424.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🎥 캠코더를 들고 어딘가로 향하는 비챤! 어디로 가는 걸까요? 👀"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ac/d5a/imgUrl20261106101052292.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🏫 아하! 동아리방에 있는 언니들을 찍으러 간 거군요!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/da/bfb/imgUrl20261106101057657.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🎈 갑자기 두둥실 떠오르는 이세계아이돌 (ISEGYE IDOL)! 무슨 일이 일어난 걸까요?"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/15/b06/imgUrl20261106101102764.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🥰 단정한 교복에서 '언니미' 뿜뿜한 레이싱 수트를 입은 모습으로 변신했네요!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a4/8d0/imgUrl20261106101107586.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🏎️ 각자의 개성이 드러나는 바이크를 타고 힘차게 어디론가 향합니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/27e/imgUrl20261106101112041.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🎢 반짝반짝 빛나는 도시 위를 질주하는 여섯 멤버들!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/39/d70/imgUrl20261106101117086.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🏁 과연 이 경주에서 누가 승리했을까요?! 💜💛💙🩷🩵💚"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/62/ab0/imgUrl20261106101121950.jpg"
-    },
-    {
-     "type": "p",
-     "text": "🌿 모두가 하나가 되는 순간, 차원을 넘어 새로운 가능성을 향해 함께 나아갑니다 ✨"
-    },
-    {
-     "type": "h",
-     "label": "Official Concept Photo",
-     "text": "이세계아이돌 (ISEGYE IDOL) [Across Dimensions]"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a4/5df/imgUrl20261106101141211.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a4/d00/imgUrl20261106101145613.jpg"
-    },
-    {
-     "type": "h",
-     "label": "From 이세계아이돌 (ISEGYE IDOL)",
-     "text": "To Melon"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6c/7af/imgUrl20261106101607237.jpg"
-    },
-    {
-     "type": "p",
-     "text": "그리고 이파리를 위한 또 하나의 소식!\n11/23(월)까지 베리즈에서 [Across Dimensions] 발매 기념 이벤트를 진행합니다.\n지금 바로 이벤트에 참여하고 이세계아이돌 (ISEGYE IDOL) 독점 포토카드 세트 받아 가세요🎁"
     }
    ]
   }
