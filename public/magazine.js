@@ -1,7 +1,208 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-17 04:25",
+ "fetchedAt": "2026-11-18 03:33",
  "articles": [
+  {
+   "seq": 17386,
+   "date": "2026.11.17",
+   "title": "수험생에게 바치는 응원가💪🍀",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17386",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/67/f57/202611160854135464.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "수험생에게 바치는 응원가💪🍀"
+    },
+    {
+     "type": "p",
+     "text": "11월 19일.\n그동안 쌓아온 노력이 결실을 맺는 날입니다.\n하지만 이날 하루가\n10년이 넘는 시간 동안 쉼 없이 달려온\n수험생 여러분의 모든 순간을 대변할 수는 없다는\n사실을 기억했으면 합니다.\n\n준비가 되었든, 아직 조금은 부족하게 느껴지든\n'수능'이라는 이름 앞에서 주눅 들지 않도록\n힘찬 응원을 전할 노래들을 모아보았는데요.\n\n용기가 필요한 순간마다 한 곡씩 감상하며\n복잡해지는 마음을 다잡아보세요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "LUCY '전체관람가'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/7a8/202611160855394871.jpg"
+    },
+    {
+     "type": "p",
+     "text": "시간은 쉼 없이 흐르고,\n넘어야 할 관문은 어김없이 다가옵니다.\n그 앞에 선 '나'는 아직 준비가 덜 된 것만 같죠.\n\n관문 너머에 어떤 세상이 기다리고 있을지는\n알 수 없지만,\n마냥 순탄하지만은 않을 거라는 사실은\n어렴풋이 짐작할 수 있습니다.\n마주하기 두렵지만 결국 넘어야 할 순간이라면,\n잠시 만화 속 한 장면이라고 생각해 보면 어떨까요?\n\n그리고 그 장면을 채울 배경 음악으로\nLUCY의 '전체관람가'를 틀어두는 거죠.\n\n이 곡은 버거운 일들이 휘몰아치는\n19세 관람가 같은 세상도\n언제나 전체관람가처럼 아름답고 사랑스럽기를\n바라는 마음을 담고 있습니다.\n\n힘든 순간이 찾아오더라도\n'다 사라져라, 다 지나가라'라는\n가사를 되뇌어 보세요.\n그렇게 노래를 따라가다 보면\n막막하기만 했던 시간도\n어느새 한 장면처럼 지나가 있을 테니까요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "QWER 'Our Voyage'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3a/d9b/202611160856123543.jpg"
+    },
+    {
+     "type": "p",
+     "text": "호기롭게 시작한 일에도\n지치는 순간은 찾아오기 마련입니다.\n모든 걸 그만두고 싶고,\n한 걸음도 내딛기 어려울 만큼 마음이 무너졌다면\nQWER이 들려주는 응원가에 귀를 기울여 보세요.\n\n'Our Voyage'는\nQWER이 앞으로 나아갈 미래를 다짐한 앨범\n[CEREMONY]의 수록곡입니다.\n'우리가 함께라면 이 이야기는 끝나지 않아'라는\n노랫말로 혼자가 아니라는 든든한 위로와 함께\n다시 나아갈 힘을 전하죠.\n\n처음 품었던 다짐과 의지를 되새기게 하는 이 노래.\n포기하고 싶은 순간은 과정일 뿐이니,\nQWER의 응원을 받으며\n다시 한번 씩씩하게 일어나 보는 건 어떨까요?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Young K (DAY6) '응원가'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e8/453/202611160856466609.jpg"
+    },
+    {
+     "type": "p",
+     "text": "Young K (DAY6)의 두 번째 솔로 정규 앨범 [YOUNGEST]에는\n제목만으로도 힘이 솟는\n'응원가'가 수록되어 있습니다.\n데뷔 이후 오랜 시간 자신만의 음악을 쌓아 올리며\n마침내 많은 사랑을 받게 된 Young K (DAY6).\n그의 대기만성 서사는\n오랜 시간 꿈을 향해 달려온 수험생들에게\n더욱 특별하게 다가올 것 같은데요.\n\nYoung K (DAY6)는 이 곡을\n나 자신을 위한 응원가라고 소개했지만,\n그 진심 어린 메시지는\n듣는 이들에게도 그대로 전해집니다.\n크고 작은 일부터 감당하기 버거운 시련까지,\n모든 경험이 모여 지금의 나를 만들고\n언젠가는 내가 지닌 고유한 빛을 발하게 될 것이라는\n믿음을 노래하죠.\n\n지금까지 걸어온 시간과 앞으로 펼쳐질 가능성이\n흐릿하게 느껴질 때,\n이 곡을 플레이리스트에 추가해 보세요.\n불안한 마음을 다독이고\n스스로에게 가장 든든한 응원을 건넬 수 있을 거예요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "로이킴 'Smile Boy'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4c/4bc/202611160857167488.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이 곡은 2007년 발매된 이승기의 'Smile Boy'를\n원곡으로 한 리메이크곡입니다.\n원곡의 경쾌한 분위기는 그대로 살리면서\n로이킴 특유의 부드러운 음색을 더해,\n한층 다정한 응원으로 다가오죠.\n\n때로는 거창한 위로나 따끔한 조언보다\n'힘을 내', '용기를 내'와 같은,\n짧고 단순한 한마디가 더 필요한 순간이 있습니다.\n고민으로 복잡한 머릿속을\n맑게 환기해 줄 담백한 위로의 말이죠.\n\n노래의 메시지처럼 모든 일이 뜻대로 풀리지 않더라도\n한 번 더 크게 웃어보세요.\n작은 미소 하나가 부정적인 생각을 밀어내고\n다시 앞으로 나아갈 힘이 되어줄지도 모르니까요.\n복잡한 마음을 털어내고\n긍정적인 방향으로 한 걸음 내딛고 싶을 때,\n기분 좋은 응원이 되어줄 곡입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "CNBLUE (씨엔블루) '그러나 꽃이었다 (Still, a Flower)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3f/dae/202611160857487309.jpg"
+    },
+    {
+     "type": "p",
+     "text": "최근 록 페스티벌을 뜨겁게 달군\nCNBLUE (씨엔블루).\n지난 1월에 발매한 정규 3집의 수록곡\n'그러나 꽃이었다 (Still, a Flower)'를\n마지막으로 소개해 드릴게요.\n\n이 곡은 짓밟히고 상처 입은 자리에서도\n끝내 꽃을 피워내는 존재의 이야기를 담고 있습니다.\n때로는 어떤 위로도 와닿지 않을 만큼\n외롭고 막막한 순간이 있지만,\n그럼에도 자신만의 향기를 잃지 않고\n묵묵히 버텨온 시간을 노래하죠.\n\n아직 피어나지 못했다고 생각하는 순간에도\n잊지 마세요.\n당신은 이미 자신만의 향기를 품은\n꽃이라는 것을."
+    },
+    {
+     "type": "p",
+     "text": "선선했던 날씨가 수능 당일에는\n거짓말처럼 추워진다고 합니다.\n따뜻하게 챙겨 입고 나서세요.\n그리고 그동안의 긴 여정을\n후련한 마음으로 마치고 돌아오시길 바랍니다.\n\n마지막으로 꼭 기억하세요.\n여러분의 세상은\n단 하루로 무너지지 않는다는 것을요.\n긴장보다는 설렘을,\n걱정보다는 자신감을 안고 다녀오세요.\n\n수험생 여러분, 행운을 빕니다! 🍀"
+    }
+   ]
+  },
+  {
+   "seq": 17383,
+   "date": "2026.11.17",
+   "title": "여기 가장 가까운 재즈 - 버브 레코드의 지난 70년을 돌아보며",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17383",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5b/5fd/imgUrl20261113042623091.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "여기 가장 가까운 재즈 - 버브 레코드의 지난 70년을 돌아보며"
+    },
+    {
+     "type": "p",
+     "text": "음악 감상이란 참으로 신묘해서 많은 애호가들은 앨범을 직접 듣지 않고도 겉에 있는 정보만으로도 이미 어느 정도 그 안에 담긴 음악을 유추해 내곤 합니다. 커버에 찍힌 아티스트의 얼굴과 분위기에서 스타일을 읽어낸다든지요. 여기서 한 발자국 더 나아간 분들은 각 레이블의 정체성을 음악 감상의 일부로 포함시킵니다. 특정 아티스트나 작품 정보가 아닌 레이블의 정체성만으로 음악의 상당 부분이 이미 완성되었다고 믿기 때문입니다. 특유의 노란색으로 유명한 도이치 그라모폰이 클래식이라는 장르를 상징하는 업체로 자리 잡은 이유는 가장 확실한 음악만을 선보이겠다는 레이블의 집요함에 있다 해도 과언이 아닙니다.\n\n위대한 재즈 레이블에도 그런 특징이 있습니다. 가장 유명한 재즈 레이블로 손꼽히는 블루노트는 엔지니어 루디 반 겔더(Rudy Van Gelder)와 함께한 일련의 작업으로 레이블은 물론, 재즈 역사의 확실한 이정표를 남겼고, 비교적 후발주자라 할 수 있는 만프레트 아이허(Manfred Eicher)의 ECM은 과거 재즈 레이블들이 선보였던 소리와는 완전히 다른 지점의, 너무나 선명해서 스산할 정도의 투명한 음악을 담아내면서 명성을 얻었습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "재즈, 친근한 그 이름 – 버브 레코드의 시작"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/de/266/imgUrl20261113041243553.jpg"
+    },
+    {
+     "type": "p",
+     "text": "1956년, 공연 기획자 노먼 그랜츠(Norman Granz)가 설립한 버브 레코드는 앞서 소개한 레이블들과 그 궤를 달리하는 출발을 보여주었습니다. 반 겔더와 아이허가 일종의 장인정신으로 재즈라는 장르를 담아냈다면 그랜츠의 버브는 친근함을 핵심으로 삼았습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/40/35f/imgUrl20261113041248790.jpg"
+    },
+    {
+     "type": "p",
+     "text": "먼저 설립 초기의 풍경을 살펴보죠. 이 당시 버브의 정체성은 보컬 음악에서 나왔습니다. 그랜츠의 음악적 동반자이자 레이블의 간판이었던 엘라 피츠제럴드(Ella Fitzgerald), 이미 재즈계의 전설이었던 루이 암스트롱(Louis Armstrong)이 함께한 1956년 작 [Ella and Louis]의 정겨움은 독보적이라 할 수 있습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/79/42d/imgUrl20261113042450840.jpg"
+    },
+    {
+     "type": "p",
+     "text": "오스카 피터슨 트리오(The Oscar Peterson Trio)의 1964년 작 [We Get Requests]도 1960년대 버브의 역사에 남을 앨범입니다. 스탠더드를 피아노 트리오 편성으로 다시 들려주는, 어떻게 보면 새로울 것 없는 음악이었지만 '좋은 재즈는 이런 소리를 낸다'를 확실한 연주와 녹음으로 담아낸 명반이죠."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "오랜 침묵 이후의 기지개"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/77/8ae/imgUrl20261113042455367.jpg"
+    },
+    {
+     "type": "p",
+     "text": "재즈라는 장르가 마치 용광로처럼 들끓던 1950-60년대 이후, 버브 레코드 또한 꽤 오랫동안 조용한 시기를 보냈습니다. 그러다 맞이한 1990년대 초반, 1992년 발매한 셜리 혼(Shirley Horn)의 [Here's to Life]는 장르의 침체와, 사업 구성의 변화로 예전 같지 않던 버브를 깨운 앨범이었습니다. 느린 템포의 보컬과 이를 부드럽게 감싸는 스트링 편곡은 과거 버브가 지향하던 사운드를 현대로 그대로 옮겨온 듯했고요."
+    },
+    {
+     "type": "p",
+     "text": "조 헨더슨(Joe Henderson)의 [Lush Life: The Music of Billy Strayhorn] 또한 이 시기에 발매된 앨범이었습니다. 많은 이들이 재즈가 가장 빛나던 시절을 회상하기에 충분한 사운드를 반가워했지요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "그리고 2000년대의 버브"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/22/437/imgUrl20261113042510434.jpg"
+    },
+    {
+     "type": "p",
+     "text": "그렇게 서서히 상승세를 타기 시작한 레이블이 2001년에 선보인 다이애나 크롤(Diana Krall)의 [The Look of Love]는 위대한 보컬과 함께해온 레이블의 초기 행보를 떠올리게 하는 역작으로 기록됩니다. 엘라 피츠제럴드같이 따뜻한 보이스와는 거리가 먼, 크롤 특유의 저음이 밀레니얼 시대와 묘하게 잘 맞아떨어지는 앨범이지요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/48/66c/imgUrl20261113042515279.jpg"
+    },
+    {
+     "type": "p",
+     "text": "다시금 예전의 분위기를 회복한 버브 레코드의 현재는 어떠할까요? 많은 재즈 레이블들이 그러하듯 2000년대 들어서 이 레이블 또한 장르와 산업의 줄타기를 열심히 하고 있습니다. 2020년대 버브의 대표 아티스트들의 면면을 여기서 한번 살펴보죠. 존 바티스트(Jon Batiste)는 언제나 그랬던 것처럼 팝과 재즈, 클래식의 경계를 그 나름의 방식으로 오가고,"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b7/278/imgUrl20261113042520236.jpg"
+    },
+    {
+     "type": "p",
+     "text": "사마라 조이(Samara Joy)는 자신의 사랑이 과거에 있음을 분명히 합니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ab/0ca/imgUrl20261113042524969.jpg"
+    },
+    {
+     "type": "p",
+     "text": "aron!은 재즈적인 어법을 감각적으로 살린 자신만의 팝을 하고 있고요. 결국 중요한 것은 장르의 정체성이 아닌 좋은 음악임을 잊지 않는 레이블, 버브의 미래는 그렇기에 앞으로도 밝을 것입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "70년의 역사를 눈과 귀로 살피다 – '버브 레이블 70주년, 재즈의 과거와 현재를 듣다'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a8/a10/imgUrl20261113042530171.jpg"
+    },
+    {
+     "type": "p",
+     "text": "예전이나 지금이나 무엇이 나에게 맞는지를 확인할 수 있는 가장 좋은 방법은 대상을 내 몸으로 직접 확인하는 것입니다. 오는 11월 17일 화요일부터 29일 일요일까지, 서울 한남동 페즈(FEZH)에서 진행되는 전시 '버브 레이블 70주년, 재즈의 과거와 현재를 듣다'는 버브 레코드는 물론 재즈를 사랑하는 분들 모두를 만족시킬 수 있는 다채로운 프로그램을 준비했습니다.\n\n기본적으로 이번 전시는 버브의 70년 역사를 귀로 살필 수 있는 '듣는 전시'를 지향합니다. 리스닝 존에서는 버브의 대표 앨범을 고음질 오디오로 감상할 수 있고, 테마별로 정리된 큐레이션 플레이리스트는 상시 운영된다고 하네요. 이뿐만이 아니라 오프닝이 있는 17일과 주말에는 촘촘하게 준비된 프로그램이 이어집니다. MMJazz 김희준 편집장, 월간 재즈피플 김광현 편집장, 류희성 기자, 음악 평론가이자 작가 배순탁, 레코드 매거진 한승희 에디터가 참여하는 '큐레이터 토크&리스닝 세션'과 피아니스트 송영주, 보컬리스트 웅산이 함께하는 '아티스트 토크&사인회'가 열릴 예정입니다. 이번 전시를 위해 준비된 굿즈도 놓칠 수 없겠습니다. 버브 70주년을 기념하는 한정 바이닐과 대표 LP, 의류와 액세서리. 버브의 음악을 오랫동안 좋아해온 분들이라면 그 사랑을 집 한편에 장식해두셔도 좋겠습니다."
+    }
+   ]
+  },
   {
    "seq": 17375,
    "date": "2026.11.17",
@@ -529,267 +730,6 @@ export const MAGAZINE = {
    ]
   },
   {
-   "seq": 17379,
-   "date": "2026.11.16",
-   "title": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17379",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/978/imgUrl20261112013526660.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개"
-    },
-    {
-     "type": "p",
-     "text": "멜론 가족 여러분 안녕하세요!\n투모로우바이투게더가 미니 9집 [PERFECT STORM]을 발매했습니다. 앨범 스토리와 비하인드, 독점 이미지를 지금 바로 만나보세요!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "투모로우바이투게더 [PERFECT STORM]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/131/15115131_20261102175232.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번 앨범은 정체된 상황을 깨부수고 새로운 가능성을 열어줄 'PERFECT STORM'을 기다리는 이 시대 청춘들에게 던지는 직설적인 메시지다. 현실의 아픔과 뜨거운 열망, 과감한 변화의 순간까지 폭풍처럼 휘몰아치는 감정을 6곡에 담았다.\n\n투모로우바이투게더라 할 수 있는 'Z세대 청춘통' 이야기\n\n투모로우바이투게더는 그간 '꿈의 장', '혼돈의 장', '이름의 장', '별의 장', 'minisode' 시리즈 등 앨범에서 소년의 성장기를 그렸다. 작품 속 화자가 시간의 흐름에 따라 성장하며 마주하는 꿈과 혼란, 방황을 노래했다. 동시대 청춘과 함께하며 감정의 궤적을 넓혀온 투모로우바이투게더는 이제 10대를 지나 현실의 무게를 직면한 Z세대의 청춘통을 표현한다. 찬란하지만은 않은 청춘의 이면에 존재하는 불안과 박탈감을 직시한다. 그렇다고 뜻대로 풀리지 않는 현실에 주저앉지도 않는다. 지금까지와 다른 무언가를 꿈꾸며 기꺼이 폭풍 속으로 뛰어든다. 실제 Z세대인 투모로우바이투게더가 할 수 있는 가장 솔직한 이야기를 들려준다.\n\n가진 것을 잃더라도 폭풍에 몸을 던지겠다는 선언('지금까지와는 다른 무언가가 필요해 (Storm is…)')으로 시작해 불안하고 초라한 현실이지만 '너'와 함께하고 싶은 마음('Angel Bite'), 나를 괴롭게 할지라도 더 높은 곳으로 이끄는 꿈과 열정('Higher Love')을 들려준다. '너'의 숨 쉴 틈이자 도피처가 되어 주겠다는 고백('Sweetest Escape'), 성공을 향해 거침없이 몸을 날리는 야망('Touch the Sky'), 익숙함을 내려놓고 변화를 받아들이는 성찰('Hate It or Love It')도 다룬다. 서로 다른 얼굴을 한 Z세대의 청춘을 한데 모아 [PERFECT STORM]을 완성했다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fa/8c9/imgUrl20261112013717067.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0d/f50/imgUrl20261112013805739.jpg"
-    },
-    {
-     "type": "p",
-     "text": "폭풍을 기다리고 올라타고 손에 쥐다…비주얼로 표현한 서사\n\n동화 같은 서사를 콘셉추얼한 비주얼로 구현해 온 투모로우바이투게더가 이번에는 'PERFECT STORM'을 만났다. 다섯 멤버는 다가올 폭풍을 기다리고 거센 흐름에 올라탄 뒤 마침내 손끝에 바람을 쥐는 이야기를 네 가지 콘셉트로 보여준다.\n\n첫 번째 콘셉트 'STORM IS COMING' 속 멤버들은 각기 다른 상황과 장소에서 폭풍을 기다린다. 이어 'RIDE THE STORM'에서는 마침내 불어닥친 돌풍을 피하거나 맞서 싸우는 대신 과감히 그 흐름에 올라타고자 한다. 세 번째 콘셉트 'EYE OF THE STORM'에서는 거센 바람 한가운데서 밖을 바라본다. 마지막 'HOLDING THE STORM'은 변화를 거쳐 거대했던 폭풍을 손끝에 올리는 순간을 표현한다. 네 가지 콘셉트가 하나의 이야기를 이뤄 몰입도를 높인다."
-    },
-    {
-     "type": "h",
-     "label": "TRACK LIST",
-     "text": "투모로우바이투게더 [PERFECT STORM]"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "1. 지금까지와는 다른 무언가가 필요해 (Storm is...)"
-    },
-    {
-     "type": "p",
-     "text": "절제된 드럼과 신비로운 신디사이저 위로 호소력 짙고 귀에 감기는 멜로디가 흐르는 아방팝(Avant-pop) 장르다. 투모로우바이투게더의 실험적인 음악성이 돋보이는 이 곡은 출구 없이 답답한 현실을 돌파하기 위해, 가진 것을 잃거나 어디에 도착할지 알 수 없더라도 폭풍 속으로 기꺼이 몸을 던지겠다는 과감한 선언을 담았다. '겁 없이 변수 속에 뛰어들어', '뭐라도 해 봐야 뭐라도 되겠지 / 아, 절반의 확률에 운명을 걸어' 같은 가사가 이러한 메시지를 직관적으로 드러낸다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "2.  Angel Bite *타이틀곡"
-    },
-    {
-     "type": "p",
-     "text": "미니 9집의 타이틀곡. 게임 사운드가 떠오르는 경쾌한 트랙과 거칠면서도 아련한 멜로디가 어우러진 디스코플러그(Discoplug) 장르다. 밝고 신나는 에너지와 아프고 처절한 정서가 공존한다. 비루하고 아름답지만은 않은 청춘임에도 '너'와 함께하고 싶은 마음을 노래한 'TXT표 러브송'이다. 별 볼 일 없는 현실에서 느끼는 고통과 박탈감을 자조적으로 마주하면서도 '너'라는 존재만은 놓지 않으려는 감정을 표현한다. '과대 포장된 청춘 / 까 보니까 걍 불안뿐', '사랑마저 돈이 필요해', '가진 게 없는데 내 미래를 뭘로 살 수 있나요'처럼 Z세대가 느끼는 현실을 직설적인 가사로 보여준다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "3. Higher Love"
-    },
-    {
-     "type": "p",
-     "text": "강렬한 기타 루프와 멜로디가 폭발적인 에너지를 뿜어내는 댄스 펑크(Dance punk) 장르다. 친숙한 록 사운드에 일렉트로닉 요소를 더해 역동적인 분위기를 완성했다. 가사 속 '그녀'는 꿈과 열정을 상징한다. 때로는 '나'를 괴롭게 하지만 결국 더 높은 곳으로 이끄는 '그녀'를 향한 마음을 노래한다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "4. Sweetest Escape"
-    },
-    {
-     "type": "p",
-     "text": "연준, 태현, 휴닝카이의 유닛곡. 각박한 현실에서 사라지고 싶을 때도 있지만, 적어도 이 노래가 흐르는 동안만큼은 세상을 잠시 따돌리고 '너'의 숨 쉴 틈이자 가장 달콤한 도피처가 되어주겠다는 로맨틱한 고백을 담았다. 그루비한 드럼 리듬과 빈티지한 아날로그 신디사이저에 알앤비(R&B) 감성의 세련된 멜로디를 얹은 팝(Pop) 장르다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "5. Touch the Sky"
-    },
-    {
-     "type": "p",
-     "text": "수빈과 범규의 유닛곡. 겁도 후회도 없이 몸을 날려 하늘 같은 '너'에게 닿겠다는 의지를 노래한다. 가사 속 '너'는 성공을 향한 열망과 야망을 빗댄 존재다. 수빈과 범규가 작사에 참여해 완성도를 높였다. 몽환적인 신디사이저와 간결한 드럼, 관능적인 목소리가 어우러진 미니멀 테크노(Minimal techno) 장르다. 가볍게 흐르는 사운드 안에 역동적이고 매혹적인 분위기가 공존한다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "6. Hate It or Love It"
-    },
-    {
-     "type": "p",
-     "text": "버거운 현실에서 달라지고 싶다면 때로는 손에 쥔 것을 놓고 변화할 줄도 알아야 한다는 메시지를 전한다. 익숙한 '나'를 내려놓고 늘 걷던 길을 벗어날 용기, 그 끝에서 마주할 새로운 세상에 대한 기대를 노래한다. 좋든 싫든 변화한 모습까지 결국 '나'라는 담담한 성찰로 앨범의 마지막을 장식한다. 다양한 장르의 요소를 유기적으로 융합한 얼터너티브 팝(Alternative pop) 곡으로 독특한 신디사이저와 그루비한 드럼 리듬, 서정적인 멜로디가 조화를 이룬다. 범규, 태현, 휴닝카이가 작사에 참여했다."
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "투모로우바이투게더 'Angel Bite'"
-    },
-    {
-     "type": "h",
-     "label": "Spotlight Interview",
-     "text": "투모로우바이투게더 [PERFECT STORM]"
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo 1",
-     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 촬영 비하인드 컷"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/98d/imgUrl20261112013848047.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/71/84c/imgUrl20261112013852774.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo 2",
-     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 B컷"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5d/426/imgUrl20261112013858347.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/66/a0a/imgUrl20261112013903237.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c5/429/imgUrl20261112013908307.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f7/d1d/imgUrl20261112013913942.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/29/d7e/imgUrl20261112013918638.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/c00/imgUrl20261112013923715.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/36/412/imgUrl20261112013928373.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/96/749/imgUrl20261112013933005.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/05a/imgUrl20261112013938223.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/fd7/imgUrl20261112013944323.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/ddb/imgUrl20261112013949006.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/de1/imgUrl20261112013953326.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/b13/imgUrl20261112013957874.jpg"
-    },
-    {
-     "type": "h",
-     "label": "From 투모로우바이투게더",
-     "text": "To Melon"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#수빈"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/6bc/imgUrl20261112014043245.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8c/9a9/imgUrl20261113025628314.png"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#연준"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/78/11a/imgUrl20261112014124958.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4c/e2b/imgUrl20261113025634174.png"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#범규"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1e/7f9/imgUrl20261112014135953.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/85/1d8/imgUrl20261113025640468.png"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#태현"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/db/a23/imgUrl20261112014145544.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d2/359/imgUrl20261113025646380.png"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#휴닝카이"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/69/613/imgUrl20261112014155204.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/56/a15/imgUrl20261113025651678.png"
-    },
-    {
-     "type": "h",
-     "label": "Event",
-     "text": "투모로우바이투게더 멜론 스포트라이트 이벤트"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/31c/imgUrl20261112015151181.jpg"
-    }
-   ]
-  },
-  {
    "seq": 17380,
    "date": "2026.11.13",
    "title": "ATEEZ(에이티즈)의 [GOLDEN HOUR : Part.6] 'UP' MV 촬영 현장 비하인드",
@@ -1250,199 +1190,6 @@ export const MAGAZINE = {
     {
      "type": "img",
      "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3a/654/202611121024205410.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17377,
-   "date": "2026.11.12",
-   "title": "랩의 신이라 불리는 남자, Eminem의 30년",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17377",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/17/518/imgUrl20261111013551277.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "랩의 신이라 불리는 남자, Eminem의 30년"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "Eminem은 힙합을 위해 태어난 사람이야. 가장 뛰어난 래퍼가 백인인 거지.\n(Eminem is made for hip-hop. The best rapper is a white man.)"
-    },
-    {
-     "type": "p",
-     "text": "2009년 모 인터뷰에서 50 Cent가 했던 이 언급은 Eminem의 캐릭터를 짧고 굵게 설명하며, 그를 향한 50 Cent의 리스펙트를 그대로 보여줍니다. 힙합이 흑인 문화를 기반으로 하는데도 그 장르의 정점에 오른 것은 백인 래퍼라는 인정의 뉘앙스이지요. 동료 래퍼의 개인적 언급이지만, Eminem이 힙합 신 내부에서 실력으로 인정받았다는 점은 그의 발언을 통해 분명하게 알 수 있습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b6/12c/imgUrl20261111013738602.jpg"
-    },
-    {
-     "type": "p",
-     "text": "힙합은 전통적으로 흑인 공동체를 중심으로 형성된 문화입니다. 미국 흑인 빈민가에서부터 시작됐고, 미국 흑인들 사이에서 발전을 거듭해 왔습니다. 주류 바깥에서부터 시작한 흑인들의 문화는 그들만의 정체성을 기반으로 오랜 시간 견고한 성벽을 쌓아 올렸습니다.\n\n흑인의 전유물이라는 말을 듣던 힙합입니다만, 백인으로서 이 장르의 소비자를 본격적으로 넓힌 아티스트들도 있습니다. 가장 많이 거론되는 아티스트가 둘 있습니다. 첫째는 Beastie Boys이고 둘째는 Eminem이죠. 전자가 '백인도 랩 뮤직을 할 수 있다'는 것을 보여줬다면, 후자는 랩을 흑인 문화의 경계 밖으로 확장했습니다.\n\n과장이 아닙니다. Eminem은 흑인 중심의 힙합 신에서부터 실력을 인정받았고, 동시에 백인 중산층 리스너들도 힙합을 소비하도록 만들었습니다. 그의 등장은 힙합이 미국 흑인 공동체 중심의 문화에서 더 폭넓은 대중문화로 확장하는 데 중요한 계기로 작용했습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "벼랑 끝에서 벼린 날 선 랩 스타일"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/d42/imgUrl20261111013744344.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Eminem은 디트로이트에서 유년시절을 보냈습니다. 당시 디트로이트는 경제적 어려움과 사회적 불안정성이 큰 도시였습니다. 이곳에서 그는 흰 피부색을 가진 빈민이었고, 험난한 환경 속에서 어린 시절을 보내며 자연스럽게 힙합의 세계로 빠져들었습니다.\n\n14살 때부터 마이크를 잡고 지역 프리스타일 랩 배틀을 전전하며 언더그라운드 래퍼로서 끊임없이 자신을 다듬어갔는데요. 그러다 1996년, 언더그라운드에서 독자적으로 발매한 데뷔작 [Infinite]는 당시 상업적 성공을 거두지 못하고 쓴맛을 봐야 했습니다.\n\n상심에 빠지는 대신 그는 자신 안의 분노와 광기를 대변할 페르소나, Slim Shady를 끄집어냈습니다. 일종의 '부캐'였죠. 광기의 캐릭터를 앞세워 직설과 파격을 담은 [Slim Shady EP]는 언더그라운드 힙합 신의 시선을 단숨에 사로잡았습니다.\n\n이 앨범은 정식 발매도 전에 전설적인 프로듀서 Dr. Dre의 귀에도 들어갔습니다. 1997년 전국 규모의 프리스타일 대회인 '랩 올림픽'에서 Eminem이 2위를 차지하자, 그의 데모 테이프가 극적으로 Dr. Dre에게까지 전달된 것이죠. 미래의 전설과 힙합계 거장의 운명적인 만남은 그렇게 시작됐습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "세상을 충격에 빠트린 메이저 데뷔"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a4/051/imgUrl20261111013748757.jpg"
-    },
-    {
-     "type": "p",
-     "text": "될성부른 떡잎을 알아본 Dr. Dre의 든든한 지원 속에 1999년, Eminem의 메이저 데뷔작 [The Slim Shady LP]가 세상에 공개됐습니다. 머리를 노랗게 물들인 정체불명의 백인 래퍼가 뿜어내는 수위 높은 가사와 통통 튀는 랩 플로우는 굉장한 화제를 불러일으켰습니다. 그는 이 앨범을 통해 자신의 불량한 인격 Slim Shady를 세상에 제대로 각인시켰습니다.\n\n논란도 있었지만 상복도 따랐습니다. 이듬해 그래미 어워드 최우수 랩 앨범상의 주인공이 바로 [The Slim Shady LP]였으니까요. 그는 이 메이저 데뷔를 통해 보다 넓은 세상으로 나갈 준비를 시작했습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "전성기의 기록들"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/15/4c3/imgUrl20261111013754109.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이듬해 발표한 [The Marshall Mathers LP]는 Eminem을 인기 랩스타에서 시대의 팝 아이콘으로 격상시킨 작품입니다. 그의 대표적인 명반으로 거론되는 앨범인데요. 역시 굉장한 수위의 가사와 좀 더 진지해진 사유, 그리고 탄탄한 랩메이킹에 더해 그의 훌륭한 연기력까지 돋보인 작품이었습니다.\n\n그 안에서도 Slim Shady 광팬의 뒤틀린 애정과 몰락을 그린 'Stan'은 팬덤 문화의 어두운 면을 날카롭게 조명하며 큰 반향을 일으켰습니다. Dido의 'Thank You'를 샘플링한 서정적인 비트, 편지 형식을 빌린 서사, 그리고 Eminem의 1인 2역을 오가는 연기는 지금 들어도 세련미를 전하지요. 이 곡이 히트한 이후, 지금도 영미권 대중문화에서는 '광적인 팬'에게 'Stan'이라는 단어를 쓰고는 합니다.\n\n한편 'The Real Slim Shady'는 Britney Spears, Christina Aguilera, Carson Daly, Fred Durst 등 당대 팝과 대중문화의 상징적 인물들을 노골적으로 풍자하며 화제를 모았습니다. Eminem 특유의 타이트한 라임과 조롱조의 유머, 그리고 자신을 둘러싼 논란마저 소재로 삼는 태도는 앨범의 대중적 파장을 한층 키웠고요.\n\n그렇게 그의 음악은 높은 수위의 표현으로 거센 비판을 받는 동시에, 사회적 위선을 노골적으로 풍자한다는 찬사를 함께 받았습니다. 이 시기 Eminem은 수많은 찬사와 논란을 동시에 만들었고, 거대한 지지세력만큼이나 강한 반대세력도 함께 만들었습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c2/973/imgUrl20261111013801977.jpg"
-    },
-    {
-     "type": "p",
-     "text": "뒤이어 2002년 선보인 [The Eminem Show] 또한 전 세계적으로 2천만 장 이상의 판매고를 기록하며 대성공을 거두었습니다. 대히트를 기록한 'Without Me'가 바로 이 앨범에 수록되어 있습니다. 역시 그 안에는 타이트한 라임과 통통 튀는 래핑, 유명인들을 향한 디스가 담겨있었고요.\n\n한편 같은 시기 그가 직접 주연을 맡고, 자신의 자전적 서사를 반영한 영화 '8마일'도 흥행에 성공했는데요. 영화의 주제곡인 'Lose Yourself'는 힙합 음악 최초로 아카데미 최우수 주제가상을 수상하며 역사적인 기록을 남겼습니다. Eminem은 빠르게 전설을 향해 가고 있었습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "그에게도 슬럼프는 있었으니"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/01/e6e/imgUrl20261111013807550.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2004년 발표한 다섯 번째 정규 앨범 [Encore] 역시 발매와 동시에 차트 정상에 오르며 큰 사랑을 받았습니다. 하지만 성공 이면에는 그를 유혹하는 그림자가 어둡게 그늘져 있었는데요. 쏟아지는 사회적 비판과 거대한 유명세에서 오는 중압감이 그의 정신을 갉아먹었고, 무엇보다 앨범 발매 후 절친한 동료였던 Proof가 사망한 것이 그에게 큰 상실감을 주었기 때문입니다.\n\n이 시기 Eminem은 지독한 약물 중독과 슬럼프에 빠지며 음악 활동을 정상적으로 이어가지 못했습니다. 2005년에는 유럽 투어를 돌연 취소하고, 재활원에 입원하며 오랜 공백기에 들어갔죠. 정규 커리어가 중단된 약 4년 반의 기간 동안, 그는 오직 생존을 위한 외롭고 지루한 싸움을 이어갔습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "회복의 서사로 부활하다"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/aa/77c/imgUrl20261111013815676.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2009년 [Relapse]는 치열한 재활을 거쳐 약 5년 만에 공개됐습니다. 수많은 알약으로 만든 그의 얼굴을 앨범 커버로 내건 것으로 알 수 있듯, 암흑기 동안 그의 내적 투쟁을 담아낸 앨범이었습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/47/78f/imgUrl20261111013824655.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이듬해인 2010년. 그는 [Recovery]를 통해 완벽한 부활을 알렸습니다. 약물 중독을 이겨낸 진솔한 감회와 희망을 전하는 싱글 'Not Afraid', 그리고 Rihanna가 피처링으로 참여해 상처받은 감정을 노래한 'Love The Way You Lie'가 폭발적인 인기를 끌었는데요. 앨범은 상업적 성공과 평단의 호평을 동시에 추수하며 그에게 제2의 전성기를 열어주었습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "랩의 신으로 강림하사"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/62/1b5/imgUrl20261111013830394.jpg"
-    },
-    {
-     "type": "p",
-     "text": "[Recovery] 이후 Eminem은 다시 힙합 신의 중심에 섰습니다. 하지만 그는 더 이상 20대의 분노와 광기를 그대로 내보이는 래퍼가 아니었습니다. 그보다는 나이 들고 변화한 자신을 어떻게 랩으로 말할 것인지, 그리고 한 시대의 아이콘이 된 뒤에도 어떻게 살아남을 것인지를 고민하고 있었지요.\n\n그 답은 2013년, [The Marshall Mathers LP 2]에서 나왔습니다. 2000년의 전설적 앨범 [The Marshall Mathers LP]의 연작 격의 제목처럼, 이 작품은 과거의 자신과 마주하는 앨범이었습니다. Dr. Dre와 Rick Rubin이 프로덕션에 참여하며 과거의 사운드를 되살렸는데, 중년에 접어든 Eminem의 래핑은 오히려 더 날카롭고 타이트했습니다.\n\n'The Monster'는 Rihanna와의 재회를 통해 내면의 균열을 노래했고, 'Rap God'는 그의 랩 스킬을 극한까지 밀어붙인 곡이었습니다. 속사포 랩, 복잡한 라임, 끊임없이 이어지는 단어의 사슬을 통해 Eminem은 여전히 랩을 초월적인 방식으로 다룰 줄 아는 래퍼라는 사실을 증명했습니다. 앨범은 빌보드 200 1위로 데뷔했고, 그는 이 앨범으로 그래미 최우수 랩 앨범상을 또 한번 수상했습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "계속된 Show and Prove"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b4/a92/imgUrl20261111013836052.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2017년의 [Revival]은 그의 커리어에서 가장 복잡한 반응이 이어진 앨범이었습니다. 정치적 분노, 중독과 회복, 가족에 대한 고백과 대중문화적 비판을 담은 앨범이었지만, 대중과 평단은 과한 팝 성향과 산만한 프로덕션, 그리고 뚝뚝 끊기는 듯한 그답지 않은 랩 플로우를 지적하며 냉정한 평가를 내렸기 때문입니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/52/603/imgUrl20261111013840625.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Eminem은 그 반응에 즉각 답했습니다. 2018년 8월, [Revival] 발매 뒤 8개월 만에 예고 없이 [Kamikaze]라는 이름의 정규앨범을 공개한 것인데요. 이 앨범은 비판을 향한 공격적인 디스와 날카로운 펀치라인으로 가득했습니다. 그는 여전히 랩으로 배틀을 하는 래퍼였고, 비판을 받아들이기보다는 그것을 소재로 삼아 되돌려주는 방식을 택했습니다.\n\n[Kamikaze]는 상업적으로도 성공해 빌보드 200 1위에 올랐습니다. 잠시 위태했던 Eminem의 위상이 그의 Show and Prove로 다시 증명되었음은 물론입니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4b/f76/imgUrl20261111013845027.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2020년, Eminem은 또 다시 예고 없이 [Music to Be Murdered By]를 발매했습니다. 무려 60년 전의 작품에서 모티브를 얻은 그는 변하는 세태에 자신을 맞추기보다는 또 한 번 자신의 올드스쿨한 본령을 지키는 모습을 보여줬습니다.\n\n수록곡 중에는 Juice WRLD와 협업한 'Godzilla'가 큰 주목을 받았습니다. 이 곡은 'Rap God'을 잇는 빠르고 기술적인 래핑의 정점을 보여주며, 그가 세대 변화에도 불구하고 여전히 랩의 언어적 한계를 밀어붙일 수 있음을 증명한 트랙입니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "2022년, 로큰롤 명예의 전당으로"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f3/87b/imgUrl20261111013849635.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2022년 2월, Eminem은 그해 슈퍼볼 하프타임 쇼에 Dr. Dre, Snoop Dogg, Mary J. Blige, Kendrick Lamar, 50 Cent와 함께 올랐습니다. 이름만 봐도 알 수 있듯, 이 무대는 과거와 현재의 힙합계 스타들을 한자리에 모인 역사적인 행사였는데요. 여기서 그는 Dr. Dre 사단과 함께 모처럼 추억의 무대를 함께했습니다.\n\n같은 해 그는 대중음악계 최대 영예라고 할 수 있는 '로큰롤 명예의 전당'에 헌액되기도 했습니다. 힙합 아티스트로서 이 전당에 오른 것은 그가 장르적 경계를 넘어 대중음악사 전체에 남긴 영향력을 공식적으로 인정받은 것이라 해도 과언이 아닙니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "2024년, Slim Shady의 죽음"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/54/224/imgUrl20261111013859531.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2024년, Eminem은 12번째 정규 앨범 [The Death of Slim Shady (Coup de Grâce)]를 발매했습니다. 그간 자신이 앞세운 페르소나, Slim Shady를 '죽음'이라는 서사로 다룬 작품이었죠. 과거의 랩 스타일과 현재의 랩스타일을 의도적으로 교차배치한 이 앨범은 특히 올드 팬들의 추억을 자극했습니다.\n\n'Houdini'가 대표적입니다. 이 곡은 Slim Shady라는 페르소나를 향한 그의 애증을 담은 곡이었는데요. 2000년대 초반의 Eminem을 떠올리게 하는 비트와 훅 속에서 그는 과거의 영광을 그리워하는 동시에 그 시절의 자신을 조롱하기도 합니다. 반면 'Brand New Dance'에서는 Slim Shady 특유의 과격한 유머와 도발을 되살리며 그가 여전히 대중을 자극하는 법을 알고 있음을 보여줬지요.\n\n앨범은 빌보드 200 차트 1위로 데뷔했으며, 2025년 그래미에서 최우수 랩 앨범, 최우수 랩 퍼포먼스, 최우수 뮤직 비디오 부문에 후보로 올랐습니다. 여전히 죽지 않은 그의 폼과 화제성을 보여준 앨범이었습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "아직 끝나지 않은 이야기"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/35/ac4/imgUrl20261111013904308.jpg"
-    },
-    {
-     "type": "p",
-     "text": "긴 시간 동안 그는 몇 번의 슬럼프와 약물 중독, 비판과 논란을 겪었지만 매번 자신을 증명하며 이후의 서사를 써 내려갔습니다. 그리고 이제는 Slim Shady라는 페르소나마저 죽음으로 보내며 다음 챕터를 향해 나아가고 있지요.\n\n오늘로부터 딱 30년 전, 1996년 11월 12일에 그의 언더 데뷔앨범인 [Infinite]가 세상에 나왔습니다. 당시만 해도 그는 아무도 주목하지 않던 이름 없는 래퍼였습니다. 하지만 그는 포기하지 않았고, 결국 힙합 신의 정점에 섰습니다. Eminem의 30년 디스코그래피를 돌아보며, 오늘은 그의 음악과 함께해보는 건 어떨까요?"
     }
    ]
   },
