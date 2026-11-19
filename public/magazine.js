@@ -1,6 +1,6 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-18 03:33",
+ "fetchedAt": "2026-11-19 03:05",
  "articles": [
   {
    "seq": 17386,
@@ -730,6 +730,267 @@ export const MAGAZINE = {
    ]
   },
   {
+   "seq": 17379,
+   "date": "2026.11.16",
+   "title": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17379",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/978/imgUrl20261112013526660.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "투모로우바이투게더 [PERFECT STORM] 발매 기념 멜론 독점 이미지 공개"
+    },
+    {
+     "type": "p",
+     "text": "멜론 가족 여러분 안녕하세요!\n투모로우바이투게더가 미니 9집 [PERFECT STORM]을 발매했습니다. 앨범 스토리와 비하인드, 독점 이미지를 지금 바로 만나보세요!"
+    },
+    {
+     "type": "h",
+     "label": "Album",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/15/131/15115131_20261102175232.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 앨범은 정체된 상황을 깨부수고 새로운 가능성을 열어줄 'PERFECT STORM'을 기다리는 이 시대 청춘들에게 던지는 직설적인 메시지다. 현실의 아픔과 뜨거운 열망, 과감한 변화의 순간까지 폭풍처럼 휘몰아치는 감정을 6곡에 담았다.\n\n투모로우바이투게더라 할 수 있는 'Z세대 청춘통' 이야기\n\n투모로우바이투게더는 그간 '꿈의 장', '혼돈의 장', '이름의 장', '별의 장', 'minisode' 시리즈 등 앨범에서 소년의 성장기를 그렸다. 작품 속 화자가 시간의 흐름에 따라 성장하며 마주하는 꿈과 혼란, 방황을 노래했다. 동시대 청춘과 함께하며 감정의 궤적을 넓혀온 투모로우바이투게더는 이제 10대를 지나 현실의 무게를 직면한 Z세대의 청춘통을 표현한다. 찬란하지만은 않은 청춘의 이면에 존재하는 불안과 박탈감을 직시한다. 그렇다고 뜻대로 풀리지 않는 현실에 주저앉지도 않는다. 지금까지와 다른 무언가를 꿈꾸며 기꺼이 폭풍 속으로 뛰어든다. 실제 Z세대인 투모로우바이투게더가 할 수 있는 가장 솔직한 이야기를 들려준다.\n\n가진 것을 잃더라도 폭풍에 몸을 던지겠다는 선언('지금까지와는 다른 무언가가 필요해 (Storm is…)')으로 시작해 불안하고 초라한 현실이지만 '너'와 함께하고 싶은 마음('Angel Bite'), 나를 괴롭게 할지라도 더 높은 곳으로 이끄는 꿈과 열정('Higher Love')을 들려준다. '너'의 숨 쉴 틈이자 도피처가 되어 주겠다는 고백('Sweetest Escape'), 성공을 향해 거침없이 몸을 날리는 야망('Touch the Sky'), 익숙함을 내려놓고 변화를 받아들이는 성찰('Hate It or Love It')도 다룬다. 서로 다른 얼굴을 한 Z세대의 청춘을 한데 모아 [PERFECT STORM]을 완성했다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fa/8c9/imgUrl20261112013717067.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0d/f50/imgUrl20261112013805739.jpg"
+    },
+    {
+     "type": "p",
+     "text": "폭풍을 기다리고 올라타고 손에 쥐다…비주얼로 표현한 서사\n\n동화 같은 서사를 콘셉추얼한 비주얼로 구현해 온 투모로우바이투게더가 이번에는 'PERFECT STORM'을 만났다. 다섯 멤버는 다가올 폭풍을 기다리고 거센 흐름에 올라탄 뒤 마침내 손끝에 바람을 쥐는 이야기를 네 가지 콘셉트로 보여준다.\n\n첫 번째 콘셉트 'STORM IS COMING' 속 멤버들은 각기 다른 상황과 장소에서 폭풍을 기다린다. 이어 'RIDE THE STORM'에서는 마침내 불어닥친 돌풍을 피하거나 맞서 싸우는 대신 과감히 그 흐름에 올라타고자 한다. 세 번째 콘셉트 'EYE OF THE STORM'에서는 거센 바람 한가운데서 밖을 바라본다. 마지막 'HOLDING THE STORM'은 변화를 거쳐 거대했던 폭풍을 손끝에 올리는 순간을 표현한다. 네 가지 콘셉트가 하나의 이야기를 이뤄 몰입도를 높인다."
+    },
+    {
+     "type": "h",
+     "label": "TRACK LIST",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "1. 지금까지와는 다른 무언가가 필요해 (Storm is...)"
+    },
+    {
+     "type": "p",
+     "text": "절제된 드럼과 신비로운 신디사이저 위로 호소력 짙고 귀에 감기는 멜로디가 흐르는 아방팝(Avant-pop) 장르다. 투모로우바이투게더의 실험적인 음악성이 돋보이는 이 곡은 출구 없이 답답한 현실을 돌파하기 위해, 가진 것을 잃거나 어디에 도착할지 알 수 없더라도 폭풍 속으로 기꺼이 몸을 던지겠다는 과감한 선언을 담았다. '겁 없이 변수 속에 뛰어들어', '뭐라도 해 봐야 뭐라도 되겠지 / 아, 절반의 확률에 운명을 걸어' 같은 가사가 이러한 메시지를 직관적으로 드러낸다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "2.  Angel Bite *타이틀곡"
+    },
+    {
+     "type": "p",
+     "text": "미니 9집의 타이틀곡. 게임 사운드가 떠오르는 경쾌한 트랙과 거칠면서도 아련한 멜로디가 어우러진 디스코플러그(Discoplug) 장르다. 밝고 신나는 에너지와 아프고 처절한 정서가 공존한다. 비루하고 아름답지만은 않은 청춘임에도 '너'와 함께하고 싶은 마음을 노래한 'TXT표 러브송'이다. 별 볼 일 없는 현실에서 느끼는 고통과 박탈감을 자조적으로 마주하면서도 '너'라는 존재만은 놓지 않으려는 감정을 표현한다. '과대 포장된 청춘 / 까 보니까 걍 불안뿐', '사랑마저 돈이 필요해', '가진 게 없는데 내 미래를 뭘로 살 수 있나요'처럼 Z세대가 느끼는 현실을 직설적인 가사로 보여준다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "3. Higher Love"
+    },
+    {
+     "type": "p",
+     "text": "강렬한 기타 루프와 멜로디가 폭발적인 에너지를 뿜어내는 댄스 펑크(Dance punk) 장르다. 친숙한 록 사운드에 일렉트로닉 요소를 더해 역동적인 분위기를 완성했다. 가사 속 '그녀'는 꿈과 열정을 상징한다. 때로는 '나'를 괴롭게 하지만 결국 더 높은 곳으로 이끄는 '그녀'를 향한 마음을 노래한다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "4. Sweetest Escape"
+    },
+    {
+     "type": "p",
+     "text": "연준, 태현, 휴닝카이의 유닛곡. 각박한 현실에서 사라지고 싶을 때도 있지만, 적어도 이 노래가 흐르는 동안만큼은 세상을 잠시 따돌리고 '너'의 숨 쉴 틈이자 가장 달콤한 도피처가 되어주겠다는 로맨틱한 고백을 담았다. 그루비한 드럼 리듬과 빈티지한 아날로그 신디사이저에 알앤비(R&B) 감성의 세련된 멜로디를 얹은 팝(Pop) 장르다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "5. Touch the Sky"
+    },
+    {
+     "type": "p",
+     "text": "수빈과 범규의 유닛곡. 겁도 후회도 없이 몸을 날려 하늘 같은 '너'에게 닿겠다는 의지를 노래한다. 가사 속 '너'는 성공을 향한 열망과 야망을 빗댄 존재다. 수빈과 범규가 작사에 참여해 완성도를 높였다. 몽환적인 신디사이저와 간결한 드럼, 관능적인 목소리가 어우러진 미니멀 테크노(Minimal techno) 장르다. 가볍게 흐르는 사운드 안에 역동적이고 매혹적인 분위기가 공존한다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "6. Hate It or Love It"
+    },
+    {
+     "type": "p",
+     "text": "버거운 현실에서 달라지고 싶다면 때로는 손에 쥔 것을 놓고 변화할 줄도 알아야 한다는 메시지를 전한다. 익숙한 '나'를 내려놓고 늘 걷던 길을 벗어날 용기, 그 끝에서 마주할 새로운 세상에 대한 기대를 노래한다. 좋든 싫든 변화한 모습까지 결국 '나'라는 담담한 성찰로 앨범의 마지막을 장식한다. 다양한 장르의 요소를 유기적으로 융합한 얼터너티브 팝(Alternative pop) 곡으로 독특한 신디사이저와 그루비한 드럼 리듬, 서정적인 멜로디가 조화를 이룬다. 범규, 태현, 휴닝카이가 작사에 참여했다."
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "투모로우바이투게더 'Angel Bite'"
+    },
+    {
+     "type": "h",
+     "label": "Spotlight Interview",
+     "text": "투모로우바이투게더 [PERFECT STORM]"
+    },
+    {
+     "type": "h",
+     "label": "Exclusive Photo 1",
+     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 촬영 비하인드 컷"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/98d/imgUrl20261112013848047.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/71/84c/imgUrl20261112013852774.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Exclusive Photo 2",
+     "text": "투모로우바이투게더 [PERFECT STORM] 멜론 독점 자켓 B컷"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5d/426/imgUrl20261112013858347.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/66/a0a/imgUrl20261112013903237.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c5/429/imgUrl20261112013908307.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f7/d1d/imgUrl20261112013913942.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/29/d7e/imgUrl20261112013918638.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/c00/imgUrl20261112013923715.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/36/412/imgUrl20261112013928373.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/96/749/imgUrl20261112013933005.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/90/05a/imgUrl20261112013938223.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/fd7/imgUrl20261112013944323.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c6/ddb/imgUrl20261112013949006.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/de1/imgUrl20261112013953326.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/b13/imgUrl20261112013957874.jpg"
+    },
+    {
+     "type": "h",
+     "label": "From 투모로우바이투게더",
+     "text": "To Melon"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#수빈"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/6bc/imgUrl20261112014043245.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8c/9a9/imgUrl20261113025628314.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#연준"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/78/11a/imgUrl20261112014124958.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4c/e2b/imgUrl20261113025634174.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#범규"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1e/7f9/imgUrl20261112014135953.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/85/1d8/imgUrl20261113025640468.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#태현"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/db/a23/imgUrl20261112014145544.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d2/359/imgUrl20261113025646380.png"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "#휴닝카이"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/69/613/imgUrl20261112014155204.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/56/a15/imgUrl20261113025651678.png"
+    },
+    {
+     "type": "h",
+     "label": "Event",
+     "text": "투모로우바이투게더 멜론 스포트라이트 이벤트"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8e/31c/imgUrl20261112015151181.jpg"
+    }
+   ]
+  },
+  {
    "seq": 17380,
    "date": "2026.11.13",
    "title": "ATEEZ(에이티즈)의 [GOLDEN HOUR : Part.6] 'UP' MV 촬영 현장 비하인드",
@@ -885,108 +1146,6 @@ export const MAGAZINE = {
      "type": "h",
      "label": "From ATEEZ(에이티즈)",
      "text": "To Melon"
-    }
-   ]
-  },
-  {
-   "seq": 17378,
-   "date": "2026.11.13",
-   "title": "한 눈에 보는 11월 둘째 주 빌보드 소식",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17378",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/06/5f7/imgUrl20261111041351869.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "금주의 빌보드 소식",
-     "text": "2026년 11월 둘째 주"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/e58/imgUrl20261111041410051.jpg"
-    },
-    {
-     "type": "p",
-     "text": "빌보드 소식을 한 큐에 알아보는 시간!\n\n이번 주 빌보드를 뜨겁게 달군 핫 이슈들,\n그리고 전 세계인들이 주목하는\n빌보드 메인 차트 순위까지\n\n한 주간 주목할 만한 빌보드 소식들을\n짧고 굵게 정리해 드립니다.\n본문을 읽으며 추가해 둔 관련 음악들도\n함께 감상해 보세요!"
-    },
-    {
-     "type": "h",
-     "label": "3 HOT ISSUES",
-     "text": "한 주간 어떤 이슈가 있었을까?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- 핼러윈 열기 속 크리스마스 캐럴의 귀환"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ef/253/imgUrl20261111041515567.jpg"
-    },
-    {
-     "type": "p",
-     "text": "통산 27주라는 놀라운 시간 동안\nElla Langley의 'Choosin' Texas'가\nHOT 100 왕좌를 지키고 있는 가운데,\n이번 주 차트에서는\n핼러윈 시즌의 이어지는 영향으로\n오싹한 분위기의 시즌송들이\n대거 상승한 점이 눈에 띄는데요.\n\n특히 Michael Jackson의\n'Thriller'는 지난주 20위에서\n2위로 무려 18계단 뛰어올랐습니다.\n1984년 3월, 4위에 오른 이후\n42년 만에 자체 최고 순위를\n새롭게 경신하게 되었네요.\n\nTame Impala의\n'Dracula (Feat. JENNIE)'도\n3위에 올라 자체 최고 순위를 새로 썼으며,\n이 밖에도 Ray Parker Jr.의\n'Ghostbusters'와\nBobby Boris Pickett & The Crypt Kickers의\n'Monster Mash'가 재진입했고,\nRockwell의 'Somebody's Watching Me'는\n14위까지 치솟았습니다.\n\nThe Citizens of Halloween의\n'This Is Halloween'과\nAndrew Gold의\n'Spooky, Scary Skeletons (Undead Tombstone Remix)' 역시\n핼러윈 시즌송으로써 존재감을 드러냈습니다.\n\n흥미로운 점은 핼러윈 열기가\n채 가시기도 전에 크리스마스 캐럴도\n차트로 돌아왔다는 것인데요.\nWHAM!의 'Last Christmas'와\nMariah Carey의\n'All I Want for Christmas Is You'가\n각각 37위와 39위로 차트에 재진입했습니다.\n\n특히 통산 22주 1위를 차지했던\nMariah Carey의 대표 캐럴이\n올해도 상승세를 이어가며\nElla Langley의 27주 1위 기록에\n얼마나 가까워질 수 있을지\n관심이 모아집니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Olivia Rodrigo의 정상 탈환과 신작들의 약진"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/61/a1c/imgUrl20261111041550075.jpg"
-    },
-    {
-     "type": "p",
-     "text": "앨범 차트에서는 Olivia Rodrigo의\n[you seem pretty sad for a girl so in love]가\n다시 1위를 탈환했습니다.\n통산 4주째 정상을 차지한 가운데,\n차트 데뷔 이후 21주 동안\n단 한 번도 TOP 5 밖으로\n밀려나지 않는 안정적인 흐름을\n보여주고 있네요.\n\n이번 주 가장 큰 상승폭을 보인\n앨범은 Michael Jackson의\n[Thriller]입니다.\n지난주 13위에서 2위로\n껑충 뛰어올랐는데요.\n1984년 이후 가장 높은 순위로,\n핼러윈 시즌을 맞아 대표곡\n'Thriller'의 인기가 되살아난 것이\n앨범 소비에도 영향을 미친 것으로 보입니다.\n\n신작들의 활약도 이어졌습니다.\n아일릿(ILLIT)의 [BREAK EVEN]은\n6위로 진입하며 데뷔 이후\n처음으로 TOP 10에 안착했고,\nBigXthaPlug의\n[BETTER OVER TIME]도\n7위로 출발하며\n세 번째 TOP 10 앨범을 추가했습니다.\n\n한편 록 밴드 Queens Of The Stone Age는\n아홉 번째 정규 앨범 [Perfecth]로\n10위에 진입했습니다.\n가족과 친구, 사랑을 비롯한\n다양한 관계와 감정을 아홉 곡에 담았으며,\n이번 진입으로 통산 다섯 번째\nTOP 10 앨범을 탄생시켰습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- 주목할 만한 아티스트는?"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/56/d95/imgUrl20261111041728295.jpg"
-    },
-    {
-     "type": "p",
-     "text": "출처 | Olivia Dean 공식 SNS"
-    },
-    {
-     "type": "p",
-     "text": "아티스트 차트에서는\nMorgan Wallen이 1위를 유지하며\n통산 44주째 정상을 지켰습니다.\n\nMichael Jackson은 지난주 7위에서\n2위로 올라섰는데요.\n'Thriller'를 비롯한 대표곡들이\n싱글 차트에서 강세를 보인 데 이어,\n앨범 [Thriller]까지 동반 상승하며\n아티스트 순위에도 영향을 미쳤습니다.\n\nBruno Mars는 9위에서 6위로,\nOlivia Dean은 11위에서 8위로\n각각 세 계단씩 상승했습니다.\n특히 Olivia Dean은 최근\n한 매체에서 2026 올해의 아티스트로\n선정되기도 했었죠.\n\nAriana Grande도 14위에서\n9위로 올라 TOP 10에 진입했습니다.\n최근 휴식기에도 불구하고\n기존 음악을 향한 관심이 이어지면서\n순위 상승으로 연결된 모습입니다.\n\n한편 Rihanna는 15위에서\n10위로 올라섰으며\n아일릿(ILLIT)과\nQueens Of The Stone Age는\n각각 12위, 16위로\n다시 차트에 모습을 드러냈습니다."
-    },
-    {
-     "type": "h",
-     "label": "빌보드 메인 차트 순위",
-     "text": "전 세계를 뒤흔든 곡, 앨범, 아티스트?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- HOT 100 차트 (싱글 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f4/395/imgUrl20261111041749747.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Billboard 200 차트 (앨범 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/23/7f1/imgUrl20261111041756049.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Artist 100 차트 (아티스트 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a5/c3c/imgUrl20261111041808859.jpg"
     }
    ]
   },
