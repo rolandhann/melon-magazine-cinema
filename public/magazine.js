@@ -1,7 +1,756 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-19 03:05",
+ "fetchedAt": "2026-11-20 02:56",
  "articles": [
+  {
+   "seq": 17389,
+   "date": "2026.11.19",
+   "title": "MMA2026, DAY1 현장 속으로🍈",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17389",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/09/6e3/202611171523058251.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "MMA2026, DAY1 현장 속으로🍈"
+    },
+    {
+     "type": "p",
+     "text": "매년 연말을 화려하게 장식하는 MMA가 올해는 이틀에 걸쳐 펼쳐졌습니다. 첫날부터 시선을 압도하는 무대가 이어지며 현장의 열기를 뜨겁게 달궜는데요. 한 해를 빛낸 음악과 퍼포먼스가 어우러진 MMA2026 첫날의 순간들을 함께 만나보시죠!"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "🏆DAY1의 다관왕 주인공은?"
+    },
+    {
+     "type": "p",
+     "text": "자타공인 NO. 1 아티스트죠. 방탄소년단이 1일 차에 3관왕을 거머쥐었습니다. 올해 3월, 정규 앨범 [ARIRANG]을 발매해 전 세계를 들썩였는데요. 월드 투어로 23개국을 돌며 88회 공연을 진행하고, 국내외 음악 시장의 판도를 바꾼 자랑스러운 이들. 글로벌 TOP10과 스테이지 오브 더 이어, 대상인 카카오뱅크 올해의 앨범 부문에서 수상했습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/39/297/202611181642287172.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/56/468/202611181642319817.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/79/49d/202611181642057332.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올여름을 쇠콤달콤 'LEMONADE'로 평정한 aespa도 글로벌 TOP10과 대상인 올해의 글로벌-K 아티스트 상을 받으며 2관왕에 올랐어요. 멜론 글로벌-K 차트에서 두각을 나타내며 올해 큰 사랑을 받은 아티스트에게 전하는 상인 만큼 의미가 깊죠."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d4/396/202611181643068960.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/84/a7d/202611181643094894.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4c/5ba/20261118164317684.jpg"
+    },
+    {
+     "type": "p",
+     "text": "예쁜 애 옆에 예쁜 애 옆에 예쁜 애. 사랑스러운 비주얼로 'RUDE!' 신드롬을 만들어낸 Hearts2Hearts (하츠투하츠)도 다관왕 주인공입니다. TOP10, 글로벌 TOP10, 글로벌 임팩트 아티스트 상까지, 3개 부문을 휩쓸었어요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/21/71c/202611181643488631.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/47/d35/202611181643526291.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이제는 '국민 걸그룹' 애칭이 자연스러운 역주행의 아이콘입니다. RESCENE (리센느)는 데뷔 후 MMA에 처음 얼굴을 비췄는데요. 첫 방문에 글로벌 TOP10, 핫트렌드, 카카오뱅크 모두의 스타상까지 3개의 트로피를 한 아름 안았습니다. 유독 뜻깊은 RESCENE (리센느)의 2026년이 더욱 풍성하게 마무리될 것 같네요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "🎂10주년을 빛낸 감동의 무대"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/13/6b4/202611181644298978.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/91/1f4/202611181644338714.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a1/acf/202611181644374247.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해 초 반가운 소식이 있었죠. 국민 Pick으로 결성된 아이오아이 (I.O.I)가 10주년을 맞이해 완전체로 대중과 만났습니다. '자려고 누웠는데 양의지' 밈으로 화제를 모으며 멜론 차트 1위에 오르는 저력을 보여준 바 있어요. 오랜만에 뭉쳤어도 오래 함께였던 듯 합이 착착 맞는 무대를 선보여 현장은 감동의 물결이 일었습니다. 수상 소감으로 꼭 다시 돌아오겠다고 약속했으니, 또 한 번의 만남을 기다려 볼까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7d/a33/202611181645061926.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/be/4c7/202611181645091259.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b7/d7a/20261118164512182.jpg"
+    },
+    {
+     "type": "p",
+     "text": "1일 차 라인업엔 올해 데뷔 10주년을 맞은 팀이 또 있습니다. 바로 NCT DREAM! 첫 곡으로 7년 전 풋풋한 매력으로 불렀던 노래 'BOOM'을 시작으로 'Better Than Gold (지금)', 'Boogie Woogie'를 부르며 무대를 장식했죠. 공연 중간엔 케이크를 올려 현장 분위기를 금세 파티의 한 장면으로 만들었어요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "🌟고척돔을 뒤집어 놓은 요즘 대세"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/aa/f62/202611181645492413.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/95/652/202611181650194369.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/29/df2/202611181646007562.jpg"
+    },
+    {
+     "type": "p",
+     "text": "음악 축제의 묘미는 단연 눈 뗄 수 없는 퍼포먼스라고 할 수 있겠죠. 여기 고척돔 뚜껑 날릴 듯한 함성을 끌어낸 두 팀이 있습니다. 두 팀 모두 핫트렌드 부문을 수상하며 대세임을 증명했는데요. 먼저, 최근 가슴 춤으로 챌린지 판을 휩쓸었던 ATEEZ(에이티즈)가 압도적인 스케일의 퍼포먼스를 선보였어요. 바다를 형상화한 푸른 천, 해적선, 제복 등 해적왕 콘셉트로 무대를 꽉 채워 자신들의 세계로 모두를 끌어당겼습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/3ac/202611181646274580.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/59/096/202611181646312412.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d9/4a5/202611181646332127.jpg"
+    },
+    {
+     "type": "p",
+     "text": "아마 RESCENE (리센느)를 응원하던 분들이라면 '리마인 하길 잘했다'는 생각이 절로 들었을 것 같습니다. 동화 같은 세트와 머스크향이 청각으로 느껴지는 편곡으로 MMA 첫 출연이라는 사실이 믿기지 않을 만큼 완성도 높은 무대가 펼쳐졌어요. 특히 마지막 곡 'LOVE ATTACK'에선 화면에 'REMINE'을 큼직하게 띄워 팬들에게 고마운 마음을 표현했습니다. '한 번도 빛난 적 없었던 미지의 향으로 온 세상을 물들여'라는 가사처럼 RESCENE (리센느)는 이날 자신들만의 향으로 MMA2026을 물들였죠."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/60/36f/202611191210223728.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/59/538/202611191210279733.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ec/726/20261119121030866.jpg"
+    },
+    {
+     "type": "p",
+     "text": "베스트 퍼포먼스 남자와 글로벌 TOP10을 수상한 RIIZE도 무대 위에서 저력을 발휘했습니다. 이번 가을 발매한 'Insomnia' 뮤직비디오의 주요 장치였던 거대한 고래가 대형 화면에 등장하며 시작부터 시선을 사로잡았는데요. 마치 자신들만의 세계로 팬들을 초대하듯 신비로운 분위기를 자아냈죠. 특히 댄스 크루와 함께 단상에 올라 온몸으로 감정을 쏟아내는 듯한 퍼포먼스가 인상적이었습니다. 매번 놀라운 무대를 선보이는 팀답게 이번에도 한순간도 눈을 뗄 수 없는 볼거리를 가득 안겨주었어요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a2/126/202611191212049527.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/78/05a/202611191212097106.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/80/402/20261119121213675.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해 멜로너들의 마음을 제대로 캐치!한 YENA (최예나)도 뜻깊은 무대로 찾아왔습니다. 가수로서의 첫 시작을 떠올리게 하는 '프로듀스 48' 콘셉트의 무대부터 IZ*ONE (아이즈원) 시절 활동 곡 'FIESTA', 첫 솔로 데뷔곡 'SMILEY (Feat. BIBI)', 그리고 올해를 뜨겁게 달군 '캐치 캐치'까지. 그야말로 YENA (최예나)의 음악 인생을 한 편의 하이라이트 영상처럼 펼쳐 보였는데요. 특히 IZ*ONE (아이즈원) 시절의 추억까지 놓치지 않은 구성에 팬들도 감동했다는 반응을 보였습니다. 지금의 YENA (최예나)가 있기까지의 순간들을 하나씩 되짚어 준 무대, 팬들에게는 그야말로 선물 같은 시간이었겠죠?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "🎙️꿈을 이룬 MC와 축제의 열기를 함께 나눈 시상자"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/89/668/202611181647088608.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 MMA2026은 크리에이터 미미미누의 활약으로 진행되었습니다. 레드카펫부터 틈틈이 출연진들의 인터뷰를 도맡아 공연장에 기분 좋은 웃음을 안겨주었죠. 이날 미미미누가 무대에도 올랐다는 사실! 알고 계신가요? Hearts2Hearts (하츠투하츠) 'RUDE!' 무대 중간에 전화하는 역할로 잠깐 얼굴을 비추었어요. 과거 한 예능에서 고척돔을 목표로 꼽았던 미미미누. 이날 Hearts2Hearts (하츠투하츠)와 함께 제대로 고척돔 데뷔를 치렀습니다!"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/04/fc5/202611181647242291.jpg"
+    },
+    {
+     "type": "p",
+     "text": "1일 차엔 5개의 대상 중 올해의 앨범과 올해의 글로벌-K 아티스트, 2가지 부문이 공개되었는데요. 그 시상은 다름 아닌 배우 이영애가 맡았습니다. 우아한 자태로 등장해 특유의 발음으로 '에스파'를 호명하는 영상이 소소하게 화제 되었죠."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/6b/dbc/202611181647376865.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2025년 5월 전역 이후 오랜만에 공식 석상에 등장한 배우 이도현. 올블랙 슈트와 훤칠한 비율로 등장부터 시선을 쓸어모았습니다. 한층 날렵해진 턱선에 깊어진 분위기가 더해져 현장에선 자연스레 감탄이 터져 나왔어요. 짧은 등장만으로도 여전한 화제성을 입증한 그가 다음에는 어떤 작품으로 찾아올지 지켜봐 주세요!"
+    },
+    {
+     "type": "p",
+     "text": "MMA2026의 뜨거웠던 순간들, 아직 끝나지 않았습니다! 아쉬운 마음은 축하공연 다시 보기와 MMA 플레이리스트로 달래보세요. 다음날의 현장은 2편에서 계속됩니다!"
+    }
+   ]
+  },
+  {
+   "seq": 17388,
+   "date": "2026.11.19",
+   "title": "동이 트는 시간에 시작해 해 질 녘까지 부르는 노래, 홍이삭 [결]",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17388",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2c/3ac/202611171623333592.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "동이 트는 시간에 시작해 해 질 녘까지 부르는 노래, 홍이삭 [결]"
+    },
+    {
+     "type": "p",
+     "text": "안녕하세요, 멜론 가족 여러분!\n11월 19일 오후 6시, 홍이삭의 EP [결]이 발매되었습니다.\n홍이삭의 EP [결]은 불안과 외로움 등의 감정을 하루의 흐름 위에 옮겨 놓은 앨범입니다.\n타이틀곡 '그때 우리'의 Music Video 촬영 현장 비하인드를 멜론 가족 여러분께 단독 공개합니다♡"
+    },
+    {
+     "type": "h",
+     "label": "Album",
+     "text": "홍이삭 [결]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/67/180/15167180_20261116154302.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Official Photo",
+     "text": "홍이삭 [결]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/79/227/20261117162517610.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/67/026/202611171625257851.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5e/e85/202611171625312922.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a7/dda/202611171625409171.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5d/233/202611171625441437.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/bd/17a/20261117162547787.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Story",
+     "text": "홍이삭 [결] 타이틀곡 '그때 우리' Music Video 촬영 현장 비하인드"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/93/933/202611171626174548.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/fa/cb9/202611171626205767.jpg"
+    },
+    {
+     "type": "p",
+     "text": "오랜만에 연기에 도전한 홍이삭! 싱송라를 넘어 영화배우도 하시나요?!"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/1f/aba/202611171627007678.jpg"
+    },
+    {
+     "type": "p",
+     "text": "모니터링하면서 여러 의견을 내는 모습이 영락없는 배우(?)의 모습이었습니다 ㅎ.ㅎ"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a4/f1c/202611171627053451.jpg"
+    },
+    {
+     "type": "p",
+     "text": "쓸쓸히 앉아 있는 모습에.. 살짝 안아주고 싶은 마음이 생긴 건 안 거짓말..~"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/34/6e4/202611171627203883.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f0/de9/202611171627226839.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번엔 빔을 활용한 순간! 파란색이 찰떡인 걸 보니 확신의 쿨톤이실게요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ae/b24/20261117162731178.jpg"
+    },
+    {
+     "type": "p",
+     "text": "파랑이삭이 탄생하는 순간, 하얀이삭은 손을 꼬옥 마주 잡고 있었다는 비하인드.."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/38/a95/202611171627411036.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ea/200/202611171627438239.jpg"
+    },
+    {
+     "type": "p",
+     "text": "앉아 있는 모습이 완전 청순 그 자체. 청초왕자하세요 그냥."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d6/35e/202611171627526616.jpg"
+    },
+    {
+     "type": "p",
+     "text": "대망의 욕조신을 기다리는 홍이삭! 뒷모습에서 많은 생각이 스치는 것 같은 건 저뿐인가요? ㅎㅎ"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/30/762/202611171628003126.jpg"
+    },
+    {
+     "type": "p",
+     "text": "(물이 차가운 거 같은데.. 차가우면 추운데..)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e3/25b/202611171628148524.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/84/e12/202611171632076116.jpg"
+    },
+    {
+     "type": "p",
+     "text": "홍이삭을 당장 충무로로. (주접)"
+    },
+    {
+     "type": "p",
+     "text": "홍이삭 EP [결]의 타이틀곡 '그때 우리'의 Music Video 촬영 현장 비하인드 어떠셨나요?!\n이번 앨범을 통해 여러분들만의 '의지'를 잘 찾아가길 바라며, 따뜻한 연말 보내세요!"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "홍이삭 '그때 우리'"
+    },
+    {
+     "type": "h",
+     "label": "From 홍이삭",
+     "text": "To Melon"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/03/604/202611171630536903.jpg"
+    }
+   ]
+  },
+  {
+   "seq": 17382,
+   "date": "2026.11.19",
+   "title": "우리 노래 전시회 '밴드'편",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17382",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b5/75e/imgUrl20261116114009870.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "우리 노래 전시회 '밴드'편"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "숨은 명곡, 세상은 모른다. 트랙제로는 안다"
+    },
+    {
+     "type": "p",
+     "text": "멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로 2.0\n\n트랙제로는 숨겨진 명곡과 아티스트를 발굴하는 프로젝트입니다. 매주 전문위원들이 엄선한 플레이리스트를 통해, 리스너들에게는 숨은 보석 같은 음악을 선물하고, 뮤지션들에게는 다시 날개를 달 수 있는 기회를 줄 것입니다."
+    },
+    {
+     "type": "h",
+     "label": "Story",
+     "text": "우리 노래 전시회 '밴드'편"
+    },
+    {
+     "type": "p",
+     "text": "지난여름에 '우리 노래 전시회'란 주제로 젊은 싱어송라이터들의 음악을 모아봤습니다. 좋은 반응이 많았는데요, 올해가 가기 전에 '밴드' 편을 이어서 준비해 봤습니다. 느슨하나마 선곡 기준을 정했습니다. 비교적 활동 기간이 길지 않을 것. 또 밴드만의 고유한 스타일을 갖고 있을 것. 현재 신에서 활발하게 활동하고 있을 것. 이 정도 기준으로 선곡했습니다. 과거 '트랙제로'에서 선곡된 밴드도 있지만, 밴드만의 색이 강하다 보니 그렇지 못한 경우도 있었습니다. 이 다양한 스타일을 가진 밴드들이 현재 한국 인디 신을 함께 일구어가고 있습니다. 한국 대중음악은 늘 이렇게 풍성합니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "01. 다브다 (Dabda) '온'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/33/d27/imgUrl20261116114028999.jpg"
+    },
+    {
+     "type": "p",
+     "text": "다브다 (Dabda)는 어쩌면 제가 정한 기준과 맞지 않을 수 있습니다. 이제 다브다 (Dabda)도 어느덧 베테랑이라고 불러도 될 정도의 경력을 지니고 있기 때문입니다. 2016년 첫 EP [저마다 섬]을 발표했으니 음반으로만 쳐도 어느새 활동 10주년을 맞은 밴드가 됐습니다. 그럼에도 '밴드만의 고유한 스타일'이란 측면에선 분명한 자격이 있습니다. 다브다 (Dabda)는 10년이라는 시간 동안, 한국에서는 쉽게 접하기 어려운 '매스 록(Math Rock)' 음악을 해왔습니다. '수학 록'이란 이름처럼 계산된 듯한 정교한 연주를 기반으로 하는 음악인데요, 이제 한국에서 매스 록 하면 다브다 (Dabda)란 이름이 반사적으로 나올 정도로 대표적인 밴드가 됐습니다. 얼마 전 새 앨범 [온(百)]을 발표하며 매스 록을 넘어 더 다양한 스타일의 음악을 하고자 하는 의지를 보여주기도 했습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "02. 급한노새 'Sleep Tight'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/24/551/imgUrl20261116011427669.jpg"
+    },
+    {
+     "type": "p",
+     "text": "급한노새는 자신들을 얼터너티브 록 밴드라고 소개합니다. 노새는 유전학적인 불임으로 생식할 수 없는 동물입니다. 후세를 도모할 수 없기에 현재에 충실한 삶을 살며 살아온 날들로 음악을 만들고 공연한다는 뜻에서 지은 이름이라고 합니다. 그 이름처럼 급한노새는 2022년 첫 싱글 'Together'를 발표한 이후 꾸준하게 작품 활동을 하고 있습니다. 지난해 연말에는 인상적인 첫 정규 앨범 [Sleep Tight And Other Assorted Tales]를 발표했습니다. 그 성실한 현재의 삶 속에 낭만도 있고 자유도 있고, 잠시 동안의 여유도 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "03. 이디어츠 '푸르내'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/57/885/imgUrl20261116114039064.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이디어츠는 펑크 한 길만을 걸어온 밴드입니다. 2018년 [1st EP]를 발표한 이후 역시 꾸준하게 싱글과 정규 앨범 작업을 하며 활동해 오고 있습니다. 불과 얼마 전에도 새로운 EP [idiots]를 발표했는데요, 표지에는 멤버들의 모습이 올망졸망 귀엽게 그려져 있습니다. 비록 이디어츠의 이름이 낯설 순 있지만 음악을 들어보면 음반 커버처럼 귀엽고 사랑스러운 느낌을 받을 수 있습니다. 귀에 쏙 들어오는 멜로디가 펑크 사운드와 함께 합니다. 자신들을 '멍청이 펑크 밴드'라고 소개하지만 이들의 멜로디는 절대 멍청하지 않습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "04. 로우 브라더스 (ROW BROTHERS) 'ZERO FLAG'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/53/093/imgUrl20261116114100748.jpg"
+    },
+    {
+     "type": "p",
+     "text": "로우 브라더스 (ROW BROTHERS)도 최근 활발한 활동을 하는 펑크 밴드입니다. 이디어츠만큼 좋은 멜로디를 담은 펑크 사운드를 들려주는데, 사실 펑크란 음악이 다소 과격해 보이는 이미지와 달리 그 안에는 좋은 멜로디를 품고 있는 경우가 많습니다. 로우 브라더스 (ROW BROTHERS)는 그런 펑크의 매력을 잘 보여주는 밴드이기도 하고요. 또 펑크가 갖고 있는 청춘의 이미지를 잘 표현하는 밴드이기도 합니다. 오늘 선곡한 'ZERO FLAG'는 '모든 이들과 함께 포기하지 않고 다시 일어설 수 있는 용기와 희망을 나누고 싶은 마음을 담은 곡'이라고 합니다. 청춘의 펑크입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "05. 올드 잉글리쉬 쉽독 'Goonies'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1b/132/imgUrl20261116114109478.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올드 잉글리쉬 쉽독은 최근 가장 눈에 띄는 활약을 보이는 밴드입니다. 2024년 첫 정규 앨범 [dude..]로 눈길을 끌었던 밴드는 올해 한층 성장한 두 번째 앨범 [American Ping Pong]을 발표하며 확실한 눈도장을 찍었습니다. 다양한 스타일의 록 음악을 표현하면서도 재치 있는 가사와 독특한 질감의 사운드로 올드 잉글리쉬 쉽독만의 스타일을 가져왔습니다. 또 [dude..]에서부터 [American Ping Pong]까지, 앨범에 담고 있는 주제 의식은 '앨범'만이 가질 수 있는 가치를 잘 보여줍니다. 앨범 듣기의 즐거움이 무엇인지를 올드 잉글리쉬 쉽독이 알려주고 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "06. Omar and the Eastern Power (오마르와 동방전력) 'Bled santir (feat. 김오키)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/b98/imgUrl20261116114119560.jpg"
+    },
+    {
+     "type": "p",
+     "text": "Omar and the Eastern Power (오마르와 동방전력)라는 독특한 이름만큼 독특한 멤버 구성을 보여줍니다. 모로코인인 리더 오마르를 중심으로 한국인, 이집트인 멤버로 구성된 다국적 밴드입니다. 리더의 주도 아래 북아프리카 스타일의 음악이 중심에 있지만 여기에 각국의 음악적 특성이 더해지며 독특한 음악이 완성됐습니다. 이 독특한 사운드를 라이브로 접할 때 감흥은 더 커질 수밖에 없는데요, 얼마 전 발표한 EP [Lil Elbouhala]에는 라이브에서 전해지던 에너지와 중독적인 리듬이 가득합니다. 김오키의 색소폰이 더해진 'Bled santir'는 듣는 이를 다른 세계로 데려갑니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "07. 칩 포스트 갱 'INAZUMA'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/24/4ee/imgUrl20261116114125771.jpg"
+    },
+    {
+     "type": "p",
+     "text": "칩 포스트 갱 역시 최근 가장 자주 접했던 이름 가운데 하나입니다. 올해 여름에는 '패치룸 페스티벌'이란 이름의 유례없는 음악 축제를 기획해 화제를 모으기도 했는데, 그런 기획자의 역할뿐 아니라 지난 9월 첫 정규 앨범 [우리가우리라고부르는것들]을 발표해 밴드로서의 존재감을 확고하게 확인시켜 줬습니다. 작년에 발표한 EP [CAVEQUAKE]에서부터 보여줬던 엄청난 에너지를 정규 앨범으로까지 끌어왔고, '소리 덩어리'라고 표현할 만한 낮고 묵직한 사운드로 압도적인 무드를 연출합니다. 음악으로 만들어내는 '기세'란 이런 겁니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "08. yonglee & the DOLTANG 'March of the Invisibles'"
+    },
+    {
+     "type": "p",
+     "text": "용리와 돌아온 탕자들. 영문으로는 'yonglee & the DOLTANG'이라고 표기합니다. 영문 표기를 따로 하는 데는 이유가 있는데요, 외국에서 그만큼 활발한 활동을 하고 있기 때문입니다. 투어는 물론이고, 올해 독일 연방 정부가 주관하는 '2026 독일 재즈상(Deutscher Jazzpreis)' 시상식에서 '올해의 데뷔 앨범상(국제)'을 수상하기도 했습니다. 지난해 발표한 첫 정규 앨범 [Invisible Worker]로 상을 받았는데, 앨범에는 재즈뿐 아니라 록, 프로그레시브, 일렉트로닉 이 결합돼있습니다. 색다른 재즈를 듣고 싶을 때 '용리와 돌아온 탕자들'은 탁월한 선택입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "09. POLYAMORY '포자와 삼켜질 세상'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/08/3df/imgUrl20261116114143390.jpg"
+    },
+    {
+     "type": "p",
+     "text": "POLYAMORY는 2인조로 구성된 인스트루멘탈 록 밴드입니다. 보컬이 없이 연주만으로 자신들의 음악을 표현하고 있고, 또 기타와 드럼이라는 단출한 편성으로도 정교하면서 스케일이 큰 사운드를 들려줍니다. 지난 9월에 발표한 첫 정규 앨범 [균의 만연]에서도 프로그레시브 록이라 해도 좋을 정도로 정교하면서 웅장한 사운드를 들려주고 있고, 매스 록이나 포스트 록 같은 하위 장르의 매력도 발견할 수 있습니다. 균과 포자라는 독특한 개념을 가지고 앨범 한 장을 완성해냈다는 것도 인상적입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "10. I.M.F '업힐'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/35/1db/imgUrl20261116114149428.jpg"
+    },
+    {
+     "type": "p",
+     "text": "I.M.F는 인디 신의 경력직들이 만나서 만든 밴드입니다. 밤섬해적단, 고쓰롭(GAWTHROP), 폐허, 만동 (Mandong), 유기농맥주, Peach Truck Hijackers, THSS 등에서 활동했고 지금도 활동하고 있는 4명의 멤버가 모였는데, 처음에는 Imitation(모방), Modification(변형), Fabrication(날조)의 약자라고 밴드 이름을 설명했다가 농담처럼 나중에는 그냥 갖다 붙인 거라고 말했습니다. 풀이하자면 서양의 대중음악을 가져다 모방하고 변형하고 날조해서 자신들만의 것으로 만들겠다는 뜻이 아닐까 하는데요, 크라우트 록, 인터스트리얼, 얼터너티브, 노이즈 록, 펑크 등 다양한 사운드가 거친 매력으로 담겨 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "11. CASUALLY CONNECTED 'Blasphemy'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b3/c92/imgUrl20261116114155888.jpg"
+    },
+    {
+     "type": "p",
+     "text": "CASUALLY CONNECTED는 지금 헤비니스 신에서 활발하게 활동하고 있는 밴드입니다. CASUALLY CONNECTED의 멤버들 역시 샌디노이즈, ERROR-B, 코토바 등에서 활동했던 경력직인데요, 한데 모여 강렬한 사운드를 만들어내고 있습니다. 무거우면서 공격적인 사운드를 들려주는데 그 안에는 귀에 들어오는 멜로디도 있습니다. 라이브에서도 사운드가 담고 있는 매력을 그대로 선보이기도 하고요, 헤비니스 사운드가 가진 매력을 CASUALLY CONNECTED의 음악에서 온전하게 확인할 수 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "12. Teho '폐쇄'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/95/d64/imgUrl20261116114201348.jpg"
+    },
+    {
+     "type": "p",
+     "text": "Teho의 경력 역시 만만치 않습니다. 멤버들의 경력도 화려하고요. 하지만 밴드만의 고유한 스타일을 갖고 지속적으로 오랜 시간 활동하고 있다는 점에서 이번 기획의 마지막 밴드로 선택했습니다. Taehun (이태훈) (기타), 진수영(피아노), 김성완(색소폰), min(드럼)으로 구성된 Teho는 정기적으로 모여 공연을 갖습니다. 그 공연은 즉흥을 바탕으로 한 연주로 구성되고, 그 결과물을 앨범으로 발표합니다. 얼마 전 [연희 지하보도 연쇄 실종 사건] 앨범이 발표됐습니다. 호기심을 자극하는 제목들, 연주자들은 어떤 상상을 하며 즉흥적으로 합을 맞췄을지 기대를 갖고 음악을 들어봅니다."
+    },
+    {
+     "type": "p",
+     "text": "밴드 활동이 얼마나 어려운지 꽤 오랜 시간 음악 신에 있으면서 알 수 있게 됐는데요, 그래서 오랜 시간 활동하는 밴드를 보면 존중하는 마음이 절로 생겨나곤 합니다. 오늘 소개해 드린 밴드들은 경력도, 장르도 다 다르지만 이들이 오랜 시간 활동하면서 대중음악이란 숲을 더 풍성하게 만들어주길 기대해 봅니다. 트랙제로는 계속됩니다!"
+    },
+    {
+     "type": "p",
+     "text": "(정리: 김학선 전문위원)"
+    },
+    {
+     "type": "h",
+     "label": "Playlist",
+     "text": "우리 노래 전시회 '밴드'편"
+    }
+   ]
+  },
+  {
+   "seq": 17376,
+   "date": "2026.11.19",
+   "title": "이별의 항해를 노래한 케이시 (Kassy)의 [ODYSSEY]",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17376",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ab/007/imgUrl20261117022947723.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "이별의 항해를 노래한 케이시 (Kassy)의 [ODYSSEY]"
+    },
+    {
+     "type": "p",
+     "text": "일곱 번째 미니앨범 [ODYSSEY]를 발매한 케이시 (Kassy)!\n이번 앨범은 총 4편의 뮤직비디오로 다채로운 이야기를 전하는데요, 이별의 항해를 노래한 [ODYSSEY] 뮤직비디오 촬영 비하인드 지금 공개합니다!"
+    },
+    {
+     "type": "h",
+     "label": "Album",
+     "text": "케이시 (Kassy) EP [ODYSSEY]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/34/770/15134770_20261118161348.jpg"
+    },
+    {
+     "type": "p",
+     "text": "케이시 (Kassy)의 일곱 번째 미니앨범 [ODYSSEY]는 이별 이후 마주하는 감정의 흐름을 긴 항해에 빗대어 풀어낸 앨범입니다.\n\n쉽게 가라앉지 않는 슬픔과 끝내 놓지 못한 그리움, 앞으로 나아가야 한다는 사실을 받아들이기까지의 망설임. 저마다 다른 모습으로 찾아오는 감정들을 지나 마침내 한 걸음씩 앞으로 나아가는 여정을 담았습니다."
+    },
+    {
+     "type": "h",
+     "label": "Story",
+     "text": "케이시 (Kassy) EP [ODYSSEY] MV 촬영 현장"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Track 01. '왜 이별은 아프기만 할까요' - MV 촬영 현장"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d4/594/imgUrl20261117023327372.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영 전 살짝 긴장한 듯한 모습을 보여주는 케이시 (Kassy)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ea/3c5/imgUrl20261117023332527.jpg"
+    },
+    {
+     "type": "p",
+     "text": "하지만 막상 촬영이 시작되자 언제 그랬냐는 듯 감정에 깊이 몰입합니다\n섬세한 표정과 눈빛으로 곡이 가진 분위기를 담아내고 있네요🎞️✨"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/80/78f/imgUrl20261117023339331.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6d/417/imgUrl20261117023344297.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이별을 마주한 케이시 (Kassy)\n곡 제목처럼 이별이 주는 아픔을 고스란히 표현해 봅니다"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/82/b69/imgUrl20261117023349934.jpg"
+    },
+    {
+     "type": "p",
+     "text": "창밖을 바라보며 함께했던 지난날을 떠올리는 듯한\n아직 마음 한편에 남아 있는 그리움이 느껴지네요"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Track 02. '돛단배' - 선공개곡 MV 현장"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/63/1d1/imgUrl20261117023357649.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영이 들어가기 전, 꼼꼼하게 외모 체크도 해주고요❤️"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/78f/imgUrl20261117023402709.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영이 시작되자마자 다시금 감정에 몰입하는 프로페셔널한 모습!\n카메라 감독님들 역시 섬세한 감정 하나하나를 놓치지 않기 위해 집중하고 계셔요 📹"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/01/f1b/imgUrl20261117023414973.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ad/570/imgUrl20261117023419666.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 앨범 [ODYSSEY]의 긴 항해를 상징하는 돛단배도 빠질 수 없죠!\n'이 눈물에 돛단배를 띄워 네게 보내줄게'라는 가사처럼, 뮤직비디오 속 종이배를 통해 긴 항해의 의미를 표현해 보았습니다 ⛵⛵"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/f44/imgUrl20261117023426524.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이렇게 '돛단배' 촬영도 무사히 완료!! 💕\n긴 촬영에 지친 에너지를 충전하기 위해 중간중간 달콤한 간식타임도 가져봅니다🥨💛"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Track 03. '기어코' - 타이틀곡 MV 촬영 현장"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/02/101/imgUrl20261117023431954.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 앨범의 메인 타이틀곡, '기어코' 입니다-!"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/43/f99/imgUrl20261117023438228.jpg"
+    },
+    {
+     "type": "p",
+     "text": "잊으려 애써도 남아 있는 그리움과, 아픈 사랑을 뒤로한 채 앞으로 나아가려는 마음을 담은 곡인 만큼, 케이시 (Kassy) 역시 섬세한 감정 표현을 위해 감독님의 말씀 하나하나에 귀 기울이고 있네요 😊😊"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Track 04. 'Still Blue' - 긴 항해의 마지막 순간"
+    },
+    {
+     "type": "p",
+     "text": "하늘은 여전히 파랗지만, 나는 여전히 우울한..😢"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e3/16c/imgUrl20261117023455248.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/f08/imgUrl20261117023500828.jpg"
+    },
+    {
+     "type": "p",
+     "text": "앞선 세 곡의 뮤직비디오와는 확연히 다른 스타일로 완성된 'Still Blue' 뮤직비디오\n긴 항해의 마지막 순간, 또 어떤 색다른 모습으로 담아냈을지 궁금하시다면, 지금 바로 함께 뮤직비디오를 감상하러 가보시죠💜"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "케이시 (Kassy) '돛단배'"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "케이시 (Kassy) '기어코'"
+    },
+    {
+     "type": "h",
+     "label": "From 케이시 (Kassy)",
+     "text": "To 멜론"
+    }
+   ]
+  },
   {
    "seq": 17386,
    "date": "2026.11.17",
@@ -1215,541 +1964,6 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "2000년대 후반 UCC 영상에서 시작된 자발적 패러디는 숏폼 시대의 댄스 챌린지를 거쳐 AI 기술 기반의 창작 영역까지 끊임없이 스펙트럼을 넓혀왔습니다. 세월이 흐르고 플랫폼의 형태는 계속 바뀌었지만, 좋은 음악을 매개로 서로 소통하고 즐거움을 나눈다는 본질만큼은 언제나 변함없이 이어지고 있는데요. 앞으로는 어떤 새로운 기술과 기발한 아이디어가 등장하여 우리의 귀와 눈을 즐겁게 만들어줄지 사뭇 기대가 됩니다."
-    }
-   ]
-  },
-  {
-   "seq": 17360,
-   "date": "2026.11.13",
-   "title": "[FIRESTARTER]로 돌아온 K/DA 독점 인터뷰와 이미지 공개!",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17360",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e1/e70/202611121301564255.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "[FIRESTARTER]로 돌아온 K/DA 독점 인터뷰와 이미지 공개!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/37/73d/202611121014331339.jpg"
-    },
-    {
-     "type": "p",
-     "text": "League of Legends의 버추얼 K-Pop 그룹 K/DA가 6년 만에 새 EP [FIRESTARTER] 로 돌아왔습니다.\n\n한층 더 날카롭고 대담해진 모습으로 돌아온 K/DA는 11월 15일 (한국 시간) 뉴욕에서 열리는 2026 월드 챔피언십 개막식에 오를 예정인데요.\n\nK/DA의 컴백을 기념하며 멜론 가족분들을 위한 독점 인터뷰와 이미지를 공개합니다!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "K/DA [FIRESTARTER]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/149/86/978/14986978_20261020034632.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Interview with",
-     "text": "K/DA"
-    },
-    {
-     "type": "h",
-     "label": "Q.",
-     "text": "지난번 컴백 이후로 모두 어떻게 지내셨나요? 오랜만에 다시 모여서 신곡을 작업한 소감도 궁금한데요."
-    },
-    {
-     "type": "p",
-     "text": "아리: 솔로 시절은 물론, K/DA의 데뷔와 지난번 컴백을 거치면서 저도 많이 성장했다고 느꼈어요. 한 걸음 한 걸음 나아갈 때마다 자신감이 붙고, 정체성도 확고해지는 기분이었다고 해야 할까요? 그동안의 휴식기는 창작력을 재충전하고, 지금의 나 자신이 누구인지 진정으로 이해하기 위한 시간이었어요. '과거의 내 모습도 여전히 이 안에 남아 있지만, 새로운 나는 누구여야 할까?' 이런 호기심 덕에 제 안에 잠들어 있던 새롭고 강렬한 면모를 끌어낼 수 있었죠. 이번 K/DA 활동에서는 그 부분을 특히 강조하고 싶었어요.\n\n이블린: 안 가 본 데가 없죠. 솔직히 기억도 다 안 나요. 뭐, 저번 컴백 이후로는 주로 패션계에 있었다고 할 수 있겠네요. 아리가 이번 [FIRESTARTER] 작업으로 연락했을 때는 곧바로 승낙했어요. 얼른 멤버들이랑 같이 다시 조명 아래 서고 싶었거든요. 물론 떠났던 적도 없지만 말이죠.\n\n카이사: 저희 멤버들은 알겠지만 전 가만히 앉아만 있는 성격이 아니에요. (웃음) 그동안은 여기저기 돌아다니면서 정말 많은 댄서, 안무가들과 교류했죠. 저는 언제나 새로운 걸 배우고 기술을 익히고 싶다는 생각이 있었는데 그분들 덕에 제 역량을 한층 발전시킬 수 있었어요. 뭔가 색다르고 예상치 못한 걸 만들어 낼 원동력이 됐죠.\n\n아칼리: (씨익) 뭐, 팬이라면 제가 여태 뭘 하고 지냈는지 벌써 아시겠죠. 저는 그동안 우리 True Damage랑 같이 신곡 'Know My Name (Feat. Coco Jones, SOYEON, i-dle)'을 준비했어요. 참 좋은 친구들이에요. 각자 스타일이 다 달라서 배울 게 참 많거든요. 계속 자극이 되고 영감을 주죠. 그래서 이브가 연락했을 때는 아이디어가 막 터져 나올 정도였어요. K/DA 모드로 돌아가기에 완벽한 순간이었죠."
-    },
-    {
-     "type": "h",
-     "label": "Q.",
-     "text": "이번 신곡 'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)'는 K/DA에게 있어 흥미로운 새 장인 것 같은데요. 어디에서 영감을 얻은 곡인지, 팬분들이 이 새로운 시대의 음악을 통해 무엇을 느끼길 바라는지 듣고 싶습니다."
-    },
-    {
-     "type": "p",
-     "text": "아리: 몇 년을 무대 위에서 살다 보니까, 저라는 사람을 전부 안다고 생각하는 분들이 늘었어요. 그런 분들은 기대감이라는 상자 속에 저랑 제 음악을 가두려 하죠. 하지만 앞서 말씀드린 것처럼, 전 새로운 모습으로 성장했어요. 우리 모두가 그랬죠. 이번 'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)'는 바로 그런 진화의 표명이에요. 과거의 한계와 장벽을 불태워 무너뜨리고, 저희만의 길을 개척하겠다는 선언이죠. 말 그대로요. (웃음)\n\n이블린: 뮤비 쪽은 바로 떠오른 아이디어가 있었어요. 아방가르드 패션이나 런웨이 쇼처럼 압도적인 비주얼이었죠. K/DA의 기존 스타일을 조금 더 어두운 방향으로, 한층 날카롭게 밀어붙이고 싶었어요. 다들 이 시점에 딱 맞는 콘셉트라는 데 동의했죠.\n\n아리: 변화란 건 무서운 거니까, 조금 위험한 느낌을 주고 싶었어요. 하지만 동시에 아름답고 자유로워야 했죠. 이건 파괴가 아니라 변신이니까요. 팬 여러분도 이번 'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)'와 저희의 새 모습을 통해 그런 메시지를 받아 가셨으면 해요. 지금의 나도, 앞으로 변해 갈 내 모습도 두려움 없이 받아들이세요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ec/a37/202611121017173459.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Q.",
-     "text": "지난 앨범 이후로 K/DA의 음악과 창작 과정은 어떻게 발전했나요? 이번에는 특별히 다른 방식으로 접근한 부분이 있었나요?"
-    },
-    {
-     "type": "p",
-     "text": "아리: 이브랑 저는 오랫동안 같이 음악을 했는데 매번 스타일이 조금씩 달라졌어요. 이번에는 이브 쪽에서 확실히 주도권을 잡았죠. 구상이 정말 명확해서 곡이 완성되기도 전에 비주얼이랑 프로덕션 디자인 작업이 시작될 정도였어요.\n\n이블린: 뭐, 어쩌겠어요? 전 제 욕망을 잘 알거든요.\n\n아칼리: 항상 그렇지. (웃음)\n\n이블린: 사운드가 머릿속에 선명히 떠올랐어요. 비주얼도 어떻게 가야 할지 바로 깨달았고요. 이번 곡에서는 의상도 나중에 덧붙인 요소가 아니라 서사의 중요한 한 부분으로 준비했어요. 영상을 보면 저희가 각자 입은 복장에서 불꽃 모티프가 보이실 거예요. 물론 부활 그 자체를 연출해서 그 모든 요소에 생동감을 불어넣어 준 변신 장면도 빼놓을 수 없겠네요.\n\n아리: 비주얼을 먼저 결정하고 거기 맞춰서 곡을 만드는 건 흥미로운 도전이었어요. 예전하고는 다른 방식이었지만 그래도 서로를 믿었죠.\n\n아칼리: 네, 다들 희한한 아이디어를 하나씩 내놨어요.\n\n카이사: 그 스케이트보드 장면은 진짜... (웃음)\n\n이블린: 'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)'가 전에 없던 도전이 될 거란 건 처음부터 알았지만, 저는 조금도 걱정하지 않았어요. 저희가 뭘 할 수 있는지 알고 있었으니까요. 최고의 결과가 나오는 건 당연했죠."
-    },
-    {
-     "type": "h",
-     "label": "Q.",
-     "text": "'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)' 뮤직비디오를 촬영하면서 가장 마음에 든 순간은 언제였나요? 특히 기억에 남거나 재미있는 순간이 있었나요?"
-    },
-    {
-     "type": "p",
-     "text": "카이사: 전부 다 좋았다고 하면 반칙이 될까요? 이번에는 뮤비 전체를 원테이크로 찍었는데 다들 정말 힘들었어요. 누가 신호를 놓치거나 0.5초라도 늦게 움직이면 전부 처음부터 다시 찍어야 했으니까요. 촬영하는 내내 완벽히 집중해야 했어요. 살면서 가장 피곤하긴 했는데, 그래도 끝내고 나니까 정말 기뻤죠. 특히 그 장면을 마쳤을 때는 다들 환호했어요.\n\n아칼리: 본인은 절대 자랑 안 하겠지만, 촬영 중에 박자 놓친 적이 없는 건 카이사뿐이었어요. (웃음) 반면에 저는 그 스케이트보드 장면을 몇 번이나 다시 찍었는지 모르겠네요. 솔로 파트를 위험하고 거칠게 연출하고 싶었거든요. 그래도 춤추면서 동선 맞추는 건 뭐 어떻게 하겠는데, 거기다가 보드 위에서 랩까지 하자니 정말 난이도가 차원이 다르더라고요.\n\n카이사: 네 파트에서 전구를 몇 개나 갈았는지 모르겠네. (웃음) 그래도 완성된 장면을 보면 그럴 가치가 있었어요.\n\n아칼리: 물론이지."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/90/d85/202611121021572979.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/be/cd1/202611121022025228.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/88/1f1/202611121022071424.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/23/1c1/202611121022129536.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a0/9ec/202611121022163604.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Q.",
-     "text": "마지막으로 K/DA의 컴백을 기다려 주신 멜론의 팬 여러분께 하시고 싶은 말씀이 있나요?"
-    },
-    {
-     "type": "p",
-     "text": "카이사: 무엇보다도 감사의 말씀 드리고 싶어요. 늘 보내 주시는 열성적인 응원 덕에 정말 많은 힘을 얻고 있습니다. 또 'FIRESTARTER (Feat. Sophie Powers, MIYEON, SOYEON)'가 어떤 식으로 재해석될지도 기대되네요. 댄스 영상 올리실 때 꼭 저를 태그해 주세요!\n\n아칼리: 이번엔 정말 제대로 불태웠습니다. 여러분도 각자의 분야에서 열정에 불을 지피는 계기가 됐으면 좋겠네요.\n\n이블린: 제가 아끼는 BLADES 여러분은 뮤비를 보시면 어떤 메시지를 전하고 싶은지 아실 수 있을 거예요. 공포나 불안처럼 바보 같은 감정에 시간 낭비하지 말고, 앞을 가로막는 게 뭐든 불태워 버리세요.\n\n아리: BLADES 여러분께 정말 감사드려요. 저희도 늘 지켜보고 있었습니다. 오랫동안 컴백 기다려 주신 점 알고 있습니다. 저희 K/DA의 새로운 시대가 마음에 드셨으면 좋겠어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/97/723/202611121023147170.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo",
-     "text": "K/DA 독점 이미지"
-    },
-    {
-     "type": "p",
-     "text": "한국 팬들에게 i-dle (아이들)의 소연 (SOYEON), 미연 (MIYEON)이 참여해서 더욱더 화제를 모은 그룹인 만큼 멜론 독점 이미지도 놓치지 마세요!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/05/17d/202611121024072051.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c7/259/202611121024127233.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/34/aad/202611121024162364.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3a/654/202611121024205410.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17355,
-   "date": "2026.11.12",
-   "title": "'겨울왕국', '주토피아' 제작진이 만든 새로운 마법세계 헥스로 초대합니다!",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17355",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/041/imgUrl20261111025153438.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "'겨울왕국', '주토피아' 제작진이 만든 새로운 마법세계 헥스로 초대합니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b9/8e0/imgUrl20261111090544254.jpg"
-    },
-    {
-     "type": "p",
-     "text": "11월 25일 개봉하는 '헥스: 마녀왕국'은 평범한 일상을 살아가던 마녀 모녀 '빌리'와 엄마 '앨리스'가 예기치 않게 열린 포털을 통해 마법 세계 '헥스'로 향하며 자신들의 비밀에 얽힌 위협을 헤쳐나가는 이야기를 그린 디즈니의 새로운 판타지 애니메이션이다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/98/814/imgUrl20261111090550277.jpg"
-    },
-    {
-     "type": "p",
-     "text": "아름답고 개성 넘치는 '헥스'의 세계관과 스토리를 선보이기 위해 '주토피아', '엔칸토: 마법의 세계', '모아나 2' 등에 참여한 제이슨 핸드 감독과 '주토피아', '겨울왕국 2' 등에 참여한 조시 트리니다드 감독, '겨울왕국', '모아나', '주토피아', '위시' 등에 참여한 폰 비라선손 감독이 힘을 합쳤다. 세 감독의 협업으로 탄생한 이번 작품은 디즈니 애니메이션 특유의 풍부한 상상력과 독창적인 판타지 세계를 선보이며 기대를 모으고 있다."
-    },
-    {
-     "type": "h",
-     "label": "Point #1",
-     "text": "디즈니의 특별한 마녀 탄생! 언빌리버블한 신입 마녀 '빌리'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3b/ef2/imgUrl20261111090555927.jpg"
-    },
-    {
-     "type": "p",
-     "text": "'백설공주'의 사악한 왕비부터 '잠자는 숲속의 공주'의 말레피센트까지, 디즈니 애니메이션 속 마녀들은 주로 주인공을 위협하는 강력한 악역으로 등장해 왔다. 하지만 '헥스: 마녀왕국'은 마녀를 이야기의 중심으로 내세우며 색다른 재미를 예고한다. 그 주인공은 바로 엄마 '앨리스'와 함께 평범한 일상을 살아가던 소녀 '빌리'. 남들과 다른 자신의 모습을 고민하고 학교생활에 적응하지 못하던 '빌리'는 우연한 계기로 자신에게 특별한 마법의 힘이 숨겨져 있다는 사실을 알게 되고, 갑자기 열린 포털을 통해 마녀들의 세계 '헥스'로 빨려 들어가게 된다. 그곳에서 엄마와 자신이 사실 마녀였다는 놀라운 비밀과 함께 거대한 위기를 마주하게 된다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/db/477/imgUrl20261111090600623.jpg"
-    },
-    {
-     "type": "p",
-     "text": "특히 '헥스'에 전해져 내려오던 '평범한 소녀가 비범한 마녀로 거듭나 악으로부터 세계를 구할 것'이라는 오래된 예언의 주인공이 바로 '빌리' 일지도 모른다는 기대와 함께  앞으로 펼쳐질 예측불허의 모험에 궁금증을 더한다. 무엇보다 평범한 소녀가 남들과 다른 모습 속에 숨겨진 특별한 능력을 발견하고, '헥스' 세계는 물론 자신의 운명을 바꿀 짜릿한 모험과 성장 서사를 예고하는 설정은 벌써부터 예비 관객들의 기대를 높인다."
-    },
-    {
-     "type": "h",
-     "label": "Point #2",
-     "text": "'겨울왕국', '모아나', '주토피아' 그리고 '헥스: 마녀왕국'의 연결 고리!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ab/112/imgUrl20261111090606184.jpg"
-    },
-    {
-     "type": "p",
-     "text": "자신의 운명을 마주하고 성장한 '겨울왕국' 시리즈의 '엘사'와 '안나', 드넓은 바다로 용감하게 모험을 떠난 '모아나' 시리즈의 '모아나', 다양한 동물들이 공존하는 도시에서 편견과 한계에 맞서는 '주토피아' 시리즈의 '주디'와 '닉'까지, 디즈니의 11월 흥행작들은 모두 독창적인 세계관과 개성 넘치는 캐릭터, 그리고 누구나 공감할 수 있는 성장 서사로 전 세계 관객들의 마음을 사로잡았다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b8/e5f/imgUrl20261111090613069.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이러한 디즈니 애니메이션의 매력을 이어갈 '헥스: 마녀왕국' 역시 신비로운 마녀들의 세계 '헥스'를 배경으로 색다른 재미가 펼쳐질 것을 예고하고 있다. 자신이 마녀라는 사실을 알게 된 평범한 소녀 '빌리'와 이 사실을 비밀로 해 온 엄마 '앨리스'라는 특별한 모녀 케미부터 '헥스'에서 펼쳐지는 예측불허의 모험, 그리고 그 과정에서 자신의 진정한 힘을 마주하는 서사까지 다채로운 매력으로 관객들을 매료시킬 예정이다."
-    },
-    {
-     "type": "h",
-     "label": "Point #3",
-     "text": "대세 걸그룹 RESCENE (리센느)와 함께한 역대급 뮤직 콜라보!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3d/962/imgUrl20261111090617976.jpg"
-    },
-    {
-     "type": "p",
-     "text": "그동안 다양한 작품에서 음악을 통해 국내 최정상 아티스트들과 스페셜 콜라보를 선보이며 관객들에게 색다른 즐거움과 감동을 선사한 디즈니가 '헥스: 마녀왕국'으로 또 한 번 놀라운 콜라보를 선보인다. 그 주인공은 바로 현재 대한민국에서 가장 뜨거운 사랑을 받고 있는 걸그룹 RESCENE (리센느)! 특히 그동안 멤버 1인과 콜라보를 진행했던 것과 달리 이번에는 RESCENE (리센느) 멤버 5명 전원이 참여한 것은 물론 'With'와 'Magic' 두 곡을 콜라보로 선보인다는 점에서 그 규모와 의미가 뜻깊다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e7/3c4/imgUrl20261111090622478.jpg"
-    },
-    {
-     "type": "p",
-     "text": "먼저 첫 번째 곡 'With'는 최근 컴백한 RESCENE (리센느)의 타이틀곡으로, 'With'가 전하고자 하는 메시지와 영화의 서사가 맞닿아있다는 점에서 콜라보가 성사됐다. 인간 세계에서 평범하게 살아가던 주인공 '빌리'가 신비로운 마법의 힘에 이끌려 새로운 마법세계 '헥스'로 들어가게 되면서 자신도 몰랐던 내면의 힘을 발견하며 진짜 '나'를 알아봐 주는 사람과 세상을 만나는 이야기는 혼자 품었던 꿈이 '너'를 만나 현실이 되고, 함께 깨어난 박동이 무대를 넘어 각자의 일상까지 연결되는 순간을 담은 곡 'With'가 전하는 메시지와 연결된다. RESCENE (리센느)를 알아봐 준 '리마인'이 있었던 것처럼, '빌리'가 진짜 자신의 모습을 만나게 해 준 마법세계 헥스에서 엄마 '앨리스'와 서로를 이해하며 앞으로 나아가는 과정은 특별한 존재와의 만남을 통해 내면의 변화가 시작되고, 함께할 때 비로소 온전해지는 관계를 통해 진짜 '나'를 찾게 된다는 메시지로 깊은 감동을 전할 예정이다. 특히 'With'는 '헥스: 마녀왕국'의 엔딩 크레딧에 정식 삽입될 예정으로 예비 관객들의 기대를 고조시키고 있다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/df/281/imgUrl20261111090628554.jpg"
-    },
-    {
-     "type": "p",
-     "text": "두 번째 콜라보 곡은 '헥스: 마녀왕국'의 OST 'Magic'이다. '빌리'의 목소리 연기를 맡은 배우 Hailee Steinfeld가 직접 가창하기도 한 'Magic'은 두 사람의 만남을 마법 같은 순간으로 해석한 곡으로, 새로운 마법세계 '헥스'를 만난 '빌리'의 마음을 은유적으로 담아낸 곡이다. RESCENE (리센느)가 부른 'Magic' 커버곡은 '헥스: 마녀왕국' 개봉일인 11월 25일 발매될 예정이다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/db/3f0/imgUrl20261111090636291.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "Synopsis"
-    },
-    {
-     "type": "p",
-     "text": "'내가 마녀라고...?'\n\n엄마에게도, 학교에서도\n남들과 조금 다른 특별한(?) 아이로 불리는 소녀 '빌리'는\n어느 날, 우연히 마법 제어 팔찌가 풀리면서\n자신도 몰랐던 마법의 힘을 깨우게 되고\n지금껏 본 적 없는 마녀들의 세계 '헥스'로 향하게 된다.\n\n무엇이든 할 수 있고, 될 수 있는 세계 '헥스'에 빠져든 '빌리'.\n하지만 자신의 정체를 둘러싼 예언과 엄마의 비밀을 알게 되고,\n막강한 마법을 지닌 세력까지 '빌리' 모녀를 위협하기 시작하는데...\n\n과연 '빌리'는 자신에게 주어진 특별한 운명을 받아들이고\n위기에 빠진 '헥스'와 엄마를 구할 수 있을까!\n\n'겨울왕국', '주토피아' 제작진이 선사하는\n디즈니 판타지의 신세계가 열린다!"
-    },
-    {
-     "type": "h",
-     "label": "OST",
-     "text": "RESCENE (리센느) 'With'"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/150/82/293/15082293_20261026170443.jpg"
-    },
-    {
-     "type": "h",
-     "label": "OST",
-     "text": "Hailee Steinfeld 'Magic (From 'Hexed')'"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/150/67/636/15067636_20261022025419.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "'헥스: 마녀왕국' & RESCENE (리센느) 'With' MV 미리보기"
-    },
-    {
-     "type": "h",
-     "label": "Main Trailer",
-     "text": "'헥스: 마녀왕국' 메인 예고편"
-    }
-   ]
-  },
-  {
-   "seq": 17373,
-   "date": "2026.11.11",
-   "title": "규현 (KYUHYUN)이 지나온 시간들과 새로운 이야기의 시작, [CONTINUE]",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17373",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/60/2dd/imgUrl20261110024023944.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "규현 (KYUHYUN)이 지나온 시간들과 새로운 이야기의 시작, [CONTINUE]"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c0/88d/imgUrl20261109013241544.jpg"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분!\n\n규현 (KYUHYUN)이 새로운 EP [CONTINUE]로 돌아왔습니다.\n\n이번 EP [CONTINUE]는 타이틀곡 '약속'과 함께 규현 (KYUHYUN)의 목소리로 듣는 팝 록, 시티팝 등 다양한 장르의 5곡이 담겨있는데요.\n\n변함없이 좋은 음악을 들려주겠다는 의지를 담은 규현 (KYUHYUN)의 [CONTINUE] 자켓 촬영 현장 비하인드 현장을 멜론 매거진에서 공개합니다!"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "규현 (KYUHUYN) EP [CONTINUE]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/50/716/15150716_20261111114659.jpg"
-    },
-    {
-     "type": "p",
-     "text": "규현 (KYUHYUN)의 새로운 EP [CONTINUE]는 지금까지 꾸준히 이어온 자신만의 음악 세계를 바탕으로, 앞으로도 변함없이 좋은 음악을 들려주겠다는 의지를 담은 앨범이다. 규현 (KYUHYUN)이 걸어온 음악적 여정의 연장이자 또 다른 이야기의 시작을 알리는 이번 앨범은 그의 트레이드마크인 감성 발라드는 물론, 팝 록과 시티팝까지 장르적 스펙트럼을 넓히며 한층 풍성해진 음악 세계를 선보인다.\n\n오랜 시간 자신만의 음악적 색깔을 지켜오면서도 새로운 시도를 이어온 규현 (KYUHYUN)은 이번 앨범 역시 다채로운 매력의 다섯 곡을 담았다. 소중한 사람을 향한 진심을 섬세하게 전하는 감성 발라드 '약속', 극적인 서사가 돋보이는 발라드 '끝나지 않는 계절'을 비롯해 호소력 짙은 보컬이 인상적인 팝 록 장르의 'FILAMENT', 리드미컬한 빈티지 시티팝 '괜찮은 줄 알았는데', 희망의 메시지를 담은 미디엄 템포 곡 '돛단배'까지 총 다섯 곡을 수록했다.\n\n서로 다른 계절과 온도를 지닌 다섯 곡은 사랑과 이별, 그리움과 위로, 그리고 다시 나아가는 용기까지 하나의 긴 여정으로 이어진다. 규현 (KYUHYUN)은 폭넓은 감성과 다채로운 장르를 자신만의 목소리로 아우르며 앨범 전체를 이끌어 나간다. 오랜 시간 자신만의 음악을 이어오며 쌓아온 음악적 깊이에 새로운 시도를 더한 규현 (KYUHYUN)은 이번 [CONTINUE]를 통해 앞으로도 계속될 자신의 음악 이야기를 써 내려간다."
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "규현 (KYUHYUN) EP [CONTINUE] 자켓 촬영 현장"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/092/imgUrl20261109013251364.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a9/1bb/imgUrl20261109013255328.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/54/cf8/imgUrl20261109013259411.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9b/015/imgUrl20261109013304150.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/40/eb9/imgUrl20261109013308341.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/32/2fc/imgUrl20261109013312795.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5c/541/imgUrl20261109013316881.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/22/faa/imgUrl20261109013320871.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/cc/80b/imgUrl20261109013325040.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ed/f1b/imgUrl20261109013328758.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/58/a12/imgUrl20261109013332996.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1e/35b/imgUrl20261109013338641.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e4/567/imgUrl20261109013342415.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6b/0d6/imgUrl20261109013347333.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7f/2ff/imgUrl20261109013352112.jpg"
-    },
-    {
-     "type": "p",
-     "text": "규현 (KYUHYUN) EP [CONTINUE]와 타이틀곡 '약속'은 지금 바로 멜론에서 감상하실 수 있습니다!\n\n많은 사랑 부탁드립니다💚"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "규현 (KYUHYUN) '약속'"
-    },
-    {
-     "type": "h",
-     "label": "From 규현 (KYUHYUN)",
-     "text": "To Melon"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a0/1e4/imgUrl20261109013437611.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17370,
-   "date": "2026.11.11",
-   "title": "다정한 마음을 담아, 도경수(D.O.) 'Darling' 자켓 촬영 현장",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17370",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/524/imgUrl20261110102130637.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "도경수(D.O.) 'Darling' 자켓 촬영 현장 비하인드"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요 멜론 가족 여러분!\n도경수(D.O.)가 싱글 'Darling'으로 돌아왔습니다.\n사랑하는 존재를 그저 바라보는 것만으로도 행복하고, 그 사람의 모든 순간이 행복하기를 바라는 마음. 도경수(D.O.)의 신곡 'Darling'은 이러한 순수한 사랑의 감정을 담아낸 발라드곡입니다.\n사랑하는 사람을 향한 마음을 나지막이 전하는 도경수(D.O.)의 새로운 이야기. 'Darling'의 따뜻한 감성이 담긴 자켓 촬영 현장으로 함께 떠나볼까요?"
-    },
-    {
-     "type": "h",
-     "label": "Single",
-     "text": "도경수(D.O.) 'Darling'"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/43/073/15143073_20261109173434.jpg"
-    },
-    {
-     "type": "p",
-     "text": "'사랑하는 이의 모든 순간이 행복하기를'\n\n잔잔한 피아노 선율 위에 담담하게 시작되는 도경수(D.O.)의 보컬은 곡이 흐를수록 하나둘 더해지는 악기들과 함께 감정을 차분히 쌓아 올립니다.\n특히 도경수(D.O.)가 팬들에게 전하는 따뜻한 응원의 메시지이기도 한 이 곡은 사랑하는 이가 더 많은 사랑과 행복을 누리기 바라는 순수한 마음을 섬세하게 그려냅니다."
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo",
-     "text": "도경수(D.O.) 'Darling' 자켓 촬영 비하인드"
-    },
-    {
-     "type": "p",
-     "text": "사랑하는 사람을 향한 따뜻하고 다정한 마음, 그리고 도경수(D.O.)의 섬세한 감성이 고스란히 담긴 'Darling' 자켓 촬영 현장을 멜론 독점 포토로 지금 공개합니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/46/9f3/imgUrl20261106035638344.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/2b/840/imgUrl20261106035644613.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5d/c20/imgUrl20261106035649184.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6d/31b/imgUrl20261106035653495.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/25/716/imgUrl20261106035658558.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7a/d31/imgUrl20261106035702706.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official Photo",
-     "text": "도경수(D.O.) 'Darling'"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#CONCEPT PHOTO 1"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f8/99c/imgUrl20261106035720013.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/23/2d7/imgUrl20261106035724955.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f2/397/imgUrl20261106035729784.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/dc/6e0/imgUrl20261106035734515.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/34/015/imgUrl20261106035739045.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d6/b6b/imgUrl20261106035743745.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "#CONCEPT PHOTO 2"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/8f/046/imgUrl20261106035754045.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/94/470/imgUrl20261106035759167.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b9/ef7/imgUrl20261106035803816.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/16/950/imgUrl20261106035808697.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/48/a8d/imgUrl20261106035813435.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d4/549/imgUrl20261106035817338.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "도경수(D.O.) 'Darling'"
-    },
-    {
-     "type": "h",
-     "label": "From 도경수(D.O.)",
-     "text": "To Melon"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ec/21a/imgUrl20261106051506621.jpg"
     }
    ]
   }
