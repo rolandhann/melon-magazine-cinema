@@ -1,105 +1,7 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-21 03:04",
+ "fetchedAt": "2026-11-22 02:01",
  "articles": [
-  {
-   "seq": 17396,
-   "date": "2026.11.20",
-   "title": "한 눈에 보는 11월 셋째 주 빌보드 소식",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17396",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/15/002/imgUrl20261118041249621.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "금주의 빌보드 소식",
-     "text": "2026년 11월 셋째 주"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/76/f3f/imgUrl20261118041305571.jpg"
-    },
-    {
-     "type": "p",
-     "text": "빌보드 소식을 한 큐에 알아보는 시간!\n\n이번 주 빌보드를 뜨겁게 달군 핫 이슈들,\n그리고 전 세계인들이 주목하는\n빌보드 메인 차트 순위까지\n\n한 주간 주목할 만한 빌보드 소식들을\n짧고 굵게 정리해 드립니다.\n본문을 읽으며 추가해 둔 관련 음악들도\n함께 감상해 보세요!"
-    },
-    {
-     "type": "h",
-     "label": "3 HOT ISSUES",
-     "text": "한 주간 어떤 이슈가 있었을까?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- 흔들림 없는 28주 1위, 캐럴 차트 개막"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d5/49a/imgUrl20261118041321226.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번 주에도 Ella Langley의\n'Choosin' Texas'가 1위를 지키며\n통산 28주째 정상을 이어갔습니다.\n장기간 이어지는 흥행 속에서도\n여전히 선두 자리를 내주지 않고 있네요.\n\n상위권에서는 STELLA LEFTY의\n'Boston'이 5위에서 2위로\n세 계단을 뛰어올랐고,\nOlivia Rodrigo의 'stupid song'도\n10위에서 5위로 도약했습니다.\n지난 7월 이후 오랜만에 TOP 5에 복귀하며\n상위권 경쟁에 합류했네요.\n\n이 밖에도 Koe Wetzel, Ella Langley의\n'Jaded'는 11위에 안착했으며,\nAshe의 'Stop The Wedding!'은\n예능 프로그램에서 라이브 퍼포먼스를 공개한\n영향으로 30위에서 12위까지\n무려 18계단이나 치솟았습니다.\n\n한편 크리스마스 시즌을 알리는\n대표적인 캐럴들도\n본격적으로 모습을 드러내기 시작했는데요.\nWHAM!의 'Last Christmas'는\n14위로 순위를 끌어올렸으며,\nMariah Carey의\n'All I Want for Christmas Is You'\n역시 18위로 올라섰습니다.\n여기에 대표적인 홀리데이 클래식인\nBobby Helms의 'Jingle Bell Rock'과\nBrenda Lee의\n'Rockin' Around The Christmas Tree'까지\n차트에 재진입하며 계절감을 더했습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Lil Baby와 P1Harmony TOP 4 데뷔"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/21/50e/imgUrl20261118041340618.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Olivia Rodrigo의\n[you seem pretty sad for a girl so in love]가\n통산 5주째 1위를 차지하며\n빌보드 200을 이끌고 있습니다.\n특히 이번 성과로 빌보드 200에서\n1위를 차지한 그녀의 세 앨범 중\n[SOUR]와 최다 1위 주수\n동률을 이루게 됐는데요.\n올해 발매된 앨범 가운데서도\n가장 오랫동안 1위를 차지한\n작품으로 자리매김했습니다.\n\n신작 중에서는 Lil Baby의\n[FRESH]가 2위로 데뷔했습니다.\n이번 작품은 그의 다섯 번째 정규 앨범으로,\n실력파 래퍼들과 유명 프로듀서들이\n제작에 힘을 보탰는데요.\n선공개 싱글 'Dead Fresh'를 포함해\n수록된 9곡이 HOT 100에 진입하며\n앨범의 흥행을 뒷받침했습니다.\n\nP1Harmony는 [BLOW UP]으로\n4위에 데뷔했습니다.\n이번 앨범은 영웅으로 돌아온 멤버들이\n마지막 임무를 수행하는 이야기를 담아\n그동안 이어온 히어로 서사를\n마무리하는 작품인데요.\n세 작품 연속 TOP 10 진입에 성공했으며,\n전작 [UNIQUE]와 동일한 순위로\n그룹 자체 최고 성적을 다시 한번\n나란히 기록했습니다.\n\n아울러 록 밴드 Kings Of Leon은\n열 번째 정규 앨범 [O My Beloved]로\n19위에 데뷔했습니다.\n특히 이번 작품은 밴드가 처음으로\n앨범 전체를 직접 프로듀싱한 작품으로,\n가족과 감사, 음악 여정을 돌아보는\n개인적인 이야기를 담았다고 하네요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- 이번 주 주목할 만한 아티스트는?"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/70/e13/imgUrl20261118041359034.jpg"
-    },
-    {
-     "type": "p",
-     "text": "아티스트 차트에서는 Morgan Wallen이\n부동의 1위를 유지하며\n통산 45주째 정상에 머물렀습니다.\n2027년에는 이러한 인기에 힘입어\n대형 스타디움 투어도 예정되어 있다고 하네요.\n\n앨범과 싱글 차트에서 활약한\nOlivia Rodrigo는 2위로\n두 계단 상승하며 상위권에 안착했으며,\n신작으로 산뜻한 출발을 알린 Lil Baby\n역시 40위에서 4위로\n큰 폭의 순위 상승을 기록했습니다.\n\nNoah Kahan은 13위에서 8위로 올라서며\n다시 한번 TOP 10에 진입했으며,\n빌보드 200에서 좋은 성적을 거둔\nP1Harmony는 11위로\n이번 주 아티스트 차트에 다시 등장했습니다."
-    },
-    {
-     "type": "h",
-     "label": "빌보드 메인 차트 순위",
-     "text": "전 세계를 뒤흔든 곡, 앨범, 아티스트?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- HOT 100 차트 (싱글 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e8/3e4/imgUrl20261118041413436.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Billboard 200 차트 (앨범 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/19/24d/imgUrl20261118041418951.jpg"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "- Artist 100 차트 (아티스트 차트)"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/83/d99/imgUrl20261118041424874.jpg"
-    }
-   ]
-  },
   {
    "seq": 17395,
    "date": "2026.11.20",
@@ -1727,6 +1629,229 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "예전이나 지금이나 무엇이 나에게 맞는지를 확인할 수 있는 가장 좋은 방법은 대상을 내 몸으로 직접 확인하는 것입니다. 오는 11월 17일 화요일부터 29일 일요일까지, 서울 한남동 페즈(FEZH)에서 진행되는 전시 '버브 레이블 70주년, 재즈의 과거와 현재를 듣다'는 버브 레코드는 물론 재즈를 사랑하는 분들 모두를 만족시킬 수 있는 다채로운 프로그램을 준비했습니다.\n\n기본적으로 이번 전시는 버브의 70년 역사를 귀로 살필 수 있는 '듣는 전시'를 지향합니다. 리스닝 존에서는 버브의 대표 앨범을 고음질 오디오로 감상할 수 있고, 테마별로 정리된 큐레이션 플레이리스트는 상시 운영된다고 하네요. 이뿐만이 아니라 오프닝이 있는 17일과 주말에는 촘촘하게 준비된 프로그램이 이어집니다. MMJazz 김희준 편집장, 월간 재즈피플 김광현 편집장, 류희성 기자, 음악 평론가이자 작가 배순탁, 레코드 매거진 한승희 에디터가 참여하는 '큐레이터 토크&리스닝 세션'과 피아니스트 송영주, 보컬리스트 웅산이 함께하는 '아티스트 토크&사인회'가 열릴 예정입니다. 이번 전시를 위해 준비된 굿즈도 놓칠 수 없겠습니다. 버브 70주년을 기념하는 한정 바이닐과 대표 LP, 의류와 액세서리. 버브의 음악을 오랫동안 좋아해온 분들이라면 그 사랑을 집 한편에 장식해두셔도 좋겠습니다."
+    }
+   ]
+  },
+  {
+   "seq": 17375,
+   "date": "2026.11.17",
+   "title": "올해의 노래를 남기러, 온라인 절 '산사'에 다녀왔습니다.",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17375",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fb/b57/imgUrl20261113014842598.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "올해의 노래를 남기러, 온라인 절 '산사'에 다녀왔습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Intro. 소원인 줄 알고 읽었는데… 노래 제목?"
+    },
+    {
+     "type": "p",
+     "text": "연등 아래 달린 종이를 펼쳐보니 노래 제목이 적혀 있습니다.🤔 마당에 놓인 기와에도, 누군가가 기억하고 싶은 곡과 그 이유가 한 줄씩 남아 있고요.📝\n\n이곳은 멜론이 '2026 마이레코드' 오픈을 기념해 온라인 절 '산사'와 함께 마련한 〈성찰의 뜰〉입니다. 멜론에서 한 해 동안 들은 음악으로 '올해의 나'를 돌아봤다면, 산사에서는 기억에 남는 한 곡을 직접 골라 그때의 이야기를 남길 수 있어요. 어떤 노래들이 이곳에 모이고 있을까요?👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d0/483/imgUrl20261111041326727.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b3/9eb/imgUrl20261111041345099.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/10/868/imgUrl20261111043049439.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Story 1",
+     "text": "가장 많이 들은 곡이 올해의 한 곡일까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/eb/902/imgUrl20261113014149048.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해 처음 들은 곡, 아직 기억나시나요? 멜론 '2026 마이레코드'에서는 첫 곡부터 총 감상 시간, 가장 많이 들은 곡과 아티스트까지 한 해의 감상 기록을 카드로 확인할 수 있어요.\n\n올해는 계절마다 가장 많이 들은 '제철 곡'도 만나볼 수 있습니다. 새로 추가된 '마이클립'에서는 화면을 지나가는 감상 기록 중 하나를 골라, 내 기록에 문구와 일러스트가 더해진 카드를 저장하거나 공유할 수 있고요. 내 기록을 넘어, 멜론 이용자들이 함께 들으며 만들어낸 올해의 음악 이야기도 처음으로 담았습니다.\n\n그런데 가장 많이 들은 곡과 가장 기억에 남는 곡은 같을까요? 몇 번 듣지 않았어도 첫 소절만으로 그날이 떠오르는 노래가 있잖아요. 멜론에서 내가 들은 음악을 돌아봤다면, 산사에서는 마음에 남은 한 곡을 직접 골라 그 순간을 한 줄로 남겨보세요."
+    },
+    {
+     "type": "h",
+     "label": "Story 2",
+     "text": "한 곡을 적고, 기와를 놓거나 연등을 달아요"
+    },
+    {
+     "type": "p",
+     "text": "〈성찰의 뜰〉에 들어서면 올해의 한 곡을 남길 수 있습니다. 곡명과 아티스트명, 그리고 그 노래를 들었을 때 떠오르는 순간을 한 줄로✍️ 적어보세요. '좋아하는 밴드의 새로운 매력을 발견한 날'처럼, 그 곡을 다시 들었을 때 기억하고 싶은 장면이면 충분합니다.🎸\n\n방법은 간단합니다. 기와에 새겨 마당에 직접 놓거나, 마음에 드는 색의 연등을 골라 줄에 달면 됩니다. 그러면 내 노래도 〈성찰의 뜰〉에 한 자리를 차지하게 됩니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/9e/84a/imgUrl20261111041406604.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/78/d34/imgUrl20261113112732847.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0c/91e/imgUrl20261113112745665.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a7/4be/imgUrl20261113112831179.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/91/80d/imgUrl20261113112839952.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fa/4c8/imgUrl20261113112902736.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0b/16c/imgUrl20261113112912266.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Story 3",
+     "text": "다른 사람은 어떤 곡을 남겼을까?"
+    },
+    {
+     "type": "p",
+     "text": "내 노래를 두고 나면, 다른 사람은 어떤 곡을 골랐는지도 궁금해집니다.👀 마당에 놓인 기와나 줄에 달린 연등을 눌러보세요. 기와에 새긴 글과 연등 아래 달린 종이에서 각자의 노래와 한 줄 이야기를 읽을 수 있어요.\n\n같은 노래를 두고도 떠올리는 순간은 저마다 다르죠. 반가운 곡을 만나면 '이 사람도 올해 이 노래를 들었구나' 싶고, 처음 보는 곡이라면 어떤 노래인지 찾아보고 싶어집니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/55/1ea/imgUrl20261113112956741.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/01/db8/imgUrl20261113113002928.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Bonus",
+     "text": "마음 비우러 갔다가 두둠칫하고 옴"
+    },
+    {
+     "type": "p",
+     "text": "뜰을 둘러봤다면 '멜론 속세존'에도 잠깐 들러보세요. 헤드셋을 쓰고 음악을 듣다가 '춤추기'를 누르면 아바타가 박자에 맞춰 움직입니다.💃🕺 노래 한 곡 두고 가려다가, 한 박자 더 타고 가게 될지도요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e8/095/imgUrl20261111041753398.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d0/150/imgUrl20261113020551125.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Interview",
+     "text": "'산사'를 만든 박진원님에게 물었습니다"
+    },
+    {
+     "type": "p",
+     "text": "노래 한 곡을 적는 일은 간단하지만, 그 기록을 직접 기와로 놓고 연등으로 다는 경험은 조금 다르게 남습니다. 이 공간을 만든 박진원님에게 '산사'의 시작부터 〈성찰의 뜰〉에 담은 생각까지 물었습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d8/383/imgUrl20261111041947961.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/7a/ecd/imgUrl20261111041910468.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/99/49b/imgUrl20261111041915784.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ff/2f5/imgUrl20261111041920685.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d6/a2c/imgUrl20261111041929122.jpg"
+    },
+    {
+     "type": "p",
+     "text": "안녕하세요. '산사'를 기획한 26살 박진원입니다. 저는 '산사' 외에도 유용하면서도 재밌는 콘텐츠를 만드는 기획자입니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "사람들이 '산사'에서 시간을 보내는 모습을 보고, '이렇게 즐기실 줄은 몰랐다' 싶었던 순간이 있었나요?"
+    },
+    {
+     "type": "p",
+     "text": "처음에는 절만 하는 공간으로 만들었어요. 근데 그러면 너무 심심할 것 같아서 속세존이라는 걸 만들었죠. 그랬더니 거기서 노래 듣고 춤추는 분위기가 형성되는 게 인상 깊었어요. 다양한 지형지물을 활용해 밈처럼 즐기는 모습도 예상치 못했는데 재밌었고요. 퀄리티 높게 지형지물을 만드는 것보다, 이렇게 약간 엉성하게 만들어서 그걸 웃고 즐기는 모습이 더 좋은 사례가 될 수 있다는 걸 깨달았습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "멜론에서 '올해의 노래를 '산사'에 남겨보자'는 제안을 받았을 때, 가장 먼저 어떤 장면이 떠올랐나요?"
+    },
+    {
+     "type": "p",
+     "text": "가장 먼저 기와, 연등 같은 것들이 떠올랐어요. 올해의 노래라는 것이 결국 성찰과 나를 되돌아보는 의미가 있는데, 기와나 연등에 그런 의미를 적으면 좋은 경험이 될 수 있겠다 싶었습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "말없이 함께 머물던 '산사'에 이제 다른 사람의 이야기를 읽는 공간이 생겼어요. 〈성찰의 뜰〉을 만들면서도 '산사'답게 지키고 싶었던 건 뭐였나요?"
+    },
+    {
+     "type": "p",
+     "text": "여전히 '산사'에는 채팅이나 시끄러운 분위기는 지양하려고 합니다. 다만 좋은 의도로 서로 이야기를 나누는 〈성찰의 뜰〉은 '산사'의 평화로운 분위기와 잘 맞을 거라 생각했습니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "기록을 적고 저장하는 데서 끝낼 수도 있었을 텐데요. 직접 기와를 놓거나 연등을 다는 동작까지 넣은 이유가 궁금해요."
+    },
+    {
+     "type": "p",
+     "text": "가상의 공간이지만 직접 해보는 그 몇 초의 동작으로도 자신을 되돌아보는 시간이 생길거라 생각했습니다. 직접 기와를 놓거나 연등을 달면서 그 노래에 대해서 그리고 본인의 한 해에 대해서 생각해보시길 바랍니다."
+    },
+    {
+     "type": "h",
+     "label": "Q.",
+     "text": "'산사'를 만들던 올해의 어느 하루에 배경음악을 붙인다면, 어떤 날에 어떤 곡을 고르시겠어요?"
+    },
+    {
+     "type": "p",
+     "text": "처음 바이럴이 되었던 날을 고르고 싶습니다. 노래는 혁오 (HYUKOH)의 '공드리'를 고르고 싶어요.\n뭔가 애매하고 두근거리는 그런 감정을 잘 담은 노래라서 당시 제가 느끼던 감정과 잘 어울린다고 생각했고, 지나간 과거와 앞으로 다가올 햇빛에 대한 내용이라 연말 성찰이라는 키워드와도 잘 어울리는 노래입니다!"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "Outro. 여러분의 올해는 어떤 노래였나요?"
+    },
+    {
+     "type": "p",
+     "text": "올해를 떠올렸을 때 가장 먼저 생각나는 노래가 있다면, 그 곡과 함께한 순간을 〈성찰의 뜰〉에 남겨보세요. 올해 내가 실제로 어떤 음악을 많이 들었는지 궁금하다면, 멜론 마이레코드에서 감상 기록을 확인할 수 있습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ce/d93/imgUrl20261111042602897.jpg"
+    },
+    {
+     "type": "p",
+     "text": "〈성찰의 뜰〉은 12월 1일(화)까지 운영됩니다. 올해의 한 곡도 두고, 다른 사람의 노래도 슬쩍 구경해 보세요. 돌아가기 전, 속세존에서 헤드셋 쓰고 춤도 살짝! 🎧 산사에서 가볍게 즐기고 가세요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "음악으로 돌아보는 나의 1년, 2026 마이레코드"
+    },
+    {
+     "type": "p",
+     "text": "기억에 남은 한 곡을 골랐다면, 이번엔 내가 실제로 어떤 음악을 들으며 한 해를 보냈는지 멜론에서 만나보세요. 2026 마이레코드는 모바일에서 확인 가능합니다."
     }
    ]
   }
