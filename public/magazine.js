@@ -1,7 +1,105 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-22 02:01",
+ "fetchedAt": "2026-11-23 02:27",
  "articles": [
+  {
+   "seq": 17396,
+   "date": "2026.11.20",
+   "title": "한 눈에 보는 11월 셋째 주 빌보드 소식",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17396",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/15/002/imgUrl20261118041249621.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "금주의 빌보드 소식",
+     "text": "2026년 11월 셋째 주"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/76/f3f/imgUrl20261118041305571.jpg"
+    },
+    {
+     "type": "p",
+     "text": "빌보드 소식을 한 큐에 알아보는 시간!\n\n이번 주 빌보드를 뜨겁게 달군 핫 이슈들,\n그리고 전 세계인들이 주목하는\n빌보드 메인 차트 순위까지\n\n한 주간 주목할 만한 빌보드 소식들을\n짧고 굵게 정리해 드립니다.\n본문을 읽으며 추가해 둔 관련 음악들도\n함께 감상해 보세요!"
+    },
+    {
+     "type": "h",
+     "label": "3 HOT ISSUES",
+     "text": "한 주간 어떤 이슈가 있었을까?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- 흔들림 없는 28주 1위, 캐럴 차트 개막"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d5/49a/imgUrl20261118041321226.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 주에도 Ella Langley의\n'Choosin' Texas'가 1위를 지키며\n통산 28주째 정상을 이어갔습니다.\n장기간 이어지는 흥행 속에서도\n여전히 선두 자리를 내주지 않고 있네요.\n\n상위권에서는 STELLA LEFTY의\n'Boston'이 5위에서 2위로\n세 계단을 뛰어올랐고,\nOlivia Rodrigo의 'stupid song'도\n10위에서 5위로 도약했습니다.\n지난 7월 이후 오랜만에 TOP 5에 복귀하며\n상위권 경쟁에 합류했네요.\n\n이 밖에도 Koe Wetzel, Ella Langley의\n'Jaded'는 11위에 안착했으며,\nAshe의 'Stop The Wedding!'은\n예능 프로그램에서 라이브 퍼포먼스를 공개한\n영향으로 30위에서 12위까지\n무려 18계단이나 치솟았습니다.\n\n한편 크리스마스 시즌을 알리는\n대표적인 캐럴들도\n본격적으로 모습을 드러내기 시작했는데요.\nWHAM!의 'Last Christmas'는\n14위로 순위를 끌어올렸으며,\nMariah Carey의\n'All I Want for Christmas Is You'\n역시 18위로 올라섰습니다.\n여기에 대표적인 홀리데이 클래식인\nBobby Helms의 'Jingle Bell Rock'과\nBrenda Lee의\n'Rockin' Around The Christmas Tree'까지\n차트에 재진입하며 계절감을 더했습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- Lil Baby와 P1Harmony TOP 4 데뷔"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/21/50e/imgUrl20261118041340618.jpg"
+    },
+    {
+     "type": "p",
+     "text": "Olivia Rodrigo의\n[you seem pretty sad for a girl so in love]가\n통산 5주째 1위를 차지하며\n빌보드 200을 이끌고 있습니다.\n특히 이번 성과로 빌보드 200에서\n1위를 차지한 그녀의 세 앨범 중\n[SOUR]와 최다 1위 주수\n동률을 이루게 됐는데요.\n올해 발매된 앨범 가운데서도\n가장 오랫동안 1위를 차지한\n작품으로 자리매김했습니다.\n\n신작 중에서는 Lil Baby의\n[FRESH]가 2위로 데뷔했습니다.\n이번 작품은 그의 다섯 번째 정규 앨범으로,\n실력파 래퍼들과 유명 프로듀서들이\n제작에 힘을 보탰는데요.\n선공개 싱글 'Dead Fresh'를 포함해\n수록된 9곡이 HOT 100에 진입하며\n앨범의 흥행을 뒷받침했습니다.\n\nP1Harmony는 [BLOW UP]으로\n4위에 데뷔했습니다.\n이번 앨범은 영웅으로 돌아온 멤버들이\n마지막 임무를 수행하는 이야기를 담아\n그동안 이어온 히어로 서사를\n마무리하는 작품인데요.\n세 작품 연속 TOP 10 진입에 성공했으며,\n전작 [UNIQUE]와 동일한 순위로\n그룹 자체 최고 성적을 다시 한번\n나란히 기록했습니다.\n\n아울러 록 밴드 Kings Of Leon은\n열 번째 정규 앨범 [O My Beloved]로\n19위에 데뷔했습니다.\n특히 이번 작품은 밴드가 처음으로\n앨범 전체를 직접 프로듀싱한 작품으로,\n가족과 감사, 음악 여정을 돌아보는\n개인적인 이야기를 담았다고 하네요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- 이번 주 주목할 만한 아티스트는?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/70/e13/imgUrl20261118041359034.jpg"
+    },
+    {
+     "type": "p",
+     "text": "아티스트 차트에서는 Morgan Wallen이\n부동의 1위를 유지하며\n통산 45주째 정상에 머물렀습니다.\n2027년에는 이러한 인기에 힘입어\n대형 스타디움 투어도 예정되어 있다고 하네요.\n\n앨범과 싱글 차트에서 활약한\nOlivia Rodrigo는 2위로\n두 계단 상승하며 상위권에 안착했으며,\n신작으로 산뜻한 출발을 알린 Lil Baby\n역시 40위에서 4위로\n큰 폭의 순위 상승을 기록했습니다.\n\nNoah Kahan은 13위에서 8위로 올라서며\n다시 한번 TOP 10에 진입했으며,\n빌보드 200에서 좋은 성적을 거둔\nP1Harmony는 11위로\n이번 주 아티스트 차트에 다시 등장했습니다."
+    },
+    {
+     "type": "h",
+     "label": "빌보드 메인 차트 순위",
+     "text": "전 세계를 뒤흔든 곡, 앨범, 아티스트?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- HOT 100 차트 (싱글 차트)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e8/3e4/imgUrl20261118041413436.jpg"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- Billboard 200 차트 (앨범 차트)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/19/24d/imgUrl20261118041418951.jpg"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "- Artist 100 차트 (아티스트 차트)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/83/d99/imgUrl20261118041424874.jpg"
+    }
+   ]
+  },
   {
    "seq": 17395,
    "date": "2026.11.20",
@@ -327,7 +425,7 @@ export const MAGAZINE = {
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/07/a1c/202611171722161938.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/de/b42/imgUrl20261123095026303.jpg"
     },
     {
      "type": "img",
@@ -375,7 +473,7 @@ export const MAGAZINE = {
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/22/8e4/202611171723474169.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f2/e48/imgUrl20261123095106874.jpg"
     },
     {
      "type": "img",
@@ -584,101 +682,6 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "MMA2026의 마지막 순간까지 함께해 주셨는데요! 이틀 동안 이어진 축제는 수많은 명장면과 함께 오래도록 기억에 남을 것 같습니다. 아티스트와 팬들이 함께 완성한 특별한 순간들, 여러분의 마음속에는 어떤 장면이 가장 오래 남았나요? 뜨거웠던 MMA2026의 여운을 간직하며, 우리는 다음 MMA에서 다시 만나요🎵"
-    }
-   ]
-  },
-  {
-   "seq": 17384,
-   "date": "2026.11.20",
-   "title": "[ICONIC]과 함께 독보적인 카리스마와 강력한 에너지로 돌아온 CL",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17384",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/30/92e/imgUrl20261119103233977.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "[ICONIC]과 함께 독보적인 카리스마와 강력한 에너지로 돌아온 CL"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ff/292/imgUrl20261113043459402.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fc/8c1/imgUrl20261113043507539.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Single",
-     "text": "CL Digital Single [ICONIC]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/375/15182375_20261119151337.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2021년 발매한 첫 번째 정규 앨범 [ALPHA]에 이어 5년 만에 선보이는 [ICONIC]은 자신만의 길을 걸어온 CL의 흔들림 없는 자신감과 한층 대담해진 음악적 색채를 담았다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e3/2af/imgUrl20261113043525480.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3f/dd7/imgUrl20261113043531627.jpg"
-    },
-    {
-     "type": "p",
-     "text": "무게감 있는 사운드의 'SAY IT TO MY FACE'와 거침없는 속도감으로 존재를 각인시키는 타이틀곡 'ICONIC'. 두 곡을 관통하는 과감한 태도와 단단한 확신은 CL의 정체성을 더욱 선명하게 드러낸다."
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "CL 'ICONIC'"
-    },
-    {
-     "type": "h",
-     "label": "Exclusive Photo",
-     "text": "CL 'ICONIC' 뮤직비디오 비하인드 포토"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3d/47f/imgUrl20261113043558037.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b2/1ff/imgUrl20261113043604451.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/81/b0e/imgUrl20261113043609942.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/da/50a/imgUrl20261113043615424.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/32/6d7/imgUrl20261113043621883.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/79/634/imgUrl20261113043628086.jpg"
-    },
-    {
-     "type": "h",
-     "label": "Playlist",
-     "text": "독보적인 존재감, CL의 새로운 음악과 함께하는 플레이리스트"
-    },
-    {
-     "type": "h",
-     "label": "Event",
-     "text": "CL Digital Single [ICONIC] RELEASE PARTY"
-    },
-    {
-     "type": "p",
-     "text": "이벤트 일시 : 2026-11-28 6PM"
     }
    ]
   },
@@ -1056,203 +1059,6 @@ export const MAGAZINE = {
     {
      "type": "img",
      "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/03/604/202611171630536903.jpg"
-    }
-   ]
-  },
-  {
-   "seq": 17382,
-   "date": "2026.11.19",
-   "title": "우리 노래 전시회 '밴드'편",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17382",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b5/75e/imgUrl20261116114009870.png/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "우리 노래 전시회 '밴드'편"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "숨은 명곡, 세상은 모른다. 트랙제로는 안다"
-    },
-    {
-     "type": "p",
-     "text": "멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로 2.0\n\n트랙제로는 숨겨진 명곡과 아티스트를 발굴하는 프로젝트입니다. 매주 전문위원들이 엄선한 플레이리스트를 통해, 리스너들에게는 숨은 보석 같은 음악을 선물하고, 뮤지션들에게는 다시 날개를 달 수 있는 기회를 줄 것입니다."
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "우리 노래 전시회 '밴드'편"
-    },
-    {
-     "type": "p",
-     "text": "지난여름에 '우리 노래 전시회'란 주제로 젊은 싱어송라이터들의 음악을 모아봤습니다. 좋은 반응이 많았는데요, 올해가 가기 전에 '밴드' 편을 이어서 준비해 봤습니다. 느슨하나마 선곡 기준을 정했습니다. 비교적 활동 기간이 길지 않을 것. 또 밴드만의 고유한 스타일을 갖고 있을 것. 현재 신에서 활발하게 활동하고 있을 것. 이 정도 기준으로 선곡했습니다. 과거 '트랙제로'에서 선곡된 밴드도 있지만, 밴드만의 색이 강하다 보니 그렇지 못한 경우도 있었습니다. 이 다양한 스타일을 가진 밴드들이 현재 한국 인디 신을 함께 일구어가고 있습니다. 한국 대중음악은 늘 이렇게 풍성합니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "01. 다브다 (Dabda) '온'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/33/d27/imgUrl20261116114028999.jpg"
-    },
-    {
-     "type": "p",
-     "text": "다브다 (Dabda)는 어쩌면 제가 정한 기준과 맞지 않을 수 있습니다. 이제 다브다 (Dabda)도 어느덧 베테랑이라고 불러도 될 정도의 경력을 지니고 있기 때문입니다. 2016년 첫 EP [저마다 섬]을 발표했으니 음반으로만 쳐도 어느새 활동 10주년을 맞은 밴드가 됐습니다. 그럼에도 '밴드만의 고유한 스타일'이란 측면에선 분명한 자격이 있습니다. 다브다 (Dabda)는 10년이라는 시간 동안, 한국에서는 쉽게 접하기 어려운 '매스 록(Math Rock)' 음악을 해왔습니다. '수학 록'이란 이름처럼 계산된 듯한 정교한 연주를 기반으로 하는 음악인데요, 이제 한국에서 매스 록 하면 다브다 (Dabda)란 이름이 반사적으로 나올 정도로 대표적인 밴드가 됐습니다. 얼마 전 새 앨범 [온(百)]을 발표하며 매스 록을 넘어 더 다양한 스타일의 음악을 하고자 하는 의지를 보여주기도 했습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "02. 급한노새 'Sleep Tight'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/24/551/imgUrl20261116011427669.jpg"
-    },
-    {
-     "type": "p",
-     "text": "급한노새는 자신들을 얼터너티브 록 밴드라고 소개합니다. 노새는 유전학적인 불임으로 생식할 수 없는 동물입니다. 후세를 도모할 수 없기에 현재에 충실한 삶을 살며 살아온 날들로 음악을 만들고 공연한다는 뜻에서 지은 이름이라고 합니다. 그 이름처럼 급한노새는 2022년 첫 싱글 'Together'를 발표한 이후 꾸준하게 작품 활동을 하고 있습니다. 지난해 연말에는 인상적인 첫 정규 앨범 [Sleep Tight And Other Assorted Tales]를 발표했습니다. 그 성실한 현재의 삶 속에 낭만도 있고 자유도 있고, 잠시 동안의 여유도 있습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "03. 이디어츠 '푸르내'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/57/885/imgUrl20261116114039064.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이디어츠는 펑크 한 길만을 걸어온 밴드입니다. 2018년 [1st EP]를 발표한 이후 역시 꾸준하게 싱글과 정규 앨범 작업을 하며 활동해 오고 있습니다. 불과 얼마 전에도 새로운 EP [idiots]를 발표했는데요, 표지에는 멤버들의 모습이 올망졸망 귀엽게 그려져 있습니다. 비록 이디어츠의 이름이 낯설 순 있지만 음악을 들어보면 음반 커버처럼 귀엽고 사랑스러운 느낌을 받을 수 있습니다. 귀에 쏙 들어오는 멜로디가 펑크 사운드와 함께 합니다. 자신들을 '멍청이 펑크 밴드'라고 소개하지만 이들의 멜로디는 절대 멍청하지 않습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "04. 로우 브라더스 (ROW BROTHERS) 'ZERO FLAG'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/53/093/imgUrl20261116114100748.jpg"
-    },
-    {
-     "type": "p",
-     "text": "로우 브라더스 (ROW BROTHERS)도 최근 활발한 활동을 하는 펑크 밴드입니다. 이디어츠만큼 좋은 멜로디를 담은 펑크 사운드를 들려주는데, 사실 펑크란 음악이 다소 과격해 보이는 이미지와 달리 그 안에는 좋은 멜로디를 품고 있는 경우가 많습니다. 로우 브라더스 (ROW BROTHERS)는 그런 펑크의 매력을 잘 보여주는 밴드이기도 하고요. 또 펑크가 갖고 있는 청춘의 이미지를 잘 표현하는 밴드이기도 합니다. 오늘 선곡한 'ZERO FLAG'는 '모든 이들과 함께 포기하지 않고 다시 일어설 수 있는 용기와 희망을 나누고 싶은 마음을 담은 곡'이라고 합니다. 청춘의 펑크입니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "05. 올드 잉글리쉬 쉽독 'Goonies'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/1b/132/imgUrl20261116114109478.jpg"
-    },
-    {
-     "type": "p",
-     "text": "올드 잉글리쉬 쉽독은 최근 가장 눈에 띄는 활약을 보이는 밴드입니다. 2024년 첫 정규 앨범 [dude..]로 눈길을 끌었던 밴드는 올해 한층 성장한 두 번째 앨범 [American Ping Pong]을 발표하며 확실한 눈도장을 찍었습니다. 다양한 스타일의 록 음악을 표현하면서도 재치 있는 가사와 독특한 질감의 사운드로 올드 잉글리쉬 쉽독만의 스타일을 가져왔습니다. 또 [dude..]에서부터 [American Ping Pong]까지, 앨범에 담고 있는 주제 의식은 '앨범'만이 가질 수 있는 가치를 잘 보여줍니다. 앨범 듣기의 즐거움이 무엇인지를 올드 잉글리쉬 쉽독이 알려주고 있습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "06. Omar and the Eastern Power (오마르와 동방전력) 'Bled santir (feat. 김오키)'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0e/b98/imgUrl20261116114119560.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Omar and the Eastern Power (오마르와 동방전력)라는 독특한 이름만큼 독특한 멤버 구성을 보여줍니다. 모로코인인 리더 오마르를 중심으로 한국인, 이집트인 멤버로 구성된 다국적 밴드입니다. 리더의 주도 아래 북아프리카 스타일의 음악이 중심에 있지만 여기에 각국의 음악적 특성이 더해지며 독특한 음악이 완성됐습니다. 이 독특한 사운드를 라이브로 접할 때 감흥은 더 커질 수밖에 없는데요, 얼마 전 발표한 EP [Lil Elbouhala]에는 라이브에서 전해지던 에너지와 중독적인 리듬이 가득합니다. 김오키의 색소폰이 더해진 'Bled santir'는 듣는 이를 다른 세계로 데려갑니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "07. 칩 포스트 갱 'INAZUMA'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/24/4ee/imgUrl20261116114125771.jpg"
-    },
-    {
-     "type": "p",
-     "text": "칩 포스트 갱 역시 최근 가장 자주 접했던 이름 가운데 하나입니다. 올해 여름에는 '패치룸 페스티벌'이란 이름의 유례없는 음악 축제를 기획해 화제를 모으기도 했는데, 그런 기획자의 역할뿐 아니라 지난 9월 첫 정규 앨범 [우리가우리라고부르는것들]을 발표해 밴드로서의 존재감을 확고하게 확인시켜 줬습니다. 작년에 발표한 EP [CAVEQUAKE]에서부터 보여줬던 엄청난 에너지를 정규 앨범으로까지 끌어왔고, '소리 덩어리'라고 표현할 만한 낮고 묵직한 사운드로 압도적인 무드를 연출합니다. 음악으로 만들어내는 '기세'란 이런 겁니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "08. yonglee & the DOLTANG 'March of the Invisibles'"
-    },
-    {
-     "type": "p",
-     "text": "용리와 돌아온 탕자들. 영문으로는 'yonglee & the DOLTANG'이라고 표기합니다. 영문 표기를 따로 하는 데는 이유가 있는데요, 외국에서 그만큼 활발한 활동을 하고 있기 때문입니다. 투어는 물론이고, 올해 독일 연방 정부가 주관하는 '2026 독일 재즈상(Deutscher Jazzpreis)' 시상식에서 '올해의 데뷔 앨범상(국제)'을 수상하기도 했습니다. 지난해 발표한 첫 정규 앨범 [Invisible Worker]로 상을 받았는데, 앨범에는 재즈뿐 아니라 록, 프로그레시브, 일렉트로닉 이 결합돼있습니다. 색다른 재즈를 듣고 싶을 때 '용리와 돌아온 탕자들'은 탁월한 선택입니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "09. POLYAMORY '포자와 삼켜질 세상'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/08/3df/imgUrl20261116114143390.jpg"
-    },
-    {
-     "type": "p",
-     "text": "POLYAMORY는 2인조로 구성된 인스트루멘탈 록 밴드입니다. 보컬이 없이 연주만으로 자신들의 음악을 표현하고 있고, 또 기타와 드럼이라는 단출한 편성으로도 정교하면서 스케일이 큰 사운드를 들려줍니다. 지난 9월에 발표한 첫 정규 앨범 [균의 만연]에서도 프로그레시브 록이라 해도 좋을 정도로 정교하면서 웅장한 사운드를 들려주고 있고, 매스 록이나 포스트 록 같은 하위 장르의 매력도 발견할 수 있습니다. 균과 포자라는 독특한 개념을 가지고 앨범 한 장을 완성해냈다는 것도 인상적입니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "10. I.M.F '업힐'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/35/1db/imgUrl20261116114149428.jpg"
-    },
-    {
-     "type": "p",
-     "text": "I.M.F는 인디 신의 경력직들이 만나서 만든 밴드입니다. 밤섬해적단, 고쓰롭(GAWTHROP), 폐허, 만동 (Mandong), 유기농맥주, Peach Truck Hijackers, THSS 등에서 활동했고 지금도 활동하고 있는 4명의 멤버가 모였는데, 처음에는 Imitation(모방), Modification(변형), Fabrication(날조)의 약자라고 밴드 이름을 설명했다가 농담처럼 나중에는 그냥 갖다 붙인 거라고 말했습니다. 풀이하자면 서양의 대중음악을 가져다 모방하고 변형하고 날조해서 자신들만의 것으로 만들겠다는 뜻이 아닐까 하는데요, 크라우트 록, 인터스트리얼, 얼터너티브, 노이즈 록, 펑크 등 다양한 사운드가 거친 매력으로 담겨 있습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "11. CASUALLY CONNECTED 'Blasphemy'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b3/c92/imgUrl20261116114155888.jpg"
-    },
-    {
-     "type": "p",
-     "text": "CASUALLY CONNECTED는 지금 헤비니스 신에서 활발하게 활동하고 있는 밴드입니다. CASUALLY CONNECTED의 멤버들 역시 샌디노이즈, ERROR-B, 코토바 등에서 활동했던 경력직인데요, 한데 모여 강렬한 사운드를 만들어내고 있습니다. 무거우면서 공격적인 사운드를 들려주는데 그 안에는 귀에 들어오는 멜로디도 있습니다. 라이브에서도 사운드가 담고 있는 매력을 그대로 선보이기도 하고요, 헤비니스 사운드가 가진 매력을 CASUALLY CONNECTED의 음악에서 온전하게 확인할 수 있습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "12. Teho '폐쇄'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/95/d64/imgUrl20261116114201348.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Teho의 경력 역시 만만치 않습니다. 멤버들의 경력도 화려하고요. 하지만 밴드만의 고유한 스타일을 갖고 지속적으로 오랜 시간 활동하고 있다는 점에서 이번 기획의 마지막 밴드로 선택했습니다. Taehun (이태훈) (기타), 진수영(피아노), 김성완(색소폰), min(드럼)으로 구성된 Teho는 정기적으로 모여 공연을 갖습니다. 그 공연은 즉흥을 바탕으로 한 연주로 구성되고, 그 결과물을 앨범으로 발표합니다. 얼마 전 [연희 지하보도 연쇄 실종 사건] 앨범이 발표됐습니다. 호기심을 자극하는 제목들, 연주자들은 어떤 상상을 하며 즉흥적으로 합을 맞췄을지 기대를 갖고 음악을 들어봅니다."
-    },
-    {
-     "type": "p",
-     "text": "밴드 활동이 얼마나 어려운지 꽤 오랜 시간 음악 신에 있으면서 알 수 있게 됐는데요, 그래서 오랜 시간 활동하는 밴드를 보면 존중하는 마음이 절로 생겨나곤 합니다. 오늘 소개해 드린 밴드들은 경력도, 장르도 다 다르지만 이들이 오랜 시간 활동하면서 대중음악이란 숲을 더 풍성하게 만들어주길 기대해 봅니다. 트랙제로는 계속됩니다!"
-    },
-    {
-     "type": "p",
-     "text": "(정리: 김학선 전문위원)"
-    },
-    {
-     "type": "h",
-     "label": "Playlist",
-     "text": "우리 노래 전시회 '밴드'편"
     }
    ]
   },
@@ -1852,6 +1658,119 @@ export const MAGAZINE = {
     {
      "type": "p",
      "text": "기억에 남은 한 곡을 골랐다면, 이번엔 내가 실제로 어떤 음악을 들으며 한 해를 보냈는지 멜론에서 만나보세요. 2026 마이레코드는 모바일에서 확인 가능합니다."
+    }
+   ]
+  },
+  {
+   "seq": 17385,
+   "date": "2026.11.16",
+   "title": "2026년 역주행 결산.zip",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17385",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/51/87e/imgUrl20261113062220339.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "2026년 역주행 결산.zip"
+    },
+    {
+     "type": "p",
+     "text": "발매 직후가 아닌, 시간이 흐른 뒤에야 리스너들의 마음을 움직이는 곡들이 있습니다. 2026년은 그런 노래들이 차트 위로 다수 돌아온 해였습니다. 한 해가 이제 한 달 반 즈음 남은 시점에서, 올해 차트를 거슬러 오른 트랙들을 결산해봅니다. 음악은 발매 시기에만 빛나는 것이 아니라는 것을 증명한 올해의 역주행 트랙들. 어떤 곡들이 있을까요?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "베스티 '연애의 조건 (Love Options)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/9df/imgUrl20261113062231643.jpg"
+    },
+    {
+     "type": "p",
+     "text": "가장 최근의 사례죠? 베스티의 '연애의 조건 (Love Options)'은 발매 13년 만에 멜론 Top100 10위권에 진입하며 화제를 모았습니다. 신나는 멜로디와 쉽게 따라 부를 수 있는 후렴구, 밝고 경쾌한 분위기는 오랜 시간이 지난 뒤에도 리스너들의 귀를 사로잡고 있습니다.\n\n역주행의 시작에는 팬들의 창의력 넘치는 리믹스가 있었습니다. Hearts2Hearts (하츠투하츠)의 'Lemon Tang' 댄스에 배경음으로 이 곡을 섞은 영상이 돌판에서 화제를 모았고, 점차 챌린지로 퍼지다가 스트리밍 증가로 이어졌는데요. 이를 계기로 베스티가 해체 8년 만에 재결합했다는 소식 역시 리스너들이 곡을 다시 듣게 하는 계기가 됐습니다.\n\n이 곡은 현재 국내 차트를 넘어 대만의 음악 차트에서도 정상에 올랐다는 소식이 들리고 있습니다. 글로벌한 역주행을 통해 베스티의 화제성은 더욱 커지고 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "RESCENE (리센느) 'LOVE ATTACK'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/49/8af/imgUrl20261113062236774.jpg"
+    },
+    {
+     "type": "p",
+     "text": "RESCENE (리센느)의 'LOVE ATTACK'은 2024년 8월 발매된 지 약 2년 만에 멜론 Top100 정상에 올랐습니다. 리더 원이의 유튜브 채널에서 미나미가 언급한 '거제 야호' 밈이 SNS를 타고 퍼지면서 그룹 자체에 대한 호기심이 커졌고, 그 관심이 이들의 과거 노래에 대한 청취로 이어진 것이죠.\n\n그 이후의 이야기는 우리 모두가 알고 있습니다. 남다른 서사를 가진 이들은 단숨에 국민 걸그룹의 위상을 차지했고, 다수의 광고와 미디어에 등장하며 팬들을 즐겁게 하고 있는데요. 모처럼의 기회를 잡은 이들은 역주행으로 얻은 관심을 신규 앨범 발매로 연결하며 또 한 번의 선순환을 만들고 있습니다. 많은 음악 팬들에게 2026년은 RESCENE (리센느)와 함께 기억될 것 같습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "최유리 '생각을 멈추다 보면'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3c/28e/imgUrl20261113062242892.jpg"
+    },
+    {
+     "type": "p",
+     "text": "최유리의 '생각을 멈추다 보면'은 2023년 11월 발매된 지 약 3년 만에 다시 차트 상위권으로 올라섰습니다. 결정적인 계기는 최유리의 유튜브 '들어봐! 유리의 숲'에서 진영과 함께 선보인 듀엣 라이브였는데요. 두 사람의 멋진 호흡이 담긴 영상은 짧은 시간 안에 큰 조회수를 기록하며 원곡에 대한 관심을 다시 불러일으켰습니다. 현재 이 영상의 조회수는 3,500만 이상을 기록하며 채널 내 독보적인 인기 1위 영상으로 자리하고 있습니다.\n\n감성적인 멜로디와 담백한 가사가 영상 속 분위기와 자연스럽게 어우러진 점도 주목할 만합니다. 라이브 영상을 본 청취자들이 원곡을 찾아 들었고, 이 흐름이 멜론 Top 100 진입과 순위 상승으로 이어졌죠. 영상에서의 감동이 음원 차트로 연결된 대표적인 역주행 사례입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "도경수(D.O.) 'Popcorn'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/6dc/imgUrl20261113062248379.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해는 많은 리스너들의 봄 플레이리스트에 노래 하나가 추가된 해였습니다. 바로 도경수(D.O.)의 'Popcorn'입니다. 2024년 발매된 지 약 2년 만에 역주행하며 봄 시즌의 대표곡으로 자리 잡았는데요. 사랑하는 순간의 설렘을 팝콘이 터지는 장면에 빗댄 가사와 부드러운 휘슬 사운드, 따뜻한 보컬이 봄날의 무드와 잘 맞물렸습니다.\n\n역주행의 불씨는 tvN 예능 '콩콩팡팡' 로드 트립 편에서 시작됐습니다. 여기서 도경수(D.O.)가 이 곡을 열창하고, 배우 김우빈이 이 곡을 좋아하는 노래로 언급했기 때문인데요. 관련 클립이 SNS를 통해 퍼지면서 곡을 찾는 청취자가 늘었고, 연인들의 결혼식 축가로도 각광받으며 웨딩 시즌 수요까지 더해졌습니다. 덕분에 우리는 새로운 봄 캐럴을 얻게 됐습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "엔플라잉 (N.Flying) 'Flashback'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0c/96b/imgUrl20261113062254302.jpg"
+    },
+    {
+     "type": "p",
+     "text": "엔플라잉 (N.Flying)의 'Flashback'도 2026년 상반기 역주행 흐름에 이름을 올린 곡입니다. 라이브 영상에서 들린 밴드 사운드와 감성적인 멜로디가 재발견되며 소셜미디어에서 화제를 모았고, 결국 차트 상승세로 이어진 케이스이지요.\n\n짧은 클립의 영상이 커뮤니티에서 회자되며 새로운 청취자를 만난 것이 핵심입니다. 과거의 인기곡이 현재의 감성과 맞닿으며 다시 스트리밍되는 흐름이 이어진 것인데요. 밴드 음악 특유의 직관적인 에너지와 중독적인 훅 또한 온라인 확산과 만나며 차트 재진입의 동력이 됐습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "에픽하이 (EPIK HIGH) 'Love Love Love (Feat. Yoong Jin Of Casker)'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4f/f2f/imgUrl20261113062259072.jpg"
+    },
+    {
+     "type": "p",
+     "text": "에픽하이 (EPIK HIGH)의 'Love Love Love (Feat. Yoong Jin Of Casker)'는 2026년 초반의 역주행 사례였습니다. 2007년 발표 후 큰 사랑을 받았던 이 곡은 2025년 식케이 (Sik-K)와 Lil Moshpit이 'LOV3 (Feat. Bryan Chase, Okasian)'에 샘플링으로 활용한 것을 계기로 다시 한 번 대중의 관심을 받았습니다.\n\n오랜 시간 사랑받아 온 원곡이 새로운 음악적 시도와 연결되자 세대를 뛰어넘은 청취층을 형성했는데요. 과거에도 명곡 소리를 들었던 곡이기 때문에, 엄밀히 말하면 역주행이 아닌 재주행이라고 하는 게 맞을지도 모르겠습니다."
+    },
+    {
+     "type": "p",
+     "text": "'Love Love Love (Feat. Yoong Jin Of Casker)'의 역주행과 관련한 자세한 이야기는 이전의 매거진에서 확인하실 수 있습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "한로로 '사랑하게 될 거야'"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/48/e53/imgUrl20261113062304731.jpg"
+    },
+    {
+     "type": "p",
+     "text": "사실 '사랑하게 될 거야'는 2025년부터 역주행을 한 곡입니다. 하지만 차트 최고순위를 기록한 것은 올해 1윌의 일이죠. 1월, 이 곡은 멜론 실시간 차트 1위와 일간 및 주간차트 2위까지 올랐습니다. 이후에도 꾸준히 큰 사랑을 받고 있기 때문에, 아마 연간차트에서도 최상위권을 기록하지 않을까 싶네요.\n\n이 곡의 인기는 특정 이벤트 하나로 설명하기 어렵습니다. 청춘의 불안과 희망을 담은 가사, 진솔한 보컬, 세련된 밴드 사운드가 오랜 시간 리스너들의 공감을 얻으며 꾸준한 스트리밍 수요를 만들어냈기 때문입니다. 리스너들 사이의 호평은 곧 차트 상위권 진입으로 이어졌고요.\n\n곡 자체가 지닌 공감대와 완성도가 청취자들의 선택을 이끌었다는 평가가 지배적인데요. 연초에도 연말에도 계속해서 청취된다는 점은 이 노래가 가진 매력을 잘 보여줍니다. 많은 이들에게 발견되고 계속 듣고 싶은 노래로 자리 잡은 만큼, '사랑하게 될 거야'는 앞으로도 오랜 시간 사랑 받는 노래가 될 것 같습니다."
     }
    ]
   }
