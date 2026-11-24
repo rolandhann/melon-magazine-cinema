@@ -1,7 +1,180 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-23 02:27",
+ "fetchedAt": "2026-11-24 05:50",
  "articles": [
+  {
+   "seq": 17398,
+   "date": "2026.11.24",
+   "title": "과거의 감동, 오케스트라 사운드로 다시 만나다 – 시크릿 가든의 [Secret Symphony]",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17398",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d3/91f/imgUrl20261119041745213.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "과거의 감동, 오케스트라 사운드로 다시 만나다 – 시크릿 가든의 [Secret Symphony]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/bf/96e/imgUrl20261119021054972.jpg"
+    },
+    {
+     "type": "p",
+     "text": "음악 감상에 막 들어섰던 어린 시절에는 그야말로 모든 것이 신기하고 아름다웠습니다. 그 시절 처음 만나게 된 음악 중에는 보컬도 없이, 오로지 연주만으로 음악을 만들어 나가는 장르도 있었습니다. 이전부터 상당한 인지도가 있었던 조지 윈스턴(George Winston)이나 야니(Yanni) 같은 음악가는 물론이고, 일본의 유키 구라모토(Yuhki Kuramoto), 프랑스의 앙드레 가뇽(Andre Gagnon) 등 당시에는 '뉴에이지'라는 이름으로 분류되었던 이 음악가들의 음악은 한국에서 특별한 사랑을 받았습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5b/216/imgUrl20261119021059607.jpg"
+    },
+    {
+     "type": "p",
+     "text": "프로듀서이자 작곡가로 시크릿 가든의 핵심이라 할 수 있는 롤프 뢰블란(Rolf Lovland), 뢰블란이 만들어낸 음악에 바이올린 선율을 얹는 피오뉼라 셰리(Fionnuala Sherry)가 함께하는 듀오, 시크릿 가든(Secret Garden) 또한 이 시기에 국내에서 대단한 인기를 끌었습니다. 그 당시 비슷한 스타일의 음악을 선보이던 아티스트들과 마찬가지로 시크릿 가든 또한 '한국인들에게 특히 사랑받는 음악가'로 여겨졌습니다. 지금도 듀오를 대표하는 음악으로 그 명성이 굳건한 [Song from a Secret Garden], 그리고 한국에서 남다른 사랑을 받은 'Serenade to Spring' 같은 음악이 그러한 인식을 만드는 데 일조했고요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4e/2b9/imgUrl20261119021103937.jpg"
+    },
+    {
+     "type": "p",
+     "text": "그러던 2001년, 국내는 물론 전 세계적으로 시크릿 가든의 인지도를 높인 작품이 나오게 됩니다. 바로 어마어마하다는 묘사로도 그 인기를 설명하기가 역부족인 메가 히트곡, 'You Raise Me Up (Feat. Brian Kennedy)'입니다. 발표 당시에는 그다지 주목받지 못했던 음악은 이후 수많은 아티스트에 의해 리메이크되었고, 그렇게 여기저기서 쌓인 명성은 시크릿 가든의 큰 자산이 되어주었습니다. 유행이라는 것을 신경 쓰지 않고 하던 음악을 계속할 수 있게 만들어준 것이죠.\n\n시크릿 가든의 명곡을 오케스트라 사운드로 – [Secret Symphony]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/31/7f6/imgUrl20261119021108193.jpg"
+    },
+    {
+     "type": "p",
+     "text": "1995년 결성 이후 어느덧 활동 30년을 넘긴 시크릿 가든. 이번 가을, 그들은 2027년 1월에 발매될 새 앨범 [Secret Symphony] 소식을 알렸습니다. 제임스 모건(James Morgan)이 지휘하는 로열 필하모닉 오케스트라와 홀스트 싱어스(The Holst Singers)가 함께한 이번 앨범은 앞서 소개한 'Song from a Secret Garden', 'You Raise Me Up'과 'Nocturne', 'In Our Tears'처럼 시크릿 가든이 그간 발표한 음악 중 특별히 인기 있었던 곡을 추려서 새로운 오케스트라 사운드를 입힌 음반입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c0/9c0/imgUrl20261119021112859.jpg"
+    },
+    {
+     "type": "p",
+     "text": "사실 이러한 컨셉트의 앨범을 발매하는 것 자체는 오케스트라 음악과는 별다른 관련 없는 아티스트들도 자주 선보일 정도로 그리 특별한 일이 아닙니다. 그리고 시크릿 가든처럼 클래식 음악과 밀접한 관계를 맺어온 아티스트에게 이런 앨범은 다른 의미로 쉽지 않은 도전이기도 합니다. 새롭게 선보인 음악이 다소 아쉽다고 느껴지거나, 심한 경우 원곡만 못하다는 생각이 들 정도로 그 결과물이 기대에 못 미치는 경우도 많기 때문입니다.\n\n하지만 곧 발매될 시크릿 가든의 앨범 [Secret Symphony]에는 이러한 우려를 확실하게 불식시키는 음악이 담겨 있습니다. 핵심은 원곡을 제대로 이해하고 수행한 편곡에서 비롯됩니다. 롤프 뢰블란은 같은 국가 출신의 작곡가이자 편곡가, 에이리크 베르게(Eirik Berge)와의 협업을 통해 과거 발매되었던 음악에 딱 맞는 오케스트라의 옷을 입혀주었습니다. 평소 수없이 들어온 시크릿 가든의 음악에서 이전에는 경험하지 못했던 새로운 감동은 그렇게 조용히 솟아납니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fc/b74/imgUrl20261119021118305.jpg"
+    },
+    {
+     "type": "p",
+     "text": "세월이 지나도 그 가치가 바래지 않는 음악, 그리고 그러한 음악을 조금 다른 방식으로 선보여도 고유의 정서를 간직하는 음악이 있다면 그것을 고전이라 부를 수 있겠습니다. 그런 의미에서 시크릿 가든의 이번 앨범 [Secret Symphony]는 듀오의 음악이 어느덧 고전의 반열에 올랐음을 알리는 상징적인 음반으로 기록될 것입니다. 첫인상은 분명히 다르지만 결국에는 시크릿 가든의 음악임이 선명해지는 음악, 언제 어디서나 시크릿 가든이라는 이름으로 기록될 그들의 음악이 2027년 1월, 다시 한번 감동을 전할 것입니다."
+    }
+   ]
+  },
+  {
+   "seq": 17399,
+   "date": "2026.11.23",
+   "title": "지나온 모든 시간이 저마다의 빛으로 반짝이는 순간 웬디 (WENDY)의 [Gleam Hour]",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17399",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f3/f5a/202611231041568551.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "지나온 모든 시간이 저마다의 빛으로 반짝이는 순간 웬디 (WENDY)의 [Gleam Hour]"
+    },
+    {
+     "type": "p",
+     "text": "안녕하세요. 멜론 가족 여러분\n웬디 (WENDY)가 네 번째 미니앨범 [Gleam Hour]로 돌아왔습니다. 어둡지만 화려하고 반짝이는 밤에서 시작해, 잔광이 머무는 저녁에 닿기까지의 하루. 그 흐름 위에 마음의 결들을 차곡차곡 포개어 놓은 앨범인데요. 웬디 (WENDY)가 들려주는 이야기 속으로 가볼까요?"
+    },
+    {
+     "type": "h",
+     "label": "Album",
+     "text": "웬디 (WENDY) [Gleam Hour]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/85/714/15185714_20261120105342.jpg"
+    },
+    {
+     "type": "p",
+     "text": "웬디 (WENDY)의 네 번째 미니앨범 [Gleam Hour]는 가장 내밀한 감정에 시선을 맞춘 앨범이다. 앨범은 시간의 흐름에 따라 변화하는 감정을 여과 없이 다룬다. 어둡지만 화려하고 반짝이는 밤에서 시작해, 잔광이 머무는 저녁에 닿기까지의 하루. 그 흐름 위에 마음의 결들을 차곡차곡 포개어 놓았다. 웬디 (WENDY)는 전곡 작사, 작곡에 참여하며 쉼 없이 흐르는 감정의 순환을 자신만의 언어로 써 내려갔다.\n앨범이 주목하는 것은 하루 끝에 찾아오는 감정들이다. 누군가의 작은 빛이 되고 싶던 설렘, 지나간 순간을 되감으며 뒤척이는 후회, 스스로를 탓하고 순응하며 가라앉는 자책, 그리고 다시 깨어나는 두려움과 내 안의 빛을 되찾아가는 과정까지. 경계선 너머의 감정을 외면하지 않고 하나씩 마주한다.\n\n[Gleam Hour]를 관통하는 키워드는 '순환'과 '위로'다. 밤이 지나면 아침이 오고, 해가 지면 다시 밤이 찾아오듯 감정 또한 머물렀다가 이내 지나간다. 그러나 지나간 감정은 사라지는 것이 아니라 조용히 쌓여간다. 그렇기에 의미 없는 순간은 없다. 아무것도 아닌 것 같은 지금 이 순간조차, 언젠가 돌아보면 반짝이고 있을 테니까.\n\n[Gleam Hour]는 지나온 모든 시간이 저마다의 빛으로 반짝이는 순간에 관한 기록이다. 해가 진 뒤에도 하늘에 오래 남는 여운처럼, 웬디 (WENDY)의 목소리는 듣는 이의 하루 끝에 조용히 머물며 말을 건넨다. 괜찮다고, 지나가는 이 시간도 결국 너를 이루는 한 조각이 될 거라고."
+    },
+    {
+     "type": "h",
+     "label": "Story",
+     "text": "웬디 (WENDY) [Gleam Hour] 자켓 촬영 현장 비하인드"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/0d/e88/202611231043598080.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d2/293/202611231044038429.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/9c/4a2/202611231044065150.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5b/f53/202611231044103540.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7c/ab8/202611231044133996.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/be/cca/202611231044309023.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ec/7e1/20261123104434235.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/cf/6f1/202611231044376328.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e2/41c/202611231044406259.jpg"
+    },
+    {
+     "type": "p",
+     "text": "웬디 (WENDY)의 맑고 따뜻한 보컬로 만나보실 수 있는 네 번째 미니앨범 [Gleam Hour] 많은 사랑 부탁드립니다.\n\n지금 바로 멜론에서 들어보세요!"
+    },
+    {
+     "type": "h",
+     "label": "Concept Photo",
+     "text": "웬디 (WENDY) [Gleam Hour]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/77/667/202611231045141134.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/15/38b/202611231045181564.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/10/1cd/202611231045205118.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4b/e71/202611231045231773.jpg"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
+     "text": "웬디 (WENDY) 'Before Sunrise'"
+    },
+    {
+     "type": "h",
+     "label": "From 웬디 (WENDY)",
+     "text": "To Melon"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7c/b34/202611231046212014.jpg"
+    }
+   ]
+  },
   {
    "seq": 17396,
    "date": "2026.11.20",
@@ -508,390 +681,97 @@ export const MAGAZINE = {
    ]
   },
   {
-   "seq": 17391,
+   "seq": 17384,
    "date": "2026.11.20",
-   "title": "MMA2026, DAY2 현장 속으로🍈",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17391",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a4/228/202611171716268336.jpg/melon/quality/90/optimize",
+   "title": "[ICONIC]과 함께 독보적인 카리스마와 강력한 에너지로 돌아온 CL",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17384",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/30/92e/imgUrl20261119103233977.jpg/melon/quality/90/optimize",
    "blocks": [
     {
      "type": "h",
      "label": "Special",
-     "text": "MMA2026, DAY2 현장 속으로🍈"
+     "text": "[ICONIC]과 함께 독보적인 카리스마와 강력한 에너지로 돌아온 CL"
     },
     {
-     "type": "p",
-     "text": "MMA2026! 첫날에 이어 둘째 날에도 눈 뗄 수 없는 무대들이 펼쳐졌습니다. 아티스트의 매력이 돋보이는 퍼포먼스부터 팬들의 뜨거운 환호를 끌어낸 특별한 순간까지. 각자의 방식으로 한 해를 빛낸 아티스트들이 마지막 날을 화려하게 장식했어요. 음악으로 가득했던 축제의 두 번째 날, 그 현장을 함께 만나보시죠!"
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/ff/292/imgUrl20261113043459402.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fc/8c1/imgUrl20261113043507539.jpg"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "🏆받을 만했던 n관왕, 그리고 매섭게 치고 올라온 신예들"
+     "label": "Single",
+     "text": "CL Digital Single [ICONIC]"
+    },
+    {
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/82/375/15182375_20261119151337.jpg"
     },
     {
      "type": "p",
-     "text": "1일 차에 3관왕을 차지했던 방탄소년단은 2일 차에도 3개의 트로피를 받으며 총 6관왕이라는 대기록을 세웠습니다. 특히 올해의 앨범과 올해의 아티스트까지, 대상 2개를 모두 품에 안아 월드 스타의 위상을 다시 한번 증명했어요."
+     "text": "2021년 발매한 첫 번째 정규 앨범 [ALPHA]에 이어 5년 만에 선보이는 [ICONIC]은 자신만의 길을 걸어온 CL의 흔들림 없는 자신감과 한층 대담해진 음악적 색채를 담았다."
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5b/ea4/202611191704115372.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e3/2af/imgUrl20261113043525480.jpg"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/45/c9b/202611191704152970.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3f/dd7/imgUrl20261113043531627.jpg"
     },
     {
      "type": "p",
-     "text": "압도적인 차트 성적과 꾸준한 인기로 독보적인 존재감을 보여준 곡에 주어지는 상, 올해의 베스트송! 영광의 주인공은 IVE (아이브)의 'BANG BANG'이었습니다. 무려 40일간 멜론 일간차트 1위를 지켰으며, IVE (아이브)의 곡 중에서도 최장기간 일간차트 정상에 오른 기록을 세웠는데요. 멜론 주간인기상에서도 4주 연속 1위를 차지하며 그 인기를 확실히 입증했습니다. 숫자만으로도 충분히 설명되는 성과지만, 이날 더욱 인상 깊었던 건 수상 소감이었습니다. 울먹이며 감사의 마음을 전하는 멤버들의 모습에서 그동안 쏟아부은 노력과 간절함이 고스란히 전해졌죠."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8d/7b8/202611191704366531.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7d/89d/202611191704479273.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번 MMA2026에서 5개의 대상이 주어진 가운데, 가장 짧은 연차로 대상 트로피를 거머쥔 팀은 바로 CORTIS (코르티스)입니다. 올해의 레코드 부문을 수상하며 대세라는 수식어에 확실한 방점을 찍었어요. 자신들만의 개성이 돋보이는 자유분방한 기획과 음악으로 올해의 트렌드를 이끌었다고 해도 과언이 아니죠. 데뷔한 지 이제 1년 남짓, 짧은 시간 동안 이뤄낸 성과라는 점에서 더욱 놀랍습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f9/dd6/202611191705098757.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3e/6b7/20261119170516847.jpg"
-    },
-    {
-     "type": "p",
-     "text": "신인상은 데뷔 후 단 한 번만 받을 수 있기에 더욱 소중한 상이죠. 한 해 동안 남다른 기세와 잠재력을 보여준 아티스트에게 주어지는 이 상, 올해의 신인 부문에 두 팀이 나란히 영광을 안았습니다. 압도적인 퍼포먼스를 보여준 ALPHA DRIVE ONE (알파드라이브원)과 탄탄한 실력으로 대중과 평단의 찬사를 끌어낸 LNGSHOT이 그 주인공인데요. 신인상으로 확실한 눈도장을 찍은 두 팀! 앞으로 어떤 아티스트로 성장해 나갈지 지켜봐 주세요!"
+     "text": "무게감 있는 사운드의 'SAY IT TO MY FACE'와 거침없는 속도감으로 존재를 각인시키는 타이틀곡 'ICONIC'. 두 곡을 관통하는 과감한 태도와 단단한 확신은 CL의 정체성을 더욱 선명하게 드러낸다."
     },
     {
      "type": "h",
-     "label": "",
-     "text": "😎무대 위에선 아무도 못 말려! 제대로 놀아버린 세 팀"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/b69/202611191705467459.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/35/cfd/202611191705546807.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b7/4a7/202611191705583609.jpg"
-    },
-    {
-     "type": "p",
-     "text": "손가락으로 만든 총을 겨눈 채 등장한 네 소녀! 아일릿(ILLIT)이 커다란 무대를 단숨에 장악하며 흥을 끌어올렸습니다. '체포하겠어'와 'It's Me'가 울려 퍼지자, 객석도 금세 들썩였는데요. 가만히 앉아 있기엔 너무나 신나는 선곡이었죠. 아일릿(ILLIT)은 무대 중간 출연진석으로 깜짝 이동해 현장의 열기를 한층 더 달궜습니다. 특히 'It's Me!'라는 소절이 끝나기가 무섭게 출연진들이 자리에서 일어나 춤을 따라 추기 시작했는데요. 무대와 객석의 경계가 사라진 순간, 그야말로 모두가 하나 되어 즐기는 축제의 장이었습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b8/708/202611191706326392.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/49/a2a/202611191706422773.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2b/c33/202611191706476400.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c8/147/202611191706549937.jpg"
-    },
-    {
-     "type": "p",
-     "text": "CORTIS (코르티스)는 MMA2026 무대를 마치 자신들의 단독 콘서트장처럼 누비며 압도적인 에너지를 뿜어냈습니다. 대규모 댄스 크루 없이 오직 다섯 멤버만으로 무대를 채웠는데요. 광활한 고척돔이 좁게 느껴질 만큼 넘치는 에너지는 현장은 물론 화면 너머까지 그대로 전해졌습니다. 그 뜨거운 반응을 증명하듯 멜론 공식 유튜브 채널에 공개된 직후 470만 회 이상의 조회수를 기록했고, MMA2026 관련 영상 중 조회수 1위에 오르기도 했죠.\n\n무대 곳곳에 숨겨진 재미도 놓칠 수 없었습니다. MMA 오브제의 'A'를 'M'으로 바꾼 재치 있는 연출로 'MONEYMONEYMONEY'를 선보이며 시작부터 시선을 끌었는데요. 여기에 차세대 K-POP 애국가가 될 것만 같은 'REDRED', 2026년의 밈과 유행어를 탄생시킨 'YOUNGCREATORCREW'까지! 한 곡 한 곡마다 개성과 에너지를 아낌없이 쏟아내며 관객들과 제대로 호흡했습니다. 무대도, 반응도 뜨거웠던 순간이었어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/48/a4d/202611191707236114.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/07/827/202611191707263439.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ee/11e/202611191707296049.jpg"
-    },
-    {
-     "type": "p",
-     "text": "MMA2026의 대미, NCT 127의 무대도 빼놓을 수 없겠죠? 카운트다운과 함께 2017년 발표한 'Cherry Bomb'으로 화려한 포문을 열었습니다. 이어 '영웅 (英雄; Kick It)', 'Piñata', 'Blingy'까지 쉴 틈 없이 쏟아진 히트곡으로 현장을 후끈 달아오르게 했죠. 오차 없는 칼군무와 한 치의 흐트러짐 없는 퍼포먼스는 그야말로 K-POP 무대의 정수를 보여주었습니다. '역시 NCT 127'이라는 감탄이 절로 나오는 피날레로 MMA2026의 마지막 페이지를 화려하게 장식했어요."
+     "label": "Official MV",
+     "text": "CL 'ICONIC'"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "🎼귀 호강 제대로, MMA 한정 고능한 편곡"
+     "label": "Exclusive Photo",
+     "text": "CL 'ICONIC' 뮤직비디오 비하인드 포토"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/91/ec0/202611191708051166.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3d/47f/imgUrl20261113043558037.jpg"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/93/184/202611191708096033.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/b2/1ff/imgUrl20261113043604451.jpg"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c8/831/202611191708134511.jpg"
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/81/b0e/imgUrl20261113043609942.jpg"
     },
     {
-     "type": "p",
-     "text": "IVE (아이브)가 무대에 등장하자마자 다이브들은 입틀막(?) 했을지도 모릅니다. 인트로 음악으로 무려 'DEAR. CUPID'를 꺼내 들었기 때문이죠. 'DEAR. CUPID'는 'LOVE DIVE' 프로모션 비디오에 삽입됐던 곡으로, 팬들 사이에서 음원 발매 요청이 끊이지 않았던 음악인데요. 그런 곡을 4년 만에 다시 소환한 것도 모자라 퍼포먼스까지 선보이다니! 팬들의 오랜 바람을 MMA2026에서 제대로 이뤄준 셈이죠. 이 맛에 연말 무대를 기다리는 것 아닐까요?"
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/da/50a/imgUrl20261113043615424.jpg"
     },
     {
-     "type": "p",
-     "text": "한국적인 멋을 살린 무대는 언제 봐도 반갑죠. 이번 MMA2026에서 국악풍 선율을 들려준 아티스트는 다름 아닌 PLAVE! 궁을 배경으로 우아한 도포를 차려입고 부채를 들며 'Watch Me Woo!'를 한국적인 색채로 새롭게 편곡해 선보였습니다. 팬들 사이에서는 '국악 버전은 후손을 위해 문화유산으로 남겨야 한다'라는 찬사가 쏟아졌어요.\n\n그런데 PLAVE의 깜짝선물은 여기서 끝이 아니었습니다. 공연 말미, RIIZE와 함께 차원을 넘어선 컬래버레이션을 예고한 것인데요. 두 그룹이 함께한 '로우키(Lowkey)'의 발매 소식이 전광판 티저 영상을 통해 공개되자 객석에서는 놀라움과 함성이 터져 나왔습니다. 예상치 못한 만남으로 두 팬덤의 심장을 제대로 뒤흔들어 놓았죠."
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/32/6d7/imgUrl20261113043621883.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/79/634/imgUrl20261113043628086.jpg"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "💓긴장감을 사르르 녹이는 달달한 시상자 케미"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/50/341/202611191709104939.jpg"
-    },
-    {
-     "type": "p",
-     "text": "대상 시상을 위해 MMA2026을 찾은 배우 변요한과 Tiffany Young. 부부로서 공식 석상에 함께 오른 건 이번이 처음이라고 하는데요. 수상 발표를 앞둔 긴장된 순간에도 서로를 향한 애정이 묻어나는 멘트를 주고받으며 현장 분위기를 달달하게 만들었습니다. 오죽하면 '시상하러 와서 연애한다'는 댓글까지 등장했을까요? 트로피만큼이나 두 사람의 알콩달콩한 케미가 빛났던 순간이었습니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/44/824/20261119170924273.jpg"
-    },
-    {
-     "type": "p",
-     "text": "대세 개그맨 곽범과 이창호가 나란히 시상자로 무대에 올랐습니다. 사실 두 사람은 부캐 매드몬스터 (MAD MONSTER)로 활동한 전적(?)이 있는데요. 오랜만에 한자리에 모인 두 사람의 등장만으로도 현장엔 웃음꽃이 피었습니다. 능청스러운 입담과 찰떡 호흡으로 시상하러 왔다가 웃음까지 챙겨갔어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/55/961/202611191709446022.jpg"
-    },
-    {
-     "type": "p",
-     "text": "스트리머 감스트와 방송인 조나단도 시상자로 무대에 올랐습니다. 얼핏 보면 의외의 조합 같지만, 사실 두 사람은 과거 함께 콘텐츠를 진행하며 검증된 케미를 보여준 사이인데요. 워낙 입담과 순발력이 남다른 두 사람답게 첫 시상 무대에서도 어색함은 찾아볼 수 없었습니다. 처음이라는 말이 무색할 만큼 자연스러운 진행으로 현장에 유쾌한 웃음을 더했죠."
-    },
-    {
-     "type": "p",
-     "text": "MMA2026의 마지막 순간까지 함께해 주셨는데요! 이틀 동안 이어진 축제는 수많은 명장면과 함께 오래도록 기억에 남을 것 같습니다. 아티스트와 팬들이 함께 완성한 특별한 순간들, 여러분의 마음속에는 어떤 장면이 가장 오래 남았나요? 뜨거웠던 MMA2026의 여운을 간직하며, 우리는 다음 MMA에서 다시 만나요🎵"
-    }
-   ]
-  },
-  {
-   "seq": 17389,
-   "date": "2026.11.19",
-   "title": "MMA2026, DAY1 현장 속으로🍈",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17389",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/09/6e3/202611171523058251.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "MMA2026, DAY1 현장 속으로🍈"
-    },
-    {
-     "type": "p",
-     "text": "매년 연말을 화려하게 장식하는 MMA가 올해는 이틀에 걸쳐 펼쳐졌습니다. 첫날부터 시선을 압도하는 무대가 이어지며 현장의 열기를 뜨겁게 달궜는데요. 한 해를 빛낸 음악과 퍼포먼스가 어우러진 MMA2026 첫날의 순간들을 함께 만나보시죠!"
+     "label": "Playlist",
+     "text": "독보적인 존재감, CL의 새로운 음악과 함께하는 플레이리스트"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "🏆DAY1의 다관왕 주인공은?"
+     "label": "Event",
+     "text": "CL Digital Single [ICONIC] RELEASE PARTY"
     },
     {
      "type": "p",
-     "text": "자타공인 NO. 1 아티스트죠. 방탄소년단이 1일 차에 3관왕을 거머쥐었습니다. 올해 3월, 정규 앨범 [ARIRANG]을 발매해 전 세계를 들썩였는데요. 월드 투어로 23개국을 돌며 88회 공연을 진행하고, 국내외 음악 시장의 판도를 바꾼 자랑스러운 이들. 글로벌 TOP10과 스테이지 오브 더 이어, 대상인 카카오뱅크 올해의 앨범 부문에서 수상했습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/39/297/202611181642287172.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/56/468/202611181642319817.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/79/49d/202611181642057332.jpg"
-    },
-    {
-     "type": "p",
-     "text": "올여름을 쇠콤달콤 'LEMONADE'로 평정한 aespa도 글로벌 TOP10과 대상인 올해의 글로벌-K 아티스트 상을 받으며 2관왕에 올랐어요. 멜론 글로벌-K 차트에서 두각을 나타내며 올해 큰 사랑을 받은 아티스트에게 전하는 상인 만큼 의미가 깊죠."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d4/396/202611181643068960.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/84/a7d/202611181643094894.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4c/5ba/20261118164317684.jpg"
-    },
-    {
-     "type": "p",
-     "text": "예쁜 애 옆에 예쁜 애 옆에 예쁜 애. 사랑스러운 비주얼로 'RUDE!' 신드롬을 만들어낸 Hearts2Hearts (하츠투하츠)도 다관왕 주인공입니다. TOP10, 글로벌 TOP10, 글로벌 임팩트 아티스트 상까지, 3개 부문을 휩쓸었어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/21/71c/202611181643488631.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/47/d35/202611181643526291.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이제는 '국민 걸그룹' 애칭이 자연스러운 역주행의 아이콘입니다. RESCENE (리센느)는 데뷔 후 MMA에 처음 얼굴을 비췄는데요. 첫 방문에 글로벌 TOP10, 핫트렌드, 카카오뱅크 모두의 스타상까지 3개의 트로피를 한 아름 안았습니다. 유독 뜻깊은 RESCENE (리센느)의 2026년이 더욱 풍성하게 마무리될 것 같네요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "🎂10주년을 빛낸 감동의 무대"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/13/6b4/202611181644298978.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/91/1f4/202611181644338714.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a1/acf/202611181644374247.jpg"
-    },
-    {
-     "type": "p",
-     "text": "올해 초 반가운 소식이 있었죠. 국민 Pick으로 결성된 아이오아이 (I.O.I)가 10주년을 맞이해 완전체로 대중과 만났습니다. '자려고 누웠는데 양의지' 밈으로 화제를 모으며 멜론 차트 1위에 오르는 저력을 보여준 바 있어요. 오랜만에 뭉쳤어도 오래 함께였던 듯 합이 착착 맞는 무대를 선보여 현장은 감동의 물결이 일었습니다. 수상 소감으로 꼭 다시 돌아오겠다고 약속했으니, 또 한 번의 만남을 기다려 볼까요?"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7d/a33/202611181645061926.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/be/4c7/202611181645091259.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b7/d7a/20261118164512182.jpg"
-    },
-    {
-     "type": "p",
-     "text": "1일 차 라인업엔 올해 데뷔 10주년을 맞은 팀이 또 있습니다. 바로 NCT DREAM! 첫 곡으로 7년 전 풋풋한 매력으로 불렀던 노래 'BOOM'을 시작으로 'Better Than Gold (지금)', 'Boogie Woogie'를 부르며 무대를 장식했죠. 공연 중간엔 케이크를 올려 현장 분위기를 금세 파티의 한 장면으로 만들었어요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "🌟고척돔을 뒤집어 놓은 요즘 대세"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/aa/f62/202611181645492413.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/95/652/202611181650194369.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/29/df2/202611181646007562.jpg"
-    },
-    {
-     "type": "p",
-     "text": "음악 축제의 묘미는 단연 눈 뗄 수 없는 퍼포먼스라고 할 수 있겠죠. 여기 고척돔 뚜껑 날릴 듯한 함성을 끌어낸 두 팀이 있습니다. 두 팀 모두 핫트렌드 부문을 수상하며 대세임을 증명했는데요. 먼저, 최근 가슴 춤으로 챌린지 판을 휩쓸었던 ATEEZ(에이티즈)가 압도적인 스케일의 퍼포먼스를 선보였어요. 바다를 형상화한 푸른 천, 해적선, 제복 등 해적왕 콘셉트로 무대를 꽉 채워 자신들의 세계로 모두를 끌어당겼습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/3ac/202611181646274580.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/59/096/202611181646312412.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/d9/4a5/202611181646332127.jpg"
-    },
-    {
-     "type": "p",
-     "text": "아마 RESCENE (리센느)를 응원하던 분들이라면 '리마인 하길 잘했다'는 생각이 절로 들었을 것 같습니다. 동화 같은 세트와 머스크향이 청각으로 느껴지는 편곡으로 MMA 첫 출연이라는 사실이 믿기지 않을 만큼 완성도 높은 무대가 펼쳐졌어요. 특히 마지막 곡 'LOVE ATTACK'에선 화면에 'REMINE'을 큼직하게 띄워 팬들에게 고마운 마음을 표현했습니다. '한 번도 빛난 적 없었던 미지의 향으로 온 세상을 물들여'라는 가사처럼 RESCENE (리센느)는 이날 자신들만의 향으로 MMA2026을 물들였죠."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/60/36f/202611191210223728.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/59/538/202611191210279733.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ec/726/20261119121030866.jpg"
-    },
-    {
-     "type": "p",
-     "text": "베스트 퍼포먼스 남자와 글로벌 TOP10을 수상한 RIIZE도 무대 위에서 저력을 발휘했습니다. 이번 가을 발매한 'Insomnia' 뮤직비디오의 주요 장치였던 거대한 고래가 대형 화면에 등장하며 시작부터 시선을 사로잡았는데요. 마치 자신들만의 세계로 팬들을 초대하듯 신비로운 분위기를 자아냈죠. 특히 댄스 크루와 함께 단상에 올라 온몸으로 감정을 쏟아내는 듯한 퍼포먼스가 인상적이었습니다. 매번 놀라운 무대를 선보이는 팀답게 이번에도 한순간도 눈을 뗄 수 없는 볼거리를 가득 안겨주었어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a2/126/202611191212049527.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/78/05a/202611191212097106.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/80/402/20261119121213675.jpg"
-    },
-    {
-     "type": "p",
-     "text": "올해 멜로너들의 마음을 제대로 캐치!한 YENA (최예나)도 뜻깊은 무대로 찾아왔습니다. 가수로서의 첫 시작을 떠올리게 하는 '프로듀스 48' 콘셉트의 무대부터 IZ*ONE (아이즈원) 시절 활동 곡 'FIESTA', 첫 솔로 데뷔곡 'SMILEY (Feat. BIBI)', 그리고 올해를 뜨겁게 달군 '캐치 캐치'까지. 그야말로 YENA (최예나)의 음악 인생을 한 편의 하이라이트 영상처럼 펼쳐 보였는데요. 특히 IZ*ONE (아이즈원) 시절의 추억까지 놓치지 않은 구성에 팬들도 감동했다는 반응을 보였습니다. 지금의 YENA (최예나)가 있기까지의 순간들을 하나씩 되짚어 준 무대, 팬들에게는 그야말로 선물 같은 시간이었겠죠?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "🎙️꿈을 이룬 MC와 축제의 열기를 함께 나눈 시상자"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/89/668/202611181647088608.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번 MMA2026은 크리에이터 미미미누의 활약으로 진행되었습니다. 레드카펫부터 틈틈이 출연진들의 인터뷰를 도맡아 공연장에 기분 좋은 웃음을 안겨주었죠. 이날 미미미누가 무대에도 올랐다는 사실! 알고 계신가요? Hearts2Hearts (하츠투하츠) 'RUDE!' 무대 중간에 전화하는 역할로 잠깐 얼굴을 비추었어요. 과거 한 예능에서 고척돔을 목표로 꼽았던 미미미누. 이날 Hearts2Hearts (하츠투하츠)와 함께 제대로 고척돔 데뷔를 치렀습니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/04/fc5/202611181647242291.jpg"
-    },
-    {
-     "type": "p",
-     "text": "1일 차엔 5개의 대상 중 올해의 앨범과 올해의 글로벌-K 아티스트, 2가지 부문이 공개되었는데요. 그 시상은 다름 아닌 배우 이영애가 맡았습니다. 우아한 자태로 등장해 특유의 발음으로 '에스파'를 호명하는 영상이 소소하게 화제 되었죠."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/6b/dbc/202611181647376865.jpg"
-    },
-    {
-     "type": "p",
-     "text": "2025년 5월 전역 이후 오랜만에 공식 석상에 등장한 배우 이도현. 올블랙 슈트와 훤칠한 비율로 등장부터 시선을 쓸어모았습니다. 한층 날렵해진 턱선에 깊어진 분위기가 더해져 현장에선 자연스레 감탄이 터져 나왔어요. 짧은 등장만으로도 여전한 화제성을 입증한 그가 다음에는 어떤 작품으로 찾아올지 지켜봐 주세요!"
-    },
-    {
-     "type": "p",
-     "text": "MMA2026의 뜨거웠던 순간들, 아직 끝나지 않았습니다! 아쉬운 마음은 축하공연 다시 보기와 MMA 플레이리스트로 달래보세요. 다음날의 현장은 2편에서 계속됩니다!"
+     "text": "이벤트 일시 : 2026-11-28 6PM"
     }
    ]
   },
@@ -1223,6 +1103,11 @@ export const MAGAZINE = {
     {
      "type": "h",
      "label": "Official MV",
+     "text": "케이시 (Kassy) '왜 이별은 아프기만 할까요'"
+    },
+    {
+     "type": "h",
+     "label": "Official MV",
      "text": "케이시 (Kassy) '돛단배'"
     },
     {
@@ -1234,93 +1119,6 @@ export const MAGAZINE = {
      "type": "h",
      "label": "From 케이시 (Kassy)",
      "text": "To 멜론"
-    }
-   ]
-  },
-  {
-   "seq": 17386,
-   "date": "2026.11.17",
-   "title": "수험생에게 바치는 응원가💪🍀",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17386",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/67/f57/202611160854135464.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "수험생에게 바치는 응원가💪🍀"
-    },
-    {
-     "type": "p",
-     "text": "11월 19일.\n그동안 쌓아온 노력이 결실을 맺는 날입니다.\n하지만 이날 하루가\n10년이 넘는 시간 동안 쉼 없이 달려온\n수험생 여러분의 모든 순간을 대변할 수는 없다는\n사실을 기억했으면 합니다.\n\n준비가 되었든, 아직 조금은 부족하게 느껴지든\n'수능'이라는 이름 앞에서 주눅 들지 않도록\n힘찬 응원을 전할 노래들을 모아보았는데요.\n\n용기가 필요한 순간마다 한 곡씩 감상하며\n복잡해지는 마음을 다잡아보세요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "LUCY '전체관람가'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/7a8/202611160855394871.jpg"
-    },
-    {
-     "type": "p",
-     "text": "시간은 쉼 없이 흐르고,\n넘어야 할 관문은 어김없이 다가옵니다.\n그 앞에 선 '나'는 아직 준비가 덜 된 것만 같죠.\n\n관문 너머에 어떤 세상이 기다리고 있을지는\n알 수 없지만,\n마냥 순탄하지만은 않을 거라는 사실은\n어렴풋이 짐작할 수 있습니다.\n마주하기 두렵지만 결국 넘어야 할 순간이라면,\n잠시 만화 속 한 장면이라고 생각해 보면 어떨까요?\n\n그리고 그 장면을 채울 배경 음악으로\nLUCY의 '전체관람가'를 틀어두는 거죠.\n\n이 곡은 버거운 일들이 휘몰아치는\n19세 관람가 같은 세상도\n언제나 전체관람가처럼 아름답고 사랑스럽기를\n바라는 마음을 담고 있습니다.\n\n힘든 순간이 찾아오더라도\n'다 사라져라, 다 지나가라'라는\n가사를 되뇌어 보세요.\n그렇게 노래를 따라가다 보면\n막막하기만 했던 시간도\n어느새 한 장면처럼 지나가 있을 테니까요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "QWER 'Our Voyage'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3a/d9b/202611160856123543.jpg"
-    },
-    {
-     "type": "p",
-     "text": "호기롭게 시작한 일에도\n지치는 순간은 찾아오기 마련입니다.\n모든 걸 그만두고 싶고,\n한 걸음도 내딛기 어려울 만큼 마음이 무너졌다면\nQWER이 들려주는 응원가에 귀를 기울여 보세요.\n\n'Our Voyage'는\nQWER이 앞으로 나아갈 미래를 다짐한 앨범\n[CEREMONY]의 수록곡입니다.\n'우리가 함께라면 이 이야기는 끝나지 않아'라는\n노랫말로 혼자가 아니라는 든든한 위로와 함께\n다시 나아갈 힘을 전하죠.\n\n처음 품었던 다짐과 의지를 되새기게 하는 이 노래.\n포기하고 싶은 순간은 과정일 뿐이니,\nQWER의 응원을 받으며\n다시 한번 씩씩하게 일어나 보는 건 어떨까요?"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "Young K (DAY6) '응원가'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e8/453/202611160856466609.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Young K (DAY6)의 두 번째 솔로 정규 앨범 [YOUNGEST]에는\n제목만으로도 힘이 솟는\n'응원가'가 수록되어 있습니다.\n데뷔 이후 오랜 시간 자신만의 음악을 쌓아 올리며\n마침내 많은 사랑을 받게 된 Young K (DAY6).\n그의 대기만성 서사는\n오랜 시간 꿈을 향해 달려온 수험생들에게\n더욱 특별하게 다가올 것 같은데요.\n\nYoung K (DAY6)는 이 곡을\n나 자신을 위한 응원가라고 소개했지만,\n그 진심 어린 메시지는\n듣는 이들에게도 그대로 전해집니다.\n크고 작은 일부터 감당하기 버거운 시련까지,\n모든 경험이 모여 지금의 나를 만들고\n언젠가는 내가 지닌 고유한 빛을 발하게 될 것이라는\n믿음을 노래하죠.\n\n지금까지 걸어온 시간과 앞으로 펼쳐질 가능성이\n흐릿하게 느껴질 때,\n이 곡을 플레이리스트에 추가해 보세요.\n불안한 마음을 다독이고\n스스로에게 가장 든든한 응원을 건넬 수 있을 거예요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "로이킴 'Smile Boy'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4c/4bc/202611160857167488.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이 곡은 2007년 발매된 이승기의 'Smile Boy'를\n원곡으로 한 리메이크곡입니다.\n원곡의 경쾌한 분위기는 그대로 살리면서\n로이킴 특유의 부드러운 음색을 더해,\n한층 다정한 응원으로 다가오죠.\n\n때로는 거창한 위로나 따끔한 조언보다\n'힘을 내', '용기를 내'와 같은,\n짧고 단순한 한마디가 더 필요한 순간이 있습니다.\n고민으로 복잡한 머릿속을\n맑게 환기해 줄 담백한 위로의 말이죠.\n\n노래의 메시지처럼 모든 일이 뜻대로 풀리지 않더라도\n한 번 더 크게 웃어보세요.\n작은 미소 하나가 부정적인 생각을 밀어내고\n다시 앞으로 나아갈 힘이 되어줄지도 모르니까요.\n복잡한 마음을 털어내고\n긍정적인 방향으로 한 걸음 내딛고 싶을 때,\n기분 좋은 응원이 되어줄 곡입니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "CNBLUE (씨엔블루) '그러나 꽃이었다 (Still, a Flower)'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3f/dae/202611160857487309.jpg"
-    },
-    {
-     "type": "p",
-     "text": "최근 록 페스티벌을 뜨겁게 달군\nCNBLUE (씨엔블루).\n지난 1월에 발매한 정규 3집의 수록곡\n'그러나 꽃이었다 (Still, a Flower)'를\n마지막으로 소개해 드릴게요.\n\n이 곡은 짓밟히고 상처 입은 자리에서도\n끝내 꽃을 피워내는 존재의 이야기를 담고 있습니다.\n때로는 어떤 위로도 와닿지 않을 만큼\n외롭고 막막한 순간이 있지만,\n그럼에도 자신만의 향기를 잃지 않고\n묵묵히 버텨온 시간을 노래하죠.\n\n아직 피어나지 못했다고 생각하는 순간에도\n잊지 마세요.\n당신은 이미 자신만의 향기를 품은\n꽃이라는 것을."
-    },
-    {
-     "type": "p",
-     "text": "선선했던 날씨가 수능 당일에는\n거짓말처럼 추워진다고 합니다.\n따뜻하게 챙겨 입고 나서세요.\n그리고 그동안의 긴 여정을\n후련한 마음으로 마치고 돌아오시길 바랍니다.\n\n마지막으로 꼭 기억하세요.\n여러분의 세상은\n단 하루로 무너지지 않는다는 것을요.\n긴장보다는 설렘을,\n걱정보다는 자신감을 안고 다녀오세요.\n\n수험생 여러분, 행운을 빕니다! 🍀"
     }
    ]
   },
@@ -1662,115 +1460,192 @@ export const MAGAZINE = {
    ]
   },
   {
-   "seq": 17385,
+   "seq": 17381,
    "date": "2026.11.16",
-   "title": "2026년 역주행 결산.zip",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17385",
-   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/51/87e/imgUrl20261113062220339.jpg/melon/quality/90/optimize",
+   "title": "훈수와 참견으로 가득 찬 이들에게 날리는 통쾌한 한 방! 다이나믹 듀오 '하라는 랩'",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17381",
+   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4e/1dd/202611131342239605.png/melon/quality/90/optimize",
    "blocks": [
     {
      "type": "h",
      "label": "Special",
-     "text": "2026년 역주행 결산.zip"
+     "text": "다이나믹 듀오 '하라는 랩' Official Video 촬영 현장 독점 공개"
     },
     {
      "type": "p",
-     "text": "발매 직후가 아닌, 시간이 흐른 뒤에야 리스너들의 마음을 움직이는 곡들이 있습니다. 2026년은 그런 노래들이 차트 위로 다수 돌아온 해였습니다. 한 해가 이제 한 달 반 즈음 남은 시점에서, 올해 차트를 거슬러 오른 트랙들을 결산해봅니다. 음악은 발매 시기에만 빛나는 것이 아니라는 것을 증명한 올해의 역주행 트랙들. 어떤 곡들이 있을까요?"
+     "text": "'출첵 (Feat. 나얼 For Brown Eyed Soul)', '죽일 놈 (Guilty)', 'AEAO' 등 수많은 히트곡으로 한국 힙합의 대명사로 자리매김한 '다이나믹 듀오'가 다채로운 컬래버레이션과 국내외 공연 활동에 이어, 정규 10집 [2 Kids On The Block] 이후 약 2년 만에 독자적인 신보로 돌아왔습니다.\n\n신곡 '하라는 랩'은 타인의 훈수와 참견을 유쾌하고 통쾌하게 풀어낸 힙합 곡으로, 개코와 최자의 독보적인 래핑과 리드미컬한 사운드가 돋보이며, 하고 싶은 일과 해야 할 일 모두 온전한 '나의 삶'이라는 메시지를 담아 치열한 일상을 살아가는 이들에게 공감과 위로를 전하는 곡입니다.\n\n아티스트의 Official Video 촬영 현장 비하인드를 지금 바로 공개합니다. 보러 가시죠!"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "베스티 '연애의 조건 (Love Options)'"
+     "label": "Single",
+     "text": "다이나믹 듀오 '하라는 랩'"
     },
     {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/68/9df/imgUrl20261113062231643.jpg"
+     "type": "album",
+     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/59/937/15159937_20261113165303.jpg"
     },
     {
      "type": "p",
-     "text": "가장 최근의 사례죠? 베스티의 '연애의 조건 (Love Options)'은 발매 13년 만에 멜론 Top100 10위권에 진입하며 화제를 모았습니다. 신나는 멜로디와 쉽게 따라 부를 수 있는 후렴구, 밝고 경쾌한 분위기는 오랜 시간이 지난 뒤에도 리스너들의 귀를 사로잡고 있습니다.\n\n역주행의 시작에는 팬들의 창의력 넘치는 리믹스가 있었습니다. Hearts2Hearts (하츠투하츠)의 'Lemon Tang' 댄스에 배경음으로 이 곡을 섞은 영상이 돌판에서 화제를 모았고, 점차 챌린지로 퍼지다가 스트리밍 증가로 이어졌는데요. 이를 계기로 베스티가 해체 8년 만에 재결합했다는 소식 역시 리스너들이 곡을 다시 듣게 하는 계기가 됐습니다.\n\n이 곡은 현재 국내 차트를 넘어 대만의 음악 차트에서도 정상에 올랐다는 소식이 들리고 있습니다. 글로벌한 역주행을 통해 베스티의 화제성은 더욱 커지고 있습니다."
+     "text": "다이나믹 듀오 '하라는 랩'"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "RESCENE (리센느) 'LOVE ATTACK'"
+     "label": "Story",
+     "text": "다이나믹 듀오 '하라는 랩' Official Video 촬영 현장"
     },
     {
      "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/49/8af/imgUrl20261113062236774.jpg"
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/cb/acc/202611131010392125.jpg"
     },
     {
      "type": "p",
-     "text": "RESCENE (리센느)의 'LOVE ATTACK'은 2024년 8월 발매된 지 약 2년 만에 멜론 Top100 정상에 올랐습니다. 리더 원이의 유튜브 채널에서 미나미가 언급한 '거제 야호' 밈이 SNS를 타고 퍼지면서 그룹 자체에 대한 호기심이 커졌고, 그 관심이 이들의 과거 노래에 대한 청취로 이어진 것이죠.\n\n그 이후의 이야기는 우리 모두가 알고 있습니다. 남다른 서사를 가진 이들은 단숨에 국민 걸그룹의 위상을 차지했고, 다수의 광고와 미디어에 등장하며 팬들을 즐겁게 하고 있는데요. 모처럼의 기회를 잡은 이들은 역주행으로 얻은 관심을 신규 앨범 발매로 연결하며 또 한 번의 선순환을 만들고 있습니다. 많은 음악 팬들에게 2026년은 RESCENE (리센느)와 함께 기억될 것 같습니다."
+     "text": "하얀 스튜디오에 등장한 수상한 미술 작업실! 👀\n개코가 직접 그린 2026 다이나믹 듀오 단독 콘서트 [가끔씩 오래 보자] 포스터와 '하라는 랩' 앨범 커버까지! 과연 이곳에서는 무슨 일이 벌어질까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8c/5a4/202611131010554222.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8d/37a/20261113101057950.jpg"
+    },
+    {
+     "type": "p",
+     "text": "작품들의 아버지이자 오늘의 주인공, 개코 등장! 👨‍🎨\n비장한 눈빛으로 붓을 든 모습에서 예술혼이 느껴지는데요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2a/7fa/202611131011413225.jpg"
+    },
+    {
+     "type": "p",
+     "text": "그림 그리는 연출에도 직접 붓을 들고 진심을 다하는 개코! 🎨"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ea/126/202611131011506866.jpg"
+    },
+    {
+     "type": "p",
+     "text": "분위기 전환! 개코에 이어 회색 슈트의 심상치 않은 비주얼로 등장한 최자! ✨\n강렬한 조명 아래 더 빛나는데 과연 어떤 장면을 촬영 중일까요? 👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e9/c2d/202611131012003162.jpg"
+    },
+    {
+     "type": "p",
+     "text": "감독님의 디렉션을 완벽하게 소화하며 카메라 앞 분위기 장악 완료.\n회색 수트에 강렬한 빨간 장갑이 마치 성공한 CEO를 연상시키는 것 같기도 하네요.🫢"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2a/bd2/202611131012191891.jpg"
+    },
+    {
+     "type": "p",
+     "text": "또다시 개코 개인 촬영 타임이 돌아오고, 이번엔 뜻밖의 귀여운 손님 👼이 등장했어요.. ✨\n인형을 품에 안고 함박웃음을 짓는 개코 포착 📸"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c7/198/202611131012344475.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영이 끝난 뒤에도 인형과 여전히 교감 중.. 역시 세상 다정한 아빠의 모습이네요. ☺️"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/04/ebb/202611131012414950.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번엔 갑자기 아령을…?! 💪\n'하라는 랩'은 안 하고 운동만? 어떤 장면이 탄생했을지 기대해 주세요!"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/57/6db/202611131012508818.jpg"
+    },
+    {
+     "type": "p",
+     "text": "휴식 시간, 아기 인형을 바라보니 아빠 미소가 절로 나오네요. ☺️"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/68/915/202611131013003531.jpg"
+    },
+    {
+     "type": "p",
+     "text": "촬영장에 등장한 다이나믹 듀오 전용 차량! 다음 촬영은 어떤 콘셉트일까요?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/0a/006/202611131013087054.jpg"
+    },
+    {
+     "type": "p",
+     "text": "다이나믹 듀오의 무대를 함께 꾸며주는 dj friz도 특별 출연!\n개코와 최자, dj friz가 함께하니 재치 있는 현장이 완성됐습니다. 😎"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f8/295/202611131013224993.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번엔 촬영장에 포장마차가 등장했습니다!\n실제 포장마차에 온 듯 자연스러운 연기를 선보이는 다이나믹 듀오와 dj friz.\n촬영 내내 웃음이 끊이지 않았다는 후문! ✨"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3d/2e5/20261113101331703.jpg"
+    },
+    {
+     "type": "p",
+     "text": "포장마차에 앉은 최자의 모습이 유독 자연스러운 건 기분 탓일까요? 🍻"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/96/4ef/202611131013403401.jpg"
+    },
+    {
+     "type": "p",
+     "text": "못 말리는 다이나믹 듀오의 골프 사랑 ⛳\n촬영장에 미니 골프장까지 마련됐는데요! 과연 어떤 장면일까요? 👀"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/0d/e67/20261113101350799.jpg"
+    },
+    {
+     "type": "p",
+     "text": "뒤이어 포착된 최자의 진지한 골프 스윙! 골프채를 휘두르는 파워부터 남다릅니다.\n신곡 가사에도 어김없이 골프가 등장하는데 과연 어떤 의미가 담겨 있을지,\n곡을 들으면서 확인해 보세요! 👀🤭"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/07/315/202611131014056333.jpg"
+    },
+    {
+     "type": "p",
+     "text": "역시 소문난 골프 러버! 골프채 하나만 들어도 프로 선수 못지않은 포스."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f0/d87/202611131014123915.jpg"
+    },
+    {
+     "type": "p",
+     "text": "오늘의 촬영은 여기까지!\n마지막으로 공개하는 다이나믹 듀오의 베스트 투 샷! 📸\n다채로운 콘셉트로 완성된 Official Video, 기대되지 않으신가요?"
+    },
+    {
+     "type": "p",
+     "text": "붓질부터 운동, 골프까지! 하라는 랩은 안 하고 이것저것 다 하던 두 사람이 드디어 본업으로 돌아왔습니다. 다이나믹 듀오의 신곡 '하라는 랩', 지금 바로 만나보세요!"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "최유리 '생각을 멈추다 보면'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3c/28e/imgUrl20261113062242892.jpg"
-    },
-    {
-     "type": "p",
-     "text": "최유리의 '생각을 멈추다 보면'은 2023년 11월 발매된 지 약 3년 만에 다시 차트 상위권으로 올라섰습니다. 결정적인 계기는 최유리의 유튜브 '들어봐! 유리의 숲'에서 진영과 함께 선보인 듀엣 라이브였는데요. 두 사람의 멋진 호흡이 담긴 영상은 짧은 시간 안에 큰 조회수를 기록하며 원곡에 대한 관심을 다시 불러일으켰습니다. 현재 이 영상의 조회수는 3,500만 이상을 기록하며 채널 내 독보적인 인기 1위 영상으로 자리하고 있습니다.\n\n감성적인 멜로디와 담백한 가사가 영상 속 분위기와 자연스럽게 어우러진 점도 주목할 만합니다. 라이브 영상을 본 청취자들이 원곡을 찾아 들었고, 이 흐름이 멜론 Top 100 진입과 순위 상승으로 이어졌죠. 영상에서의 감동이 음원 차트로 연결된 대표적인 역주행 사례입니다."
+     "label": "From 다이나믹 듀오",
+     "text": "To Melon"
     },
     {
      "type": "h",
-     "label": "",
-     "text": "도경수(D.O.) 'Popcorn'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/3a/6dc/imgUrl20261113062248379.jpg"
-    },
-    {
-     "type": "p",
-     "text": "올해는 많은 리스너들의 봄 플레이리스트에 노래 하나가 추가된 해였습니다. 바로 도경수(D.O.)의 'Popcorn'입니다. 2024년 발매된 지 약 2년 만에 역주행하며 봄 시즌의 대표곡으로 자리 잡았는데요. 사랑하는 순간의 설렘을 팝콘이 터지는 장면에 빗댄 가사와 부드러운 휘슬 사운드, 따뜻한 보컬이 봄날의 무드와 잘 맞물렸습니다.\n\n역주행의 불씨는 tvN 예능 '콩콩팡팡' 로드 트립 편에서 시작됐습니다. 여기서 도경수(D.O.)가 이 곡을 열창하고, 배우 김우빈이 이 곡을 좋아하는 노래로 언급했기 때문인데요. 관련 클립이 SNS를 통해 퍼지면서 곡을 찾는 청취자가 늘었고, 연인들의 결혼식 축가로도 각광받으며 웨딩 시즌 수요까지 더해졌습니다. 덕분에 우리는 새로운 봄 캐럴을 얻게 됐습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "엔플라잉 (N.Flying) 'Flashback'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/0c/96b/imgUrl20261113062254302.jpg"
-    },
-    {
-     "type": "p",
-     "text": "엔플라잉 (N.Flying)의 'Flashback'도 2026년 상반기 역주행 흐름에 이름을 올린 곡입니다. 라이브 영상에서 들린 밴드 사운드와 감성적인 멜로디가 재발견되며 소셜미디어에서 화제를 모았고, 결국 차트 상승세로 이어진 케이스이지요.\n\n짧은 클립의 영상이 커뮤니티에서 회자되며 새로운 청취자를 만난 것이 핵심입니다. 과거의 인기곡이 현재의 감성과 맞닿으며 다시 스트리밍되는 흐름이 이어진 것인데요. 밴드 음악 특유의 직관적인 에너지와 중독적인 훅 또한 온라인 확산과 만나며 차트 재진입의 동력이 됐습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "에픽하이 (EPIK HIGH) 'Love Love Love (Feat. Yoong Jin Of Casker)'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4f/f2f/imgUrl20261113062259072.jpg"
-    },
-    {
-     "type": "p",
-     "text": "에픽하이 (EPIK HIGH)의 'Love Love Love (Feat. Yoong Jin Of Casker)'는 2026년 초반의 역주행 사례였습니다. 2007년 발표 후 큰 사랑을 받았던 이 곡은 2025년 식케이 (Sik-K)와 Lil Moshpit이 'LOV3 (Feat. Bryan Chase, Okasian)'에 샘플링으로 활용한 것을 계기로 다시 한 번 대중의 관심을 받았습니다.\n\n오랜 시간 사랑받아 온 원곡이 새로운 음악적 시도와 연결되자 세대를 뛰어넘은 청취층을 형성했는데요. 과거에도 명곡 소리를 들었던 곡이기 때문에, 엄밀히 말하면 역주행이 아닌 재주행이라고 하는 게 맞을지도 모르겠습니다."
-    },
-    {
-     "type": "p",
-     "text": "'Love Love Love (Feat. Yoong Jin Of Casker)'의 역주행과 관련한 자세한 이야기는 이전의 매거진에서 확인하실 수 있습니다."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "한로로 '사랑하게 될 거야'"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/48/e53/imgUrl20261113062304731.jpg"
-    },
-    {
-     "type": "p",
-     "text": "사실 '사랑하게 될 거야'는 2025년부터 역주행을 한 곡입니다. 하지만 차트 최고순위를 기록한 것은 올해 1윌의 일이죠. 1월, 이 곡은 멜론 실시간 차트 1위와 일간 및 주간차트 2위까지 올랐습니다. 이후에도 꾸준히 큰 사랑을 받고 있기 때문에, 아마 연간차트에서도 최상위권을 기록하지 않을까 싶네요.\n\n이 곡의 인기는 특정 이벤트 하나로 설명하기 어렵습니다. 청춘의 불안과 희망을 담은 가사, 진솔한 보컬, 세련된 밴드 사운드가 오랜 시간 리스너들의 공감을 얻으며 꾸준한 스트리밍 수요를 만들어냈기 때문입니다. 리스너들 사이의 호평은 곧 차트 상위권 진입으로 이어졌고요.\n\n곡 자체가 지닌 공감대와 완성도가 청취자들의 선택을 이끌었다는 평가가 지배적인데요. 연초에도 연말에도 계속해서 청취된다는 점은 이 노래가 가진 매력을 잘 보여줍니다. 많은 이들에게 발견되고 계속 듣고 싶은 노래로 자리 잡은 만큼, '사랑하게 될 거야'는 앞으로도 오랜 시간 사랑 받는 노래가 될 것 같습니다."
+     "label": "Official MV",
+     "text": "다이나믹 듀오 '하라는 랩'"
     }
    ]
   }
