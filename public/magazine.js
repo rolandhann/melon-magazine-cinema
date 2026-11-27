@@ -1,7 +1,119 @@
 // fetch_magazine.py 가 자동으로 만든 파일입니다. 직접 고치지 말고 스크립트를 다시 실행하세요.
 export const MAGAZINE = {
- "fetchedAt": "2026-11-26 04:04",
+ "fetchedAt": "2026-11-27 04:02",
  "articles": [
+  {
+   "seq": 17407,
+   "date": "2026.11.26",
+   "title": "2027 그래미어워드, 주목받는 아티스트들은?",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17407",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/bd/45b/imgUrl20261124030725459.jpg/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "2027 그래미어워드, 주목받는 아티스트들은?"
+    },
+    {
+     "type": "p",
+     "text": "현지 시각으로 2027년 2월 예정되어 있는 제69회 그래미어워드. 그 후보가 모두 공개됐습니다. 이번 시상식에서는 주요 부문에서 여성 아티스트들이 굉장한 강세를 보이고 있는데요. 어떤 아티스트들이 화제를 모으고 있을까요?"
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "최다 후보 지명, RAYE"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/e2/e1e/imgUrl20261124030750618.jpg"
+    },
+    {
+     "type": "p",
+     "text": "올해 그래미에서 가장 큰 주목을 받고 있는 아티스트는 영국의 싱어송라이터 RAYE입니다. 그녀는 본상에서만 4개 부문에 후보로 올랐고, 장르 부문을 포함하면 총 11개 부문에 후보로 이름을 올렸습니다. 이는 이번 그래미의 최다 노미네이트 기록입니다.\n\nRAYE는 2026년 자신의 두 번째 정규 앨범인 [THIS MUSIC MAY CONTAIN HOPE.]를 내놓으며 음악 팬들과 만났는데요. 좌절 속에서도 희망을 향해 나아간다는 서사에 뮤지컬 같은 구성미를 더해 리스너들에게 확실한 인상을 남긴 바 있습니다.\n\n음악적으로 맥시멀하지만 산만하지는 않았고, 확실한 서사 역시 중심에 자리했기에 평단의 호평 또한 이어졌는데요. 영국에서 단 한 장의 앨범에 수여하는 머큐리 프라이즈의 트로피도 거머쥔 만큼, 미국 시상식인 그래미에서도 트로피를 가져갈 수 있을지 관심이 모이고 있습니다. 만약 수상으로 이어진다면 이는 RAYE의 첫 그래미상 수상으로 기록될 전망입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "못지 않은 노미네이트, Rosalia"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c1/ead/imgUrl20261124030755961.jpg"
+    },
+    {
+     "type": "p",
+     "text": "이번 그래미어워드의 또 다른 유력 후보로는 스페인이 자랑하는 싱어송라이터, Rosalia가 있습니다. 그녀는 본상 3개 부문을 포함해 총 9개 부문에 후보로 이름을 올리며 RAYE 못지않은 화제성을 보여주고 있습니다.\n\n그녀가 2025년 말 [LUX]를 공개했을 때, 리스너들의 반응은 '충격(P)'이었다고 표현하는 게 맞을 듯합니다. 원래도 실험적인 음악을 선보이는 Rosalia였지만 이번에는 클래식과 오페라까지 주요하게 차용하며 더욱 큰 실험을 감행했고, 가사 또한 13개 국가의 언어를 사용해 전에 없던 시도까지 보여줬기 때문입니다.\n\n평단에서는 극찬이 이어졌습니다. 만점을 준 영국의 DIY매거진에서는 '몇 년 후 팝 음악의 전환점으로 언급될 것'이라는 찬사를 할 정도였죠. 현재 이 앨범의 메타크리틱 스코어 평균은 95점으로, 앨범에 평가를 내린 모든 매체가 긍정적인 평을 했음을 확인할 수 있습니다. 굉장한 주목을 받은 앨범인 만큼, 그래미에서는 어떤 결과지를 받을지 지켜볼 만합니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "주목받는 두 명의 올리비아: Olivia Dean, Olivia Rodrigo"
+    },
+    {
+     "type": "p",
+     "text": "본상 부문에 후보로 오른 아티스트를 보면 흥미로운 사실을 알 수 있습니다. Olivia가 본명인 두 명의 아티스트가 본상 3개의 부문에서 경쟁하고 있기 때문입니다. 각각 영국과 미국을 대표하는 젊은 싱어송라이터, Olivia Dean과 Olivia Rodrigo가 그들입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/27/c9c/imgUrl20261124030800790.jpg"
+    },
+    {
+     "type": "p",
+     "text": "2026년 그래미어워드 신인상의 주인공이죠? Olivia Dean은 2025년 가을 정규 2집 [The Art of Loving]을 공개하고 활발한 활동을 해왔는데요. 미니멀하면서도 요즘 음악답지 않은 빈티지한 매력을 더해 젊은 층은 물론 올드팬들의 귀까지 사로잡은 바 있습니다.\n\n그녀는 싱글 'Man I Need'와 앨범 [The Art of Loving]로 본상 세 개 부문을 포함, 총 6개 부문에 후보로 올랐습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/99/b31/imgUrl20261124030805571.jpg"
+    },
+    {
+     "type": "p",
+     "text": "한편 Olivia Rodrigo는 2022년의 그래미어워드에서 신인상을 받은 바 있습니다. 올해 정규 3집 [you seem pretty sad for a girl so in love]를 통해 또 한 번 음악적인 성장을 보여줬는데요. 보편적인 주제인 '사랑'을 다루면서도, 그 사랑의 다양한 얼굴을 담아내며 상실과 회복의 과정을 섬세하게 그려냈다는 평을 받았습니다.\n\nOlivia Rodrigo는 [you seem pretty sad for a girl so in love]와 앨범의 두 번째 싱글 'the cure'로 본상 세 개 부문을 포함 총 7개 부문에 후보로 올랐습니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "역사상 최장기 히트곡은 '올해의 노래' 부문을 수상할 수 있을까?"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/a9/d8d/imgUrl20261124030810231.jpg"
+    },
+    {
+     "type": "p",
+     "text": "한국에서 유독 맥을 못 추는 컨트리 장르인 탓에 한국에서 큰 이슈가 되지는 않았지만, 미국의 컨트리 가수 Ella Langley는 'Choosin' Texas'로 역사상 다시 있을지 모르는 기록을 쓰고 있습니다.\n\n11월 28일 주차 차트 기준, 이 곡은 빌보드 Hot100차트에서 누적 29주 1위에 오르며 역대 최장 1위 히트를 기록하고 있습니다. 이는 겨울마다 차트 정상에 오르는 Mariah Carey 공전의 히트곡, 'All I Want for Christmas Is You'의 누적 22주 1위 기록을 아득히 뛰어넘는 기록입니다.\n\n대중이 선택한 역대 최장기 히트라는 의미가 있는 곡이기 때문에, 본상 '올해의 노래' 후보에 오른 이 곡에 대한 관심 또한 이어지고 있는데요. 수상 여부와 관계없이 이 곡은 앞으로 대중음악 역사에 남을 것이 확실해 보입니다."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "본상 '올해의 레코드' 부문 후보에 오른 제니 (JENNIE)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/29/9fa/imgUrl20261124030815430.jpg"
+    },
+    {
+     "type": "p",
+     "text": "'올해의 레코드'는 단일 음원에 수여되는 상으로, 한 곡이 얼마나 완성도 있게 만들어졌는지를 가리는 본상 부문입니다. 즉 가수의 퍼포먼스뿐 아니라 프로듀싱, 녹음, 믹싱, 마스터링까지 포함한 종합적인 개별 음원의 완성도를 평가하지요.\n\n호주 밴드 Tame Impala의 'Dracula (Feat. JENNIE)'는 Tame Impala의 원곡에 제니 (JENNIE)의 아이디어가 더해진 곡입니다. 그래서 크레딧에도 그녀의 이름이 올라있고, Tame Impala와 함께 올해의 레코드 부문의 후보로 오르기도 했는데요. 두 아티스트는 팝 듀오/그룹 퍼포머상 후보에도 함께 이름을 올리고 있습니다. 한 해를 뜨겁게 만든 곡인 만큼, 너른 인정을 받고 있는 듯하네요."
+    },
+    {
+     "type": "h",
+     "label": "",
+     "text": "아시안 팝 퍼포머 부문 후보: IVE (아이브), KiiiKiii (키키)"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d3/c99/imgUrl20261124030819794.jpg"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/6d/da1/imgUrl20261124030824100.jpg"
+    },
+    {
+     "type": "p",
+     "text": "방탄소년단이 보이콧하며 국내에도 잘 알려진 아시안 팝 퍼포머 부문. 그럼에도 불구하고 강행되어 이번이 첫 시상을 치를 예정인데요. 해당 부문에 오른 K-Pop 그룹은 스타쉽의 선후배 그룹인 IVE (아이브)와 KiiiKiii (키키)였습니다. 각각 'BANG BANG'과 '404 (New Era)'로 후보에 올랐네요.\n\n외에도 제이팝 아티스트 LiSA의 'YES', 메탈 장르를 들려주는 일본의 아이돌 BABYMETAL이 미국 밴드 Polyphia의 참여로 함께한 'Sunset Kiss', 필리핀 보이그룹 SB19의 'VISA'와 같은 국가의 걸그룹 BINI의 'Unang Kilig'이 후보에 올랐습니다. 생소한 이름들이 많다면 아래 링크를 통해 만나 보시기 바랍니다."
+    }
+   ]
+  },
   {
    "seq": 17404,
    "date": "2026.11.26",
@@ -896,6 +1008,68 @@ export const MAGAZINE = {
    ]
   },
   {
+   "seq": 17398,
+   "date": "2026.11.24",
+   "title": "과거의 감동, 오케스트라 사운드로 다시 만나다 – 시크릿 가든의 [Secret Symphony]",
+   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17398",
+   "cover": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/d3/91f/imgUrl20261119041745213.png/melon/quality/90/optimize",
+   "blocks": [
+    {
+     "type": "h",
+     "label": "Special",
+     "text": "과거의 감동, 오케스트라 사운드로 다시 만나다 – 시크릿 가든의 [Secret Symphony]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/bf/96e/imgUrl20261119021054972.jpg"
+    },
+    {
+     "type": "p",
+     "text": "음악 감상에 막 들어섰던 어린 시절에는 그야말로 모든 것이 신기하고 아름다웠습니다. 그 시절 처음 만나게 된 음악 중에는 보컬도 없이, 오로지 연주만으로 음악을 만들어 나가는 장르도 있었습니다. 이전부터 상당한 인지도가 있었던 조지 윈스턴(George Winston)이나 야니(Yanni) 같은 음악가는 물론이고, 일본의 유키 구라모토(Yuhki Kuramoto), 프랑스의 앙드레 가뇽(Andre Gagnon) 등 당시에는 '뉴에이지'라는 이름으로 분류되었던 이 음악가들의 음악은 한국에서 특별한 사랑을 받았습니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/5b/216/imgUrl20261119021059607.jpg"
+    },
+    {
+     "type": "p",
+     "text": "프로듀서이자 작곡가로 시크릿 가든의 핵심이라 할 수 있는 롤프 뢰블란(Rolf Lovland), 뢰블란이 만들어낸 음악에 바이올린 선율을 얹는 피오뉼라 셰리(Fionnuala Sherry)가 함께하는 듀오, 시크릿 가든(Secret Garden) 또한 이 시기에 국내에서 대단한 인기를 끌었습니다. 그 당시 비슷한 스타일의 음악을 선보이던 아티스트들과 마찬가지로 시크릿 가든 또한 '한국인들에게 특히 사랑받는 음악가'로 여겨졌습니다. 지금도 듀오를 대표하는 음악으로 그 명성이 굳건한 [Song from a Secret Garden], 그리고 한국에서 남다른 사랑을 받은 'Serenade to Spring' 같은 음악이 그러한 인식을 만드는 데 일조했고요."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/4e/2b9/imgUrl20261119021103937.jpg"
+    },
+    {
+     "type": "p",
+     "text": "그러던 2001년, 국내는 물론 전 세계적으로 시크릿 가든의 인지도를 높인 작품이 나오게 됩니다. 바로 어마어마하다는 묘사로도 그 인기를 설명하기가 역부족인 메가 히트곡, 'You Raise Me Up (Feat. Brian Kennedy)'입니다. 발표 당시에는 그다지 주목받지 못했던 음악은 이후 수많은 아티스트에 의해 리메이크되었고, 그렇게 여기저기서 쌓인 명성은 시크릿 가든의 큰 자산이 되어주었습니다. 유행이라는 것을 신경 쓰지 않고 하던 음악을 계속할 수 있게 만들어준 것이죠.\n\n시크릿 가든의 명곡을 오케스트라 사운드로 – [Secret Symphony]"
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/31/7f6/imgUrl20261119021108193.jpg"
+    },
+    {
+     "type": "p",
+     "text": "1995년 결성 이후 어느덧 활동 30년을 넘긴 시크릿 가든. 이번 가을, 그들은 2027년 1월에 발매될 새 앨범 [Secret Symphony] 소식을 알렸습니다. 제임스 모건(James Morgan)이 지휘하는 로열 필하모닉 오케스트라와 홀스트 싱어스(The Holst Singers)가 함께한 이번 앨범은 앞서 소개한 'Song from a Secret Garden', 'You Raise Me Up'과 'Nocturne', 'In Our Tears'처럼 시크릿 가든이 그간 발표한 음악 중 특별히 인기 있었던 곡을 추려서 새로운 오케스트라 사운드를 입힌 음반입니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/c0/9c0/imgUrl20261119021112859.jpg"
+    },
+    {
+     "type": "p",
+     "text": "사실 이러한 컨셉트의 앨범을 발매하는 것 자체는 오케스트라 음악과는 별다른 관련 없는 아티스트들도 자주 선보일 정도로 그리 특별한 일이 아닙니다. 그리고 시크릿 가든처럼 클래식 음악과 밀접한 관계를 맺어온 아티스트에게 이런 앨범은 다른 의미로 쉽지 않은 도전이기도 합니다. 새롭게 선보인 음악이 다소 아쉽다고 느껴지거나, 심한 경우 원곡만 못하다는 생각이 들 정도로 그 결과물이 기대에 못 미치는 경우도 많기 때문입니다.\n\n하지만 곧 발매될 시크릿 가든의 앨범 [Secret Symphony]에는 이러한 우려를 확실하게 불식시키는 음악이 담겨 있습니다. 핵심은 원곡을 제대로 이해하고 수행한 편곡에서 비롯됩니다. 롤프 뢰블란은 같은 국가 출신의 작곡가이자 편곡가, 에이리크 베르게(Eirik Berge)와의 협업을 통해 과거 발매되었던 음악에 딱 맞는 오케스트라의 옷을 입혀주었습니다. 평소 수없이 들어온 시크릿 가든의 음악에서 이전에는 경험하지 못했던 새로운 감동은 그렇게 조용히 솟아납니다."
+    },
+    {
+     "type": "img",
+     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/fc/b74/imgUrl20261119021118305.jpg"
+    },
+    {
+     "type": "p",
+     "text": "세월이 지나도 그 가치가 바래지 않는 음악, 그리고 그러한 음악을 조금 다른 방식으로 선보여도 고유의 정서를 간직하는 음악이 있다면 그것을 고전이라 부를 수 있겠습니다. 그런 의미에서 시크릿 가든의 이번 앨범 [Secret Symphony]는 듀오의 음악이 어느덧 고전의 반열에 올랐음을 알리는 상징적인 음반으로 기록될 것입니다. 첫인상은 분명히 다르지만 결국에는 시크릿 가든의 음악임이 선명해지는 음악, 언제 어디서나 시크릿 가든이라는 이름으로 기록될 그들의 음악이 2027년 1월, 다시 한번 감동을 전할 것입니다."
+    }
+   ]
+  },
+  {
    "seq": 17390,
    "date": "2026.11.24",
    "title": "'데블스 플랜' 시즌3 참가자들의 본업 모먼트 (스포 없음)",
@@ -1367,323 +1541,6 @@ export const MAGAZINE = {
      "type": "h",
      "label": "From 나연 (TWICE)",
      "text": "To Melon"
-    }
-   ]
-  },
-  {
-   "seq": 17392,
-   "date": "2026.11.20",
-   "title": "Yves (이브), EP [Cute & Anxiety] 공개… '귀여움과 불안 사이, 흐려지는 기억과 터져 나오는 감정에 대한 기록'",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17392",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/cf/e42/20261117171730784.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "Yves (이브), EP [Cute & Anxiety] 공개… '귀여움과 불안 사이, 흐려지는 기억과 터져 나오는 감정에 대한 기록'"
-    },
-    {
-     "type": "p",
-     "text": "안녕하세요, 멜론 가족 여러분!💗 두근두근, Yves (이브)의 다섯 번째 EP [Cute & Anxiety]가 드디어 발매되었어요!! 🎉 귀여움과 불안 사이를 오가는 이번 앨범, 자켓 촬영 현장 비하인드까지 한가득 준비했으니 같이 구경하러 가볼까요? ✨"
-    },
-    {
-     "type": "h",
-     "label": "Album",
-     "text": "Yves (이브) EP [Cute & Anxiety]"
-    },
-    {
-     "type": "album",
-     "src": "https://cdnimg.melon.co.kr/cm2/album/images/151/77/120/15177120_20261118140332.jpg"
-    },
-    {
-     "type": "p",
-     "text": "Yves는 팝, 얼터너티브, 그리고 감성적인 느낌을 한데 모아 자기만의 음악을 만들어 가는 한국의 솔로 아티스트예요! 🎧 자신만의 강력한 목소리로 글로벌 얼터너티브 팝·컬처 씬의 주목을 받으며, 국경을 넘어 영향력을 넓혀 가고 있답니다 🌍💫\n\nYves의 다섯 번째 EP [Cute & Anxiety]는 귀여움과 불안이 맞닿는 모호한 경계, 그리고 그 사이에서 벌어지는 순간들을 담았어요 🎀 외부에서 작용하는 '사랑'과 '에너지', 내면에서 피어나는 '핑계'와 '나쁜 용기'가 서로 얽히고 균형을 이루며 하나의 세계를 만들어 낸답니다 💗\n\n이번 EP에는 먼저 공개된 더블 싱글 'Hysteric'과 'Adam', 그리고 포커스 트랙 'Polaroid'까지 총 다섯 곡이 담겨 있어요! 🎶"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "Track By Track"
-    },
-    {
-     "type": "p",
-     "text": "1. Too Much (feat. AKRIILA)\n'유출된 사진 속 초라한 나, 그리고 '나를 안다고 생각해?'라는 되물음'을 담은 곡이에요! 셀린느 청바지와 재규어의 장면들이 빠르게 스쳐 가고, 장난기 가득한 개러지 록 리듬은 거센 디스토션 속에서 아슬아슬하게 버텨요 🎸 제한속도 30인 도로를 100으로 달리는 후렴처럼, 모든 게 엉망이 된 순간에도 속도를 늦추지 않는 곡이랍니다!\n\n2. Polaroid *title*\n상대는 이미 잊은 듯한 관계를 혼자 되감다 보면, 함께한 장면도 오래된 폴라로이드처럼 흐려져요 🥹 피아노를 중심으로 흐르는 미드템포 트립합은 새벽 세 시, 소파에 앉아 편지를 세어 보는 장면을 따라간답니다 🌙 후반부에 베이스가 거칠게 일그러지는 순간, 흐릿해지던 기억을 한꺼번에 태워버리고 싶은 충동이 와르르 터져 나와요! 🔥\n\n3. Hysteric\n'피드에는 보이는데 전화는 받지 않는 사람에게 건네는 마지막 부탁' 같은 곡이에요 🥺 같은 베이스 리프가 딥하우스 리듬을 끌고 가는 동안, 'Am I hysteric?'이라는 질문이 후렴마다 되돌아온답니다 💭 소리가 한 겹씩 쌓일수록 답을 기다리던 마음은 같은 질문 속에 점점 더 깊이 갇혀 가요!\n\n4. Bat\n새벽의 텅 빈 길에서 익숙한 얼굴의 작은 변화와 지나간 말을 몇 번이고 되짚어요 🌃 밤이면 찾아오는 박쥐는 떨쳐내려 할수록 되돌아오는 불안의 모습이랍니다! 낮게 깔린 앰비언트와 잔잔한 글리치로 시작한 곡은 후렴에서 귀를 콕 찌르는 소리로 터지며, 머릿속에서만 맴돌던 불안을 한꺼번에 쏟아내요 ⚡\n\n5. Adam\n'여전히 쓰고 있는 비밀번호 속, 한때 가까웠던 사람의 생일'을 떠올리는 곡이에요 🔐 작은 케이크 앞에서 소원을 빌던 밤의 온기는 여전히 따뜻하게 남아 있지만, 이제는 서로 안부를 묻기 어려운 사이가 되었답니다 🕯️ 하우스 리듬 위로 반복되던 'You'는 드롭에서 잘게 잘린 보컬로 흩어지며, 문득 돌아온 기억처럼 맴돌아요 💫"
-    },
-    {
-     "type": "h",
-     "label": "Story",
-     "text": "Yves (이브) EP [Cute & Anxiety] 자켓 촬영기"
-    },
-    {
-     "type": "p",
-     "text": "Yves의 자켓 촬영 현장을 멜론 가족 여러분께만 살짝, 단독으로 공개할게요!! 📸💗\n\n이번 촬영은 해체된 비행기 잔해와 낡은 좌석이 놓인 야외에서 진행되었어요 ✈️ 귀여움과 불안처럼 서로 다른 두 감정이 공존하는 앨범답게, 낯설고 거친 풍경 위에 사랑스러운 소품과 착장이 하나둘 더해졌답니다 🎀 강렬한 붉은 머리의 Yves, 먼저 첫 번째 룩부터 만나볼까요? ❤️‍🔥"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/4c/20c/202611171721572845.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/55/21a/202611171722058581.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/de/b42/imgUrl20261123095026303.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/9a/083/202611171722217401.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e9/254/202611171722244653.jpg"
-    },
-    {
-     "type": "p",
-     "text": "모니터 속 컷들을 하나씩 살피며 포즈와 표정을 맞춰 가는 사이, 현장에는 진지함과 장난기가 번갈아 흘렀어요 😆 자갈 위에 누워 카메라를 올려다보기도 하고, 핑크 하운드투스 소파에 기대어 멍하니 먼 곳을 바라보기도 했답니다 🛋️💭"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/26/874/202611171722443733.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a3/180/202611171722498431.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/86/c44/202611171722528041.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f2/20c/202611171722557002.jpg"
-    },
-    {
-     "type": "p",
-     "text": "동선을 옮겨 비행기 동체 아래에서도 촬영이 이어졌어요! 카메라를 또렷하게 바라보는 눈빛부터 시선을 아래로 떨군 고요한 표정까지, 한 룩 안에서도 다채로운 얼굴을 보여준 Yves랍니다 💗"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a6/7cf/202611171722585825.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/74/9cd/202611171723243587.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번에는 룩을 쓱 바꿔서, 블랙 레더 재킷에 보송한 화이트 튤 스커트를 매치했어요 🖤🤍 웨이브 헤어에 가늘게 땋은 머리 포인트도 더했는데, 어떤가요? 너무 사랑스럽죠? ✨"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/resource/image/cds/musicstory/2026/11/f2/e48/imgUrl20261123095106874.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/e0/ea2/202611171723521220.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ea/8ff/202611171723555452.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5e/87e/202611171723586345.jpg"
-    },
-    {
-     "type": "p",
-     "text": "해가 저문 뒤에는 마지막 룩이 이어졌어요 🌙 가죽 벨트를 허리에 둘러 자유로운 느낌을 더하고, 앞머리를 내려 또 한 번 새로운 모습을 보여줬답니다! 어둠이 내려앉은 촬영장에서도 Yves의 셀카 타임은 계속되었어요 🤳 반짝이는 팔찌를 한 손으로 휴대폰을 높이 들고 환하게 웃는 모습, 어떠신가요? 😍💕"
-    },
-    {
-     "type": "p",
-     "text": "아쉽지만 Yves의 다섯 번째 EP 자켓 촬영기는 여기까지예요 🥹 멜론 가족 여러분을 위해 준비한 비하인드 컷, 어떻게 보셨나요? 여러분의 최애 착장은 무엇인가요? 댓글로 꼭 알려주세요! 💌 11월 20일 발매된 Yves의 EP [Cute & Anxiety], 앞으로도 많은 기대와 사랑 부탁드려요!! 💗"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "Yves (이브) 'Polaroid'"
-    },
-    {
-     "type": "h",
-     "label": "Official MV",
-     "text": "Yves (이브) 'Hysteric'"
-    }
-   ]
-  },
-  {
-   "seq": 17391,
-   "date": "2026.11.20",
-   "title": "MMA2026, DAY2 현장 속으로🍈",
-   "url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=17391",
-   "cover": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/a4/228/202611171716268336.jpg/melon/quality/90/optimize",
-   "blocks": [
-    {
-     "type": "h",
-     "label": "Special",
-     "text": "MMA2026, DAY2 현장 속으로🍈"
-    },
-    {
-     "type": "p",
-     "text": "MMA2026! 첫날에 이어 둘째 날에도 눈 뗄 수 없는 무대들이 펼쳐졌습니다. 아티스트의 매력이 돋보이는 퍼포먼스부터 팬들의 뜨거운 환호를 끌어낸 특별한 순간까지. 각자의 방식으로 한 해를 빛낸 아티스트들이 마지막 날을 화려하게 장식했어요. 음악으로 가득했던 축제의 두 번째 날, 그 현장을 함께 만나보시죠!"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "🏆받을 만했던 n관왕, 그리고 매섭게 치고 올라온 신예들"
-    },
-    {
-     "type": "p",
-     "text": "1일 차에 3관왕을 차지했던 방탄소년단은 2일 차에도 3개의 트로피를 받으며 총 6관왕이라는 대기록을 세웠습니다. 특히 올해의 앨범과 올해의 아티스트까지, 대상 2개를 모두 품에 안아 월드 스타의 위상을 다시 한번 증명했어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5b/ea4/202611191704115372.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/45/c9b/202611191704152970.jpg"
-    },
-    {
-     "type": "p",
-     "text": "압도적인 차트 성적과 꾸준한 인기로 독보적인 존재감을 보여준 곡에 주어지는 상, 올해의 베스트송! 영광의 주인공은 IVE (아이브)의 'BANG BANG'이었습니다. 무려 40일간 멜론 일간차트 1위를 지켰으며, IVE (아이브)의 곡 중에서도 최장기간 일간차트 정상에 오른 기록을 세웠는데요. 멜론 주간인기상에서도 4주 연속 1위를 차지하며 그 인기를 확실히 입증했습니다. 숫자만으로도 충분히 설명되는 성과지만, 이날 더욱 인상 깊었던 건 수상 소감이었습니다. 울먹이며 감사의 마음을 전하는 멤버들의 모습에서 그동안 쏟아부은 노력과 간절함이 고스란히 전해졌죠."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/8d/7b8/202611191704366531.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/7d/89d/202611191704479273.jpg"
-    },
-    {
-     "type": "p",
-     "text": "이번 MMA2026에서 5개의 대상이 주어진 가운데, 가장 짧은 연차로 대상 트로피를 거머쥔 팀은 바로 CORTIS (코르티스)입니다. 올해의 레코드 부문을 수상하며 대세라는 수식어에 확실한 방점을 찍었어요. 자신들만의 개성이 돋보이는 자유분방한 기획과 음악으로 올해의 트렌드를 이끌었다고 해도 과언이 아니죠. 데뷔한 지 이제 1년 남짓, 짧은 시간 동안 이뤄낸 성과라는 점에서 더욱 놀랍습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/f9/dd6/202611191705098757.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/3e/6b7/20261119170516847.jpg"
-    },
-    {
-     "type": "p",
-     "text": "신인상은 데뷔 후 단 한 번만 받을 수 있기에 더욱 소중한 상이죠. 한 해 동안 남다른 기세와 잠재력을 보여준 아티스트에게 주어지는 이 상, 올해의 신인 부문에 두 팀이 나란히 영광을 안았습니다. 압도적인 퍼포먼스를 보여준 ALPHA DRIVE ONE (알파드라이브원)과 탄탄한 실력으로 대중과 평단의 찬사를 끌어낸 LNGSHOT이 그 주인공인데요. 신인상으로 확실한 눈도장을 찍은 두 팀! 앞으로 어떤 아티스트로 성장해 나갈지 지켜봐 주세요!"
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "😎무대 위에선 아무도 못 말려! 제대로 놀아버린 세 팀"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/5c/b69/202611191705467459.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/35/cfd/202611191705546807.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b7/4a7/202611191705583609.jpg"
-    },
-    {
-     "type": "p",
-     "text": "손가락으로 만든 총을 겨눈 채 등장한 네 소녀! 아일릿(ILLIT)이 커다란 무대를 단숨에 장악하며 흥을 끌어올렸습니다. '체포하겠어'와 'It's Me'가 울려 퍼지자, 객석도 금세 들썩였는데요. 가만히 앉아 있기엔 너무나 신나는 선곡이었죠. 아일릿(ILLIT)은 무대 중간 출연진석으로 깜짝 이동해 현장의 열기를 한층 더 달궜습니다. 특히 'It's Me!'라는 소절이 끝나기가 무섭게 출연진들이 자리에서 일어나 춤을 따라 추기 시작했는데요. 무대와 객석의 경계가 사라진 순간, 그야말로 모두가 하나 되어 즐기는 축제의 장이었습니다."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/b8/708/202611191706326392.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/49/a2a/202611191706422773.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/2b/c33/202611191706476400.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c8/147/202611191706549937.jpg"
-    },
-    {
-     "type": "p",
-     "text": "CORTIS (코르티스)는 MMA2026 무대를 마치 자신들의 단독 콘서트장처럼 누비며 압도적인 에너지를 뿜어냈습니다. 대규모 댄스 크루 없이 오직 다섯 멤버만으로 무대를 채웠는데요. 광활한 고척돔이 좁게 느껴질 만큼 넘치는 에너지는 현장은 물론 화면 너머까지 그대로 전해졌습니다. 그 뜨거운 반응을 증명하듯 멜론 공식 유튜브 채널에 공개된 직후 470만 회 이상의 조회수를 기록했고, MMA2026 관련 영상 중 조회수 1위에 오르기도 했죠.\n\n무대 곳곳에 숨겨진 재미도 놓칠 수 없었습니다. MMA 오브제의 'A'를 'M'으로 바꾼 재치 있는 연출로 'MONEYMONEYMONEY'를 선보이며 시작부터 시선을 끌었는데요. 여기에 차세대 K-POP 애국가가 될 것만 같은 'REDRED', 2026년의 밈과 유행어를 탄생시킨 'YOUNGCREATORCREW'까지! 한 곡 한 곡마다 개성과 에너지를 아낌없이 쏟아내며 관객들과 제대로 호흡했습니다. 무대도, 반응도 뜨거웠던 순간이었어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/48/a4d/202611191707236114.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/07/827/202611191707263439.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/ee/11e/202611191707296049.jpg"
-    },
-    {
-     "type": "p",
-     "text": "MMA2026의 대미, NCT 127의 무대도 빼놓을 수 없겠죠? 카운트다운과 함께 2017년 발표한 'Cherry Bomb'으로 화려한 포문을 열었습니다. 이어 '영웅 (英雄; Kick It)', 'Piñata', 'Blingy'까지 쉴 틈 없이 쏟아진 히트곡으로 현장을 후끈 달아오르게 했죠. 오차 없는 칼군무와 한 치의 흐트러짐 없는 퍼포먼스는 그야말로 K-POP 무대의 정수를 보여주었습니다. '역시 NCT 127'이라는 감탄이 절로 나오는 피날레로 MMA2026의 마지막 페이지를 화려하게 장식했어요."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "🎼귀 호강 제대로, MMA 한정 고능한 편곡"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/91/ec0/202611191708051166.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/93/184/202611191708096033.jpg"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/c8/831/202611191708134511.jpg"
-    },
-    {
-     "type": "p",
-     "text": "IVE (아이브)가 무대에 등장하자마자 다이브들은 입틀막(?) 했을지도 모릅니다. 인트로 음악으로 무려 'DEAR. CUPID'를 꺼내 들었기 때문이죠. 'DEAR. CUPID'는 'LOVE DIVE' 프로모션 비디오에 삽입됐던 곡으로, 팬들 사이에서 음원 발매 요청이 끊이지 않았던 음악인데요. 그런 곡을 4년 만에 다시 소환한 것도 모자라 퍼포먼스까지 선보이다니! 팬들의 오랜 바람을 MMA2026에서 제대로 이뤄준 셈이죠. 이 맛에 연말 무대를 기다리는 것 아닐까요?"
-    },
-    {
-     "type": "p",
-     "text": "한국적인 멋을 살린 무대는 언제 봐도 반갑죠. 이번 MMA2026에서 국악풍 선율을 들려준 아티스트는 다름 아닌 PLAVE! 궁을 배경으로 우아한 도포를 차려입고 부채를 들며 'Watch Me Woo!'를 한국적인 색채로 새롭게 편곡해 선보였습니다. 팬들 사이에서는 '국악 버전은 후손을 위해 문화유산으로 남겨야 한다'라는 찬사가 쏟아졌어요.\n\n그런데 PLAVE의 깜짝선물은 여기서 끝이 아니었습니다. 공연 말미, RIIZE와 함께 차원을 넘어선 컬래버레이션을 예고한 것인데요. 두 그룹이 함께한 '로우키(Lowkey)'의 발매 소식이 전광판 티저 영상을 통해 공개되자 객석에서는 놀라움과 함성이 터져 나왔습니다. 예상치 못한 만남으로 두 팬덤의 심장을 제대로 뒤흔들어 놓았죠."
-    },
-    {
-     "type": "h",
-     "label": "",
-     "text": "💓긴장감을 사르르 녹이는 달달한 시상자 케미"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/50/341/202611191709104939.jpg"
-    },
-    {
-     "type": "p",
-     "text": "대상 시상을 위해 MMA2026을 찾은 배우 변요한과 Tiffany Young. 부부로서 공식 석상에 함께 오른 건 이번이 처음이라고 하는데요. 수상 발표를 앞둔 긴장된 순간에도 서로를 향한 애정이 묻어나는 멘트를 주고받으며 현장 분위기를 달달하게 만들었습니다. 오죽하면 '시상하러 와서 연애한다'는 댓글까지 등장했을까요? 트로피만큼이나 두 사람의 알콩달콩한 케미가 빛났던 순간이었습니다!"
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/44/824/20261119170924273.jpg"
-    },
-    {
-     "type": "p",
-     "text": "대세 개그맨 곽범과 이창호가 나란히 시상자로 무대에 올랐습니다. 사실 두 사람은 부캐 매드몬스터 (MAD MONSTER)로 활동한 전적(?)이 있는데요. 오랜만에 한자리에 모인 두 사람의 등장만으로도 현장엔 웃음꽃이 피었습니다. 능청스러운 입담과 찰떡 호흡으로 시상하러 왔다가 웃음까지 챙겨갔어요."
-    },
-    {
-     "type": "img",
-     "src": "https://cdnimg.melon.co.kr/svc/images/musicstory/2026/11/55/961/202611191709446022.jpg"
-    },
-    {
-     "type": "p",
-     "text": "스트리머 감스트와 방송인 조나단도 시상자로 무대에 올랐습니다. 얼핏 보면 의외의 조합 같지만, 사실 두 사람은 과거 함께 콘텐츠를 진행하며 검증된 케미를 보여준 사이인데요. 워낙 입담과 순발력이 남다른 두 사람답게 첫 시상 무대에서도 어색함은 찾아볼 수 없었습니다. 처음이라는 말이 무색할 만큼 자연스러운 진행으로 현장에 유쾌한 웃음을 더했죠."
-    },
-    {
-     "type": "p",
-     "text": "MMA2026의 마지막 순간까지 함께해 주셨는데요! 이틀 동안 이어진 축제는 수많은 명장면과 함께 오래도록 기억에 남을 것 같습니다. 아티스트와 팬들이 함께 완성한 특별한 순간들, 여러분의 마음속에는 어떤 장면이 가장 오래 남았나요? 뜨거웠던 MMA2026의 여운을 간직하며, 우리는 다음 MMA에서 다시 만나요🎵"
     }
    ]
   }
